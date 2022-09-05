@@ -1,0 +1,10 @@
+- Where are the materials from?
+- Pollution levels in production and transportation.
+- Limiting finite resources in the selection of materials.
+- The 6 Rs:
+	- Rethink
+	- Reduce
+	- Reuse
+	- Repair
+	- Recycle
+	- Refuse

@@ -1,6 +1,6 @@
 [{:block/name "05-09-2022",
   :block/created-at 1662394069180,
-  :block/updated-at 1662394069180}
+  :block/updated-at 1662408052499}
  {:block/name "a",
   :block/created-at 1662393208987,
   :block/updated-at 1662393208987}
@@ -19,9 +19,18 @@
  {:block/name "card",
   :block/created-at 1662396336438,
   :block/updated-at 1662396336438}
- {:block/name "contents",
-  :block/created-at 1662396336438,
-  :block/updated-at 1662396336438}
+ {:block/name "charge & current",
+  :block/created-at 1662407404092,
+  :block/updated-at 1662407448590}
+ {:block/name "cost & availability",
+  :block/created-at 1662407327266,
+  :block/updated-at 1662407327456}
+ {:block/name "current & drift velocity",
+  :block/created-at 1662407400735,
+  :block/updated-at 1662407400787}
+ {:block/name "description",
+  :block/created-at 1662407535429,
+  :block/updated-at 1662407535429}
  {:block/name "design engineering",
   :block/created-at 1662393320292,
   :block/updated-at 1662393556813}
@@ -33,28 +42,49 @@
   :block/updated-at 1662393208987}
  {:block/name "electricity",
   :block/created-at 1662392079850,
-  :block/updated-at 1662396235577}
+  :block/updated-at 1662407404502}
+ {:block/name "electricity gcse recap",
+  :block/created-at 1662407397445,
+  :block/updated-at 1662407397894}
+ {:block/name "environmental considerations",
+  :block/created-at 1662407324453,
+  :block/updated-at 1662407324615}
  {:block/name "favorites",
   :block/created-at 1662396336438,
   :block/updated-at 1662396336438}
+ {:block/name "function & aesthetics",
+  :block/created-at 1662407335118,
+  :block/updated-at 1662407473151}
+ {:block/name "homework",
+  :block/created-at 1662407448589,
+  :block/updated-at 1662407448589}
  {:block/name "in-progress",
   :block/created-at 1662393208987,
   :block/updated-at 1662393208987}
+ {:block/name "label",
+  :block/created-at 1662408039425,
+  :block/updated-at 1662408039425}
  {:block/name "later",
   :block/created-at 1662393208987,
   :block/updated-at 1662393208987}
  {:block/name "material and component considerations",
   :block/created-at 1662393301492,
-  :block/updated-at 1662393915789}
+  :block/updated-at 1662407480953}
+ {:block/name "material terms",
+  :block/created-at 1662407320601,
+  :block/updated-at 1662407320725}
  {:block/name "now",
   :block/created-at 1662393208987,
   :block/updated-at 1662393208987}
  {:block/name "physics",
   :block/created-at 1662393192422,
   :block/updated-at 1662393192422}
- {:block/name "sep 5th, 2022",
-  :block/created-at 1662391985955,
-  :block/updated-at 1662391985955}
+ {:block/name "properties & characteristics",
+  :block/created-at 1662407330073,
+  :block/updated-at 1662407330179}
+ {:block/name "school",
+  :block/created-at 1662407535371,
+  :block/updated-at 1662407535371}
  {:block/name "todo",
   :block/created-at 1662393208987,
   :block/updated-at 1662393208987}
