@@ -56,3 +56,28 @@
 		- ![Electrons relating to A, C and I.png](../assets/Electrons_relating_to_A,_C_and_I_1662393047839_0.png)
 		- ![Electrons passing through an electric field.png](../assets/Electrons_passing_through_an_electric_field_1662393058140_0.png)
 		- Electrons are our charge carriers in electric circuits. They have a charge of $-1.6*10^{-19}C$. For example, when *charging* the Van de Graff generator for 10s, it gained a charge of $304 nC$. We can divide the charge by the magnitude of one electron, and then divide that by the time taken to get the number of electrons that were transferred to the Van de Graff generator: $1.9*10^{12}$.
+- Charge & Current Hw
+	- Charge
+		- Measured in Coulombs. ?
+	- Charge Density
+		- ?
+	- Current
+		- The flow of negative electrons through a conductor. It is measured in Amps.
+	- Voltage / Potential Difference
+		- Voltage is a measure of the difference in electrical energy between two parts of a circuit. It is measured in Volts.
+	- Electromotive Force
+		- The amount of energy delivered per unit electric charge from a battery. It is measured in Volts.
+	- Power
+		- Also known as Radiant Flux. It is used for the rate of energy transfer. It is measured in Watts.
+	- Electron
+		- A subatomic particle with one elementary negative charge.
+	- Volt
+		- One volt is defined as the electrical potential between two points of a conducting wire when an electric current of one ampere dissipates one watt of power between those points.
+	- Coulomb
+		- It is defined as the amount of charge delivered by one amp of current in one second.
+	- Ampere
+		- Originally, it was defined as the current that would need to pass through 2 parallel wires 1 metre apart to produce a magnetic force of $2*10^{-7}$ N/m. Now it has been defined with decimal precision.
+	- Watt
+		- It is defined as the power from 1 Joule per second.
+	- Joule
+		- It is defined as the work done when a force of 1N displaces a mass through a distance of 1m in the direction of the force applied.
