@@ -1,10 +1,4 @@
-[{:block/name "05-09-2022",
-  :block/created-at 1662414143741,
-  :block/updated-at 1662414143741}
- {:block/name "06-09-2022",
-  :block/created-at 1662445345987,
-  :block/updated-at 1662483252849}
- {:block/name "a",
+[{:block/name "a",
   :block/created-at 1662393208987,
   :block/updated-at 1662393208987}
  {:block/name "b",
@@ -24,7 +18,7 @@
   :block/updated-at 1662396336438}
  {:block/name "charge & current",
   :block/created-at 1662459607927,
-  :block/updated-at 1662459607927}
+  :block/updated-at 1662498764785}
  {:block/name "coltan in mobile phones",
   :block/created-at 1662459941752,
   :block/updated-at 1662462325683}
@@ -34,12 +28,12 @@
  {:block/name "cost & availability",
   :block/created-at 1662459608049,
   :block/updated-at 1662459608049}
+ {:block/name "critical analysis of billiard balls",
+  :block/created-at 1662489109799,
+  :block/updated-at 1662490660697}
  {:block/name "current & drift velocity",
   :block/created-at 1662459608081,
-  :block/updated-at 1662488833581}
- {:block/name "description",
-  :block/created-at 1662407535429,
-  :block/updated-at 1662407535429}
+  :block/updated-at 1662498494083}
  {:block/name "design engineering",
   :block/created-at 1662393320292,
   :block/updated-at 1662393556813}
@@ -51,13 +45,13 @@
   :block/updated-at 1662393208987}
  {:block/name "electricity",
   :block/created-at 1662392079850,
-  :block/updated-at 1662407404502}
+  :block/updated-at 1662489567757}
  {:block/name "electricity gcse recap",
   :block/created-at 1662459608143,
   :block/updated-at 1662459608143}
  {:block/name "environmental considerations",
   :block/created-at 1662459608244,
-  :block/updated-at 1662459608244}
+  :block/updated-at 1662498695060}
  {:block/name "favorites",
   :block/created-at 1662396336438,
   :block/updated-at 1662396336438}
@@ -69,7 +63,7 @@
   :block/updated-at 1662459608334}
  {:block/name "function & aesthetics",
   :block/created-at 1662459608277,
-  :block/updated-at 1662459608277}
+  :block/updated-at 1662498687695}
  {:block/name "hls__fx-9860giii_soft_v340_en_1662409117444_0",
   :block/created-at 1662459608332,
   :block/updated-at 1662459608332}
@@ -84,7 +78,7 @@
   :block/updated-at 1662393208987}
  {:block/name "material and component considerations",
   :block/created-at 1662393301492,
-  :block/updated-at 1662462355148}
+  :block/updated-at 1662489109799}
  {:block/name "material selection graphs",
   :block/created-at 1662462355147,
   :block/updated-at 1662463822277}
@@ -115,18 +109,18 @@
  {:block/name "reference",
   :block/created-at 1662460140241,
   :block/updated-at 1662460140241}
- {:block/name "school",
-  :block/created-at 1662407535371,
-  :block/updated-at 1662407535371}
  {:block/name "social, cultural & ethical",
   :block/created-at 1662459762308,
   :block/updated-at 1662459941753}
  {:block/name "todo",
   :block/created-at 1662393208987,
   :block/updated-at 1662393208987}
+ {:block/name "tue, 06-09-2022",
+  :block/created-at 1662489638944,
+  :block/updated-at 1662492187991}
  {:block/name "uncertainty",
   :block/created-at 1662470482346,
-  :block/updated-at 1662470605182}
+  :block/updated-at 1662498607168}
  {:block/name "wait",
   :block/created-at 1662393208987,
   :block/updated-at 1662393208987}
