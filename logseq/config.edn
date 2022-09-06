@@ -282,8 +282,9 @@
 
  ;; Ignore these files when syncing, regexp is supported.
  :file-sync/ignore-files [".DS_Store$"]
- :journal/page-title-format "dd-MM-yyyy"
+ :journal/page-title-format "E, dd-MM-yyyy"
  :graph/settings {:builtin-pages? true, :journal? false, :orphan-pages? true}
+ :publishing/all-pages-public? true
 
  ;; dwim (do what I mean) for Enter key when editing.
  ;; Context-awareness of Enter key makes editing more easily
