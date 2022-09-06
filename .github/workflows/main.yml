@@ -1,35 +1,28 @@
-# This is a basic workflow to help you get started with Actions
-
 name: CI
 
 on:
+  push:
+    branches: [main]
+
+  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-    inputs:
-      tag:
-        description: "Logseq branch/tag"
-        default: "master"
-        required: true
-        type: string
-      publish_tag:
-        description: "Tag of ghcr.io/pengx17/logseq-publish"
-        required: false
-        type: string
 
 jobs:
-  build-and-publish:
-    # The type of runner that the job will run on
+  build:
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    - uses: actions/checkout@v2
-    - name: Logseq Publish 🚩
-      uses: pengx17/logseq-publish@v0.1
-    - name: add a nojekyll file # to make sure asset paths are correctly identified
-      run: touch $GITHUB_WORKSPACE/www/.nojekyll
-    - name: Deploy 🚀
-      uses: JamesIves/github-pages-deploy-action@4.1.9
-      with:
-        branch: gh-pages # The branch the action should deploy to.
-        folder: www # The folder the action should deploy.
-        clean: true
+      - uses: actions/checkout@v2
+      - name: Logseq Publish 🚩
+        uses: pengx17/logseq-publish@main
+        with:
+          version: "master"
+      - name: add a nojekyll file
+        run: touch $GITHUB_WORKSPACE/www/.nojekyll
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages # The branch the action should deploy to.
+          folder: www # The folder the action should deploy.
+          clean: true
+          single-commit: true
