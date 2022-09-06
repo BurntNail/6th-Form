@@ -1,0 +1,3 @@
+- Make sure to use the correct units.
+- Make sure to use enough precision, and account for rounding errors, especially with digital instruments.
+- [[Uncertainty]]
