@@ -2,11 +2,29 @@
 - Make sure to always use the same number of decimal places.
 - Uncertainty of Multiple Measurements
 	- Addition or Subtraction - $A+B$ #card
-		- Add the uncertainties
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.36
+	  card-next-schedule:: 2022-09-11T12:18:21.894Z
+	  card-last-reviewed:: 2022-09-07T12:18:21.895Z
+	  card-last-score:: 3
+		- Add the Absolute uncertainties
 	- Multiplication or Divison - $A*B$ #card
-		- Add the percentage uncertanties
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2022-09-11T12:18:25.141Z
+	  card-last-reviewed:: 2022-09-07T12:18:25.142Z
+	  card-last-score:: 5
+		- Add the Relative uncertainties
 	- Powers - ($A^n$) #card
-		- Multiply the percentage uncertainty by the power.
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2022-09-11T12:18:27.396Z
+	  card-last-reviewed:: 2022-09-07T12:18:27.396Z
+	  card-last-score:: 5
+		- Multiply the Relative uncertainty by the power.
 - Example Data Table
 	- |Ball No|Mass (± 0.01g)|Diameter (± 0.1mm) A|Diameter B|Diamater C|Diameter D|Diameter E|
 	  |--|--|--|--|--|--|--|
