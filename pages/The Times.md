@@ -1,0 +1,2 @@
+- #articles
+- [https://www.thetimes.co.uk/article/thousands-of-tonnes-of-plastic-recycling-are-secretly-burnt-for-fuel-t6qsfdvj5](Burning Plastic)
