@@ -1,9 +1,6 @@
 [{:block/name "a",
   :block/created-at 1662393208987,
   :block/updated-at 1662393208987}
- {:block/name "absolute uncertainty",
-  :block/created-at 1662581290833,
-  :block/updated-at 1662581395989}
  {:block/name "articles",
   :block/created-at 1662553723362,
   :block/updated-at 1662553723362}
@@ -43,9 +40,6 @@
  {:block/name "current & drift velocity",
   :block/created-at 1662459608081,
   :block/updated-at 1662553116029}
- {:block/name "density of a cube uncertainty example",
-  :block/created-at 1662581290674,
-  :block/updated-at 1662581379791}
  {:block/name "design engineering",
   :block/created-at 1662393320292,
   :block/updated-at 1662393556813}
@@ -102,7 +96,7 @@
   :block/updated-at 1662459608416}
  {:block/name "measurements",
   :block/created-at 1662470209447,
-  :block/updated-at 1662581479279}
+  :block/updated-at 1662470665944}
  {:block/name "now",
   :block/created-at 1662393208987,
   :block/updated-at 1662393208987}
@@ -121,9 +115,6 @@
  {:block/name "reference",
   :block/created-at 1662460140241,
   :block/updated-at 1662460140241}
- {:block/name "relative uncertainty",
-  :block/created-at 1662581290829,
-  :block/updated-at 1662581704645}
  {:block/name "social, cultural & ethical",
   :block/created-at 1662459762308,
   :block/updated-at 1662459941753}
@@ -139,9 +130,6 @@
  {:block/name "tue, 06-09-2022",
   :block/created-at 1662553059227,
   :block/updated-at 1662553059227}
- {:block/name "uc",
-  :block/created-at 1662581291282,
-  :block/updated-at 1662581291282}
  {:block/name "uncertainty",
   :block/created-at 1662470482346,
   :block/updated-at 1662553180534}

@@ -1,3 +1,7 @@
+alias:: UC
+
+- Uncertainty #card
+	- Refers to how precise a given measurement is, with error amount.
 - Usually use ± 1 of the smallest units - eg. $1.537 ± 0.001g$ or $1.2 ± 0.1g$
 - Make sure to always use the same number of decimal places.
 - Uncertainty of Multiple Measurements

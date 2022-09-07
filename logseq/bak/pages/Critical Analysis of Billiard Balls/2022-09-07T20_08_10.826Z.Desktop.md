@@ -1,0 +1,20 @@
+- #Homework
+- TODO Finish A3 Poster of Critical Analysis
+  DEADLINE: <2022-09-12 Mon>
+- Actual Poster on [Canva](https://www.canva.com/)
+- References:
+	- [Wikipedia](https://en.wikipedia.org/wiki/Billiard_ball)
+- History of Materials:
+	- The earliest Billiard Balls were created using wood and clay (although clay remained in use until even the 20th century).
+	- The original affordable balls were made of Ox bones, and although they were in common use in Europe, Elephant Ivory was favoured until the early 20th century.
+	- Eventually, in 1869 John Wesley Hyatt invented a material called nitrocellulose, branded Celluloid in 1870, one of the very first plastics.
+	- Soon after, other materials were developed to increase the longevity of the plastic, like Bakelite and Acrylic.
+	- Nowadays, lots of plastics and resins are used which are strongly resistant to cracking and chipping, like [Saluc](https://www.saluc.com/index.html) who manufacture the famous [Aramith Billiard Balls](https://www.aramith.com/) which use Phenolic Resin.
+- Ivory Balls
+	- The earliest known reference to Ivory Billiard Balls is in the 1588 inventory of the Duke of Norfolk.
+	- Dyed and numbered versions first appeared around the early 1770s.
+	- Unfortunately, no more than 8 billiard balls can be made per one elephant's tusks. This means that at least two elephants would have needed to die per set, leading to a large poaching problem with elephants becoming endangered.
+	- There were Ivory substitutes like the earlier mentioned Ox bone, Clay and Wood balls, as well as faux Ivory materials like Sorel Cement, but these weren't as popular.
+	- However, a New York supplier asked for an alternative for a $10,000 prize, now worth over $200,000.
+- Plastics
+	-
