@@ -1,1 +1,3 @@
 - ![fx-9860GIII_Soft_v340_EN.pdf](../assets/fx-9860GIII_Soft_v340_EN_1662409117444_0.pdf)
+- [PerpBi.py](../assets/PerpBi_1662648533129_0.py)
+- [EqOfLine.py](../assets/EqOfLine_1662648538756_0.py)
