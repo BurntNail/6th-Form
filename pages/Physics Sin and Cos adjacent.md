@@ -1,0 +1,1 @@
+- ![cos and sin-jacent.png](../assets/cos_and_sin-jacent_1662650070569_0.png)

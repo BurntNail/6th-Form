@@ -1,0 +1,2 @@
+- [XKCD Chart](https://xkcd.com/radiation/)
+- [BED](https://en.wikipedia.org/wiki/Banana_equivalent_dose)

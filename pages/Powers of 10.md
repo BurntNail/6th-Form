@@ -1,4 +1,10 @@
-- [PO10 Image](../assets/blob_https_kingsschool.sharepoint.com_2e580557-2719-4924-b8a2-d29819b0868c_1662471073483_0.URL)
+- [[SI Prefixes]]
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2022-09-12T08:17:09.723Z
+  card-last-reviewed:: 2022-09-08T08:17:09.723Z
+  card-last-score:: 5
 - Examples:
 	- [Carykh Powers of 10](https://htwins.net/scale2/)
 	- {{video https://www.youtube.com/watch?v=0fKBhvDjuy0}}

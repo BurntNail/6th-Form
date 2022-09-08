@@ -14,6 +14,12 @@
 	- Density = $5.33 + 0.185 = 5.52\%$
 - [[Absolute Uncertainty]] for Density = $5.52\% * 2.81 = 0.155g$
 - Final Uncertainty Format #card
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2022-09-12T08:17:01.958Z
+  card-last-reviewed:: 2022-09-08T08:17:01.959Z
+  card-last-score:: 5
 	- Use [[Absolute Uncertainty]]
 	- One significant figure for the uncertainty figure.
 	- Round the base value to the same number of decimal places as the uncertainty figure.

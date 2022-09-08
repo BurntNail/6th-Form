@@ -1,5 +1,5 @@
 - #Homework
-- TODO Finish A3 Poster of Critical Analysis
+- DONE Finish A3 Poster of Critical Analysis
   DEADLINE: <2022-09-12 Mon>
 - Actual Poster on [Canva](https://www.canva.com/)
 - References:
