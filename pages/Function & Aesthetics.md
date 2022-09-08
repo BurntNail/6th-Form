@@ -1,10 +1,10 @@
 - Functional Performance #card
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2022-09-07T23:00:00.000Z
-  card-last-reviewed:: 2022-09-07T10:11:00.398Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2022-09-12T08:17:12.970Z
+  card-last-reviewed:: 2022-09-08T08:17:12.970Z
+  card-last-score:: 3
   collapsed:: true
 	- Refers to how it actually works and performs, eg. weight, durability, elasticity.
 	- Every product will have a crucial criteria, usually established during the development stage, that the material selection will usually depend on.
