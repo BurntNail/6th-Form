@@ -1,0 +1,5 @@
+- Small Scatter #card
+	- Reliable Data
+	- eg. 5 plots $< \pm 5mm$ of the line
+- Some Scatter #card
+	- Unreliable Data
