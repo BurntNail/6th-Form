@@ -2,6 +2,7 @@
 - Topics:
 	- [[Electricity GCSE Recap]]
 	- [[Current & Drift Velocity]]
+	- [[Resistance]]
 -
 - Homeworks:
 	- [[Charge & Current]]
