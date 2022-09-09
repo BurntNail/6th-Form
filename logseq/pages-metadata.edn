@@ -63,7 +63,7 @@
   :block/updated-at 1662393208987}
  {:block/name "electricity",
   :block/created-at 1662392079850,
-  :block/updated-at 1662489567757}
+  :block/updated-at 1662723361439}
  {:block/name "electricity gcse recap",
   :block/created-at 1662459608143,
   :block/updated-at 1662459608143}
@@ -153,7 +153,7 @@
   :block/updated-at 1662393208987}
  {:block/name "physics",
   :block/created-at 1662393192422,
-  :block/updated-at 1662393192422}
+  :block/updated-at 1662724183850}
  {:block/name "physics 2d problems",
   :block/created-at 1662653928036,
   :block/updated-at 1662653928036}
@@ -181,6 +181,18 @@
  {:block/name "reliability of data",
   :block/created-at 1662714023665,
   :block/updated-at 1662714202690}
+ {:block/name "resistance",
+  :block/created-at 1662723361438,
+  :block/updated-at 1662725099995}
+ {:block/name "resistance example question",
+  :block/created-at 1662724510395,
+  :block/updated-at 1662724694631}
+ {:block/name "resistance in parallel",
+  :block/created-at 1662723960738,
+  :block/updated-at 1662724338082}
+ {:block/name "resistance in series",
+  :block/created-at 1662723954689,
+  :block/updated-at 1662724323799}
  {:block/name "second",
   :block/created-at 1662653928335,
   :block/updated-at 1662653928335}
