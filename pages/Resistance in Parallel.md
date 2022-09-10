@@ -4,3 +4,4 @@
 - Photo:
   collapsed:: true
 	- ![Parallel Resistance.png](../assets/Parallel_Resistance_1662724299564_0.png)
+- Also see [Calculator Program](https://github.com/Epacnoss/calculator-programs/blob/main/ParaResist.py)
