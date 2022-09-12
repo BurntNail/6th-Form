@@ -1,0 +1,3 @@
+- Origin #card
+	- Native through Europe & Canada.
+	- Grows in lowlands and mountainous regions.

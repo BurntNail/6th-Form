@@ -1,7 +1,8 @@
-- #Homework
+- #Homework, #[[DE 8 Markers]]
+- > Discuss, using examples that you are familiar with, how ethical, sustainability and social issues can be considered in the design of a product.
+-
 - DONE Finish A3 Poster of Critical Analysis
   DEADLINE: <2022-09-12 Mon>
-- Actual Poster on [Canva](https://www.canva.com/)
 - References:
 	- [Wikipedia](https://en.wikipedia.org/wiki/Billiard_ball)
 	- [Recycling](https://www.bbc.co.uk/news/science-environment-49827945)

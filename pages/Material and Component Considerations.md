@@ -8,6 +8,9 @@
 	- [[Function & Aesthetics]]
 	- [[Social, Cultural & Ethical]]
 	- [[Material Selection Graphs]]
+- DE Material Groups:
+	- [[Timbers]]
+	-
 -
 - Homeworks:
 	- [[Critical Analysis of Billiard Balls]]
