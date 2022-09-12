@@ -1,19 +1,19 @@
 - Equation Flashcards
 	- Ohm's Law #card
 	  card-last-interval:: 4
-	  card-repeats:: 1
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2022-09-10T21:07:25.172Z
-	  card-last-reviewed:: 2022-09-06T21:07:25.172Z
-	  card-last-score:: 5
+	  card-repeats:: 2
+	  card-ease-factor:: 2.46
+	  card-next-schedule:: 2022-09-16T14:04:47.359Z
+	  card-last-reviewed:: 2022-09-12T14:04:47.360Z
+	  card-last-score:: 3
 		- $V = \frac{E}{Q}$
 	- Current #card
 	  card-last-interval:: 4
-	  card-repeats:: 1
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2022-09-10T21:07:29.490Z
-	  card-last-reviewed:: 2022-09-06T21:07:29.490Z
-	  card-last-score:: 5
+	  card-repeats:: 2
+	  card-ease-factor:: 2.46
+	  card-next-schedule:: 2022-09-16T14:04:51.273Z
+	  card-last-reviewed:: 2022-09-12T14:04:51.274Z
+	  card-last-score:: 3
 		- $I = \frac{\Delta Q}{\Delta t}$
 	- Voltage #card
 	  card-last-interval:: 4
