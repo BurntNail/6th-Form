@@ -1,3 +1,12 @@
 - Origin #card
 	- Native through Europe & Canada.
 	- Grows in lowlands and mountainous regions.
+- Description #card
+	- Straight-grained with thin and regular texture.
+	- Resin canals are rather common.
+	- Not very susceptible to shrinkage and when dried remains stable.
+- Physical Characteristics #card
+	- Soft, low in weight compared to other [[Common Woods]], medium density.
+	- Good strength and elasticity.
+- Typical Uses #card
+	- Structural - Indoors and Outdoors.

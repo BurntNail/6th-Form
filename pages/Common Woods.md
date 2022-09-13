@@ -5,3 +5,4 @@
 - Softwoods
 	- [[Pine]]
 	- [[Spruce]]
+	- [[Fir]]
