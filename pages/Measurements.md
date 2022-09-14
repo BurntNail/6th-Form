@@ -2,6 +2,7 @@
 - Make sure to use enough precision, and account for rounding errors, especially with digital instruments.
 - [[Uncertainty]]
 	- [[Density of a Cube Uncertainty Example]]
+	- [[Density of a Cube Uncertainty With Callipers]]
 - Reading #card
   id:: 6318faae-13b3-4b31-a88e-62bb01ea199d
   card-last-interval:: 4
