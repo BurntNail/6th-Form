@@ -67,6 +67,9 @@
  {:block/name "design engineering",
   :block/created-at 1662393320292,
   :block/updated-at 1662993554927}
+ {:block/name "dimensional analysis",
+  :block/created-at 1663159402015,
+  :block/updated-at 1663230594303}
  {:block/name "doing",
   :block/created-at 1662393208987,
   :block/updated-at 1662393208987}
@@ -186,7 +189,7 @@
   :block/updated-at 1662653928166}
  {:block/name "physics skills",
   :block/created-at 1662470650342,
-  :block/updated-at 1662624679110}
+  :block/updated-at 1663159402018}
  {:block/name "pine",
   :block/created-at 1662994714229,
   :block/updated-at 1662994870639}
@@ -262,6 +265,9 @@
  {:block/name "thu, 08-09-2022",
   :block/created-at 1662624630692,
   :block/updated-at 1662713996790}
+ {:block/name "thu, 15-09-2022",
+  :block/created-at 1663230574670,
+  :block/updated-at 1663230574670}
  {:block/name "timbers",
   :block/created-at 1662993607166,
   :block/updated-at 1662994571858}
@@ -285,7 +291,7 @@
   :block/updated-at 1662653928412}
  {:block/name "uncertainty in graphs",
   :block/created-at 1662714432086,
-  :block/updated-at 1662715020683}
+  :block/updated-at 1663230671271}
  {:block/name "wait",
   :block/created-at 1662393208987,
   :block/updated-at 1662393208987}
@@ -293,5 +299,8 @@
   :block/created-at 1662393208987,
   :block/updated-at 1662393208987}
  {:block/name "wed, 07-09-2022",
-  :block/created-at 1662536694478, 
-  :block/updated-at 1662624638692}]
+  :block/created-at 1662536694478,
+  :block/updated-at 1662624638692}
+ {:block/name "wed, 14-09-2022",
+  :block/created-at 1663159385467, 
+  :block/updated-at 1663159385467}]
