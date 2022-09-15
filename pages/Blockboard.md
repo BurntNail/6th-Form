@@ -1,0 +1,2 @@
+- Core of parallel battens, veneers on Top/Bottom.
+- Used for load-bearing shelves.

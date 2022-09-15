@@ -1,0 +1,2 @@
+- Thin veneers, glued at right angles, always an odd number.
+- Alternating grains ensure similar structural properties.
