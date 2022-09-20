@@ -1,8 +1,9 @@
-- Hardwoods
-	- [[Oak]]
-	- [[Beech]]
-	- [[Teak]]
-- Softwoods
-	- [[Pine]]
-	- [[Spruce]]
-	- [[Fir]]
+# Hardwoods
+ - [[Oak]]
+ - [[Beech]]
+ - [[Teak]]
+
+# Softwoods
+ - [[Pine]]
+ - [[Spruce]]
+ - [[Fir]]

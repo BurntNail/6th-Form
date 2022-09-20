@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Design Engineering/Material Considerations/Material Groups/Metals/Brass.md",
+            "file": "Design Engineering/Material Considerations/Material Groups/Plastics/High Density Polyethylene 1.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Engineering/Material Considerations/Material Groups/Metals/Brass.md",
+                "file": "Design Engineering/Material Considerations/Material Groups/Plastics/High Density Polyethylene 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Engineering/Material Considerations/Material Groups/Metals/Brass.md",
+                "file": "Design Engineering/Material Considerations/Material Groups/Plastics/High Density Polyethylene 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Engineering/Material Considerations/Material Groups/Metals/Brass.md"
+                "file": "Design Engineering/Material Considerations/Material Groups/Plastics/High Density Polyethylene 1.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "281187835a67ef20",
+  "active": "921f92cb130d9858",
   "lastOpenFiles": [
+    "Design Engineering/Material Considerations/Material Groups/Plastics/Low Density Polyethylene.md",
+    "Design Engineering/Material Considerations/Material Groups/Plastics/Polyethylene.md",
+    "Design Engineering/Material Considerations/Material Groups/Metals/Brass.md",
     "Design Engineering/Material Considerations/Material Groups/Metals/Aluminium.md",
     "Design Engineering/Material Considerations/Material Groups/Metals/Alloys.md",
     "Design Engineering/Material Considerations/Homeworks/Critical Analysis of Billiard Balls.md",
     "Design Engineering/Material Considerations/Ethics/Coltan in Mobile Phones.md",
     "Design Engineering/Material Considerations/Ethics/6 Rs.md",
     "Sources/The BBC.md",
-    "Sources/The Times.md",
-    "Design Engineering/Material Considerations/Material Groups/Woods/Choosing a Timber.md",
-    "Design Engineering/Material Considerations/Material Groups/Woods/Beech.md",
-    "Physics/Electricity/Resistance in Series.md"
+    "Sources/The Times.md"
   ]
 }

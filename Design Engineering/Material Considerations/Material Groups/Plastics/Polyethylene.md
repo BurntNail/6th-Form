@@ -2,10 +2,6 @@
 aliases: PE, Polythene
 ---
 - Excellent chemical resistance
--
-- LDPE:
-	- Flexible, soft waxy feel.
-	- Bin liners.
-- HDPE:
-	- Fairly stiff and hard.
-	- Bleach bottles, washing up bottles
+
+ - [[LDPE]]
+ - [[HDPE]]

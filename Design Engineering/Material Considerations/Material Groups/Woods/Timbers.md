@@ -1,3 +1,3 @@
-- [[Choosing a Timber]]
-- [[Common Woods]]
-- [[Manmade Boards]]
+ - [[Choosing a Timber]]
+ - [[Common Woods]]
+ - [[Manmade Boards]]

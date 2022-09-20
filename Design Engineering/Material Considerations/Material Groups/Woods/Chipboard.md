@@ -1,3 +1,3 @@
-- Made from 2x3mm timber chips.
-- Weak, flexible and poor durability.
-- Used with a service veneer for flat-pack furniture
+ - Made from 2x3mm timber chips.
+ - Weak, flexible and poor durability.
+ - Used with a service veneer for flat-pack furniture
