@@ -4,11 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "110925af5df79ec9",
+        "id": "921f92cb130d9858",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "pdf",
+          "state": {
+            "file": "Physics/Skills/Intro_to_L6_2D_Problems_Working.pdf"
+          }
         }
       }
     ],
@@ -73,6 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Physics/Skills/Intro_to_L6_2D_Problems_Working.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Physics/Skills/Intro_to_L6_2D_Problems_Working.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Physics/Skills/Intro_to_L6_2D_Problems_Working.pdf"
+              }
             }
           }
         ]
@@ -120,13 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "110925af5df79ec9",
+  "active": "921f92cb130d9858",
   "lastOpenFiles": [
-    "Physics/Skills/Units/Dimensional Analysis.md",
-    "Design Engineering/Material Considerations/Material and Component Considerations.md",
-    "Physics/Skills/SI/Ampere.md",
-    "Physics/Electricity/Charge & Current.md",
-    "Design Engineering/Material Considerations/Material Groups/Plastics/ABS Drone Question.md",
-    "Design Engineering/Material Considerations/Material Groups/Plastics/ABS.md"
+    "Physics/Electricity/Van_Der_Graaf.png",
+    "Physics/Electricity/W1_GCSE_Electricity_recap_quiz.pdf",
+    "Physics/Electricity/Series_Resistance.png",
+    "Physics/Electricity/resistance_example.png",
+    "Physics/Electricity/Parallel_Resistance_1662724299564_0.png",
+    "Physics/Electricity/Metal_Wire_Resistance_Graphs.png",
+    "Physics/Electricity/LED_Circuit_Symbol.png",
+    "Physics/Electricity/Graphed_Circuit.png",
+    "Physics/Electricity/Filament_Lamp_Resistance.png",
+    "Physics/Electricity/Filament_Lamp_Resistance_1662392724615_0 1.png"
   ]
 }
