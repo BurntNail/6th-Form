@@ -1,1 +1,1 @@
-- [[Coltan in Mobile Phones]]
+[[Coltan in Mobile Phones]]

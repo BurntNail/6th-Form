@@ -1,2 +1,2 @@
-- [[Brass]]
-- [[Bronze]]
+ - [[Brass]]
+ - [[Bronze]]

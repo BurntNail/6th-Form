@@ -1,0 +1,6 @@
+ - Rethink
+ - Reduce
+ - Reuse
+ - Repair
+ - Recycle
+ - Refuse
