@@ -1,1 +1,3 @@
-alias:: GRP
+---
+aliases: GRP
+---

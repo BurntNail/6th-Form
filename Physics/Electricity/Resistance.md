@@ -5,6 +5,6 @@
 	- Material
 	- Length
 	- Thickness
-- {{embed [[Resistance in Series]]}}
-- {{embed [[Resistance in Parallel]]}}
-- {{embed [[Resistance Example Question]]}}
+- ![[Resistance in Series]]
+- ![[Resistance in Parallel]]
+- ![[Resistance Example Question]]

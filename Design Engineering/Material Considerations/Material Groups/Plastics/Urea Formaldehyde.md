@@ -1,4 +1,6 @@
-alias:: UF
+---
+aliases: UF
+---
 
 - Properties:
 	- Light coloured

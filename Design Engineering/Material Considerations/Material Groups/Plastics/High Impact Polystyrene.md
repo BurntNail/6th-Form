@@ -1,4 +1,6 @@
-alias:: HIPS
+---
+aliases: HIPS
+---
 
 - Similar to [[PS]] but 7x the impact strength
 - Uses:

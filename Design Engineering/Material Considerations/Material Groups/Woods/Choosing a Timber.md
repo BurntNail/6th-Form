@@ -1,10 +1,10 @@
-- Short term physical properties #card
+- Short term physical properties
 	- Strength, stiffness, density hardness
-- Long term physical properties #card
+- Long term physical properties
 	- Stability, resistance to conditions
-- Working properties #card
+- Working properties
 	- Ease of machining, ease of finishing, ability to be glued
-- Aesthetic Properties #card
+- Aesthetic Properties
 	- Colour, grain pattern, lustre, surface blemishes
-- Commercial factors #card
+- Commercial factors
 	- Cost, availability of sizes, consistency, wastage

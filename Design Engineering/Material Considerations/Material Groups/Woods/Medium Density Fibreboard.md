@@ -1,4 +1,6 @@
-alias:: MDF
+---
+aliases: MDF
+---
 
 - MDF $$= 600kg/m^3$$
   HDF $$= 800kg/m^3$$

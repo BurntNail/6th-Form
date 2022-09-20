@@ -1,7 +1,6 @@
 - Categories
 	- From a list on the board
 	- Our Guesses:
-	  collapsed:: true
 		- Mechanical Properties
 			- Flexibility
 			- Formability

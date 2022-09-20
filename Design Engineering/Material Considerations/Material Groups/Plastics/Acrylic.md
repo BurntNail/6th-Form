@@ -1,4 +1,6 @@
-alias:: PMMA
+---
+aliases: PMAA
+---
 
 - Much tougher than glass.
 - Easily moulded.

@@ -1,4 +1,6 @@
-alias:: PVC
+---
+aliases: PVC
+---
 
 - Rigid/unplasticised PVC:
 	- Gutters, drainpipes

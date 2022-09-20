@@ -1,5 +1,4 @@
-- #reference: [Cellular News Coltan Stuff](https://cellularnews.com/mobile-phone/coltan/)
--
+#reference: [Cellular News Coltan Stuff](https://cellularnews.com/mobile-phone/coltan/)
 - Cultural Impacts
 	- Smaller Phones as Tantalum capacitors are very capacitive.
 	- Coltan also makes Audio filters.

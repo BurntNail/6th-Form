@@ -1,4 +1,6 @@
-alias:: Thermopolyer, Thermoplastic
+---
+aliases: Thermoplastic, Thermopolymer
+---
 
 - Long chains, flexible when heated.
 - Deform when heated, remoulded many times

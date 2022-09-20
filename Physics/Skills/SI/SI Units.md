@@ -6,13 +6,13 @@
 - [[Radiation]]
 -
 - Other Units:
-	- {{embed [[Joules]]}}
-	- {{embed [[Newtons]]}}
+	- ![[Joules]]
+	- ![[Newtons]]
 - Base SI Units
-	- {{embed [[Kilogram]] }}
-	- {{embed [[Metre]] }}
-	- {{embed [[Second]] }}
-	- {{embed [[Ampere]] }}
-	- {{embed [[Kelvin]]}}
-	- {{embed [[Mole]]}}
-	- {{embed [[Candela]] }}
+	- ![[Kilogram]] 
+	- ![[Metre]] 
+	- ![[Second]] 
+	- ![[Ampere]] 
+	- ![[Kelvin]]
+	- ![[Mole]]
+	- ![[Candela]] 

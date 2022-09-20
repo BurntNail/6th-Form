@@ -1,5 +1,6 @@
-alias:: PE, Polythene
-
+---
+aliases: PE, Polythene
+---
 - Excellent chemical resistance
 -
 - LDPE:

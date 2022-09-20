@@ -1,1 +1,1 @@
-- ![cos and sin-jacent.png](../assets/cos_and_sin-jacent_1662650070569_0.png){:height 402, :width 716}
+- ![[cos_and_sin-jacent.png|200]]

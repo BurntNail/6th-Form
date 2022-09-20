@@ -1,1 +1,3 @@
-alias:: CFRP
+---
+aliases: CFRP
+---

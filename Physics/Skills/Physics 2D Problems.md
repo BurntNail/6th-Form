@@ -1,2 +1,2 @@
-- ![Intro to L6 2D Problems Working.pdf](../assets/Intro_to_L6_2D_Problems_Working_1662648492362_0.pdf)
+- [[Intro_to_L6_2D_Problems_Working.pdf]]
 - [[Physics Sin and Cos adjacent]]

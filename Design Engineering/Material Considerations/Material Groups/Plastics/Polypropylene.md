@@ -1,4 +1,6 @@
-alias:: PP
+---
+aliases: PP
+---
 
 - Flexibility is key feature.
 - Uses:

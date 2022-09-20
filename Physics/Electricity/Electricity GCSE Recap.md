@@ -1,4 +1,4 @@
-- Working from ![W1 GCSE Electricity recap quiz.pdf](../assets/W1_GCSE_Electricity_recap_quiz_1662392568206_0.pdf)
+- Working from [[W1_GCSE_Electricity_recap_quiz.pdf]]
 - Easy
 	- 1
 		- The flow of electrons  **rate of flow of charge - close but not quite, also:** $I=\frac{Q}{t}$
@@ -7,9 +7,9 @@
 	- 3
 		- $P = IV = 5 * 2 = 10W$
 	- 4
-		- ![Filament Lamp Resistance.png](../assets/Filament_Lamp_Resistance_1662392724615_0.png)
+		- ![[Filament_Lamp_Resistance.png|200]]
 	- 5
-		- ![LED Circuit Symbol.png](../assets/LED_Circuit_Symbol_1662392741415_0.png)
+		- ![[LED_Circuit_Symbol.png|200]]
 	- 6
 - Getting Harder
 	- 1
@@ -19,7 +19,7 @@
 	- 3
 		- ?? **In a closed circuit, resistance is directly proportional to current**
 	- 4
-		- ![Metal Wire Resistance Graphs.png](../assets/Metal_Wire_Resistance_Graphs_1662392789093_0.png)
+		- ![[Metal_Wire_Resistance_Graphs.png|200]]
 	- 5
 		- $V_1 = 6V, V_2 = 6V$
 - A bit difficult?
@@ -35,7 +35,7 @@
 		- No change as measuring from fixed resistor.
 		  **no - resistance in whole circuit changes, so gets lower, because LDR gets more voltage so Fixed Resistor gets less voltage**
 	- 4
-		- ![Graphed Circuit.png](../assets/Graphed_Circuit_1662392933042_0.png)
+		- ![[Graphed_Circuit.png|200]]
 - Extension
 	- 1
 		- a
