@@ -1,5 +1,5 @@
 - [YM - Density](http://www-materials.eng.cam.ac.uk/mpsite/interactive_charts/stiffness-density/NS6Chart.html)
-	- ### Many aluminium alloys are heat treatable – what does this mean and how is strength affected
+	- ### Many [[Aluminium]] alloys are heat treatable – what does this mean and how is strength affected
 		- This means that they can change strength and hardness using heat. This means that these materials can be in multiple places on the Material Selection Graph. **increase wear resistance, mention anneal**
 	- ### Select Materials for a Rucksack
 		- Use Carbon Fibre, as it is both quite strong and not too dense (not dissimilar from water). It can also be interwoven into other materials.

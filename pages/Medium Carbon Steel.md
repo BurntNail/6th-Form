@@ -1,0 +1,7 @@
+- 0.25% - 6% [[Carbon]]
+- Used for tools that don't need a sharp edge:
+	- Hammers
+	- Pliers
+	- Screwdrivers
+	- Garden Tools
+- Quite Tough so can withstand impacts

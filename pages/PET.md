@@ -1,0 +1,8 @@
+- Relatively new.
+- Taken over from [[PE]] and [[PVC]] in:
+	- Fizzy drinks bottles.
+	- Clear washing up bottles.
+	- Milk containers
+	- Chocolate box liners.
+- Very strong plastic.
+- More expensive than [[PE]] but less needed.

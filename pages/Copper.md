@@ -1,0 +1,7 @@
+- Properties:
+	- Soft
+	- Can be beaten into shape.
+	- [[Corrosion Resistant]]
+	- Excellent [[Conductor]]
+	- Very [[Malleable]] and [[Ductile]]
+	- Used in plumbing and electrical applications

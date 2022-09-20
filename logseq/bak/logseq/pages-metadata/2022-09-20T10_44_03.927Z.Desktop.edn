@@ -1,33 +1,12 @@
-[{:block/name "3d printing",
-  :block/created-at 1663671470605,
-  :block/updated-at 1663671470605}
- {:block/name "a",
+[{:block/name "a",
   :block/created-at 1662393208987,
   :block/updated-at 1662393208987}
- {:block/name "abs",
-  :block/created-at 1663671664120,
-  :block/updated-at 1663671702370}
- {:block/name "abs drone question",
-  :block/created-at 1663672903642,
-  :block/updated-at 1663673271911}
  {:block/name "absolute uncertainty",
   :block/created-at 1662581290833,
   :block/updated-at 1662581395989}
- {:block/name "acrylic",
-  :block/created-at 1663672252589,
-  :block/updated-at 1663672322687}
- {:block/name "alloys",
-  :block/created-at 1663670026914,
-  :block/updated-at 1663670037847}
- {:block/name "aluminium",
-  :block/created-at 1663670118019,
-  :block/updated-at 1663670421523}
  {:block/name "ampere",
   :block/created-at 1662653928005,
   :block/updated-at 1662653928005}
- {:block/name "arsenic",
-  :block/created-at 1663670662874,
-  :block/updated-at 1663670662874}
  {:block/name "articles",
   :block/created-at 1662553723362,
   :block/updated-at 1662553723362}
@@ -38,17 +17,8 @@
   :block/created-at 1662994285171,
   :block/updated-at 1662994482841}
  {:block/name "blockboard",
-  :block/created-at 1663669256334,
-  :block/updated-at 1663669256334}
- {:block/name "blow moulding",
-  :block/created-at 1663671463974,
-  :block/updated-at 1663671463974}
- {:block/name "brass",
-  :block/created-at 1663670555845,
-  :block/updated-at 1663670629412}
- {:block/name "bronze",
-  :block/created-at 1663670557753,
-  :block/updated-at 1663670710266}
+  :block/created-at 1663089446883,
+  :block/updated-at 1663089461937}
  {:block/name "burning plastic",
   :block/created-at 1662553718328,
   :block/updated-at 1662553718328}
@@ -64,54 +34,27 @@
  {:block/name "candela",
   :block/created-at 1662653928016,
   :block/updated-at 1662653928016}
- {:block/name "carbon",
-  :block/created-at 1663669519429,
-  :block/updated-at 1663669519429}
- {:block/name "carbon fibre reinforced plastic",
-  :block/created-at 1663672788164,
-  :block/updated-at 1663672792093}
  {:block/name "card",
   :block/created-at 1662396336438,
   :block/updated-at 1662396336438}
- {:block/name "cast iron",
-  :block/created-at 1663669873338,
-  :block/updated-at 1663669953058}
- {:block/name "cfrp",
-  :block/created-at 1663672792093,
-  :block/updated-at 1663672792093}
  {:block/name "charge & current",
   :block/created-at 1662459607927,
   :block/updated-at 1662625489160}
  {:block/name "chipboard",
-  :block/created-at 1663669256458,
-  :block/updated-at 1663669256458}
+  :block/created-at 1663089027996,
+  :block/updated-at 1663089339970}
  {:block/name "choosing a timber",
   :block/created-at 1662993617338,
   :block/updated-at 1662993754622}
- {:block/name "chrome",
-  :block/created-at 1663670629411,
-  :block/updated-at 1663670629411}
- {:block/name "chromium",
-  :block/created-at 1663669753757,
-  :block/updated-at 1663670014318}
  {:block/name "coltan in mobile phones",
   :block/created-at 1662459941752,
   :block/updated-at 1662462325683}
  {:block/name "common woods",
   :block/created-at 1662994571691,
   :block/updated-at 1663064832509}
- {:block/name "conductor",
-  :block/created-at 1663670402774,
-  :block/updated-at 1663670402774}
  {:block/name "contents",
   :block/created-at 1662409157512,
   :block/updated-at 1662459895017}
- {:block/name "copper",
-  :block/created-at 1663669550651,
-  :block/updated-at 1663670404607}
- {:block/name "corrosion resistant",
-  :block/created-at 1663670404606,
-  :block/updated-at 1663670404606}
  {:block/name "cost & availability",
   :block/created-at 1662459608049,
   :block/updated-at 1662459608049}
@@ -120,7 +63,7 @@
   :block/updated-at 1662991101663}
  {:block/name "current & drift velocity",
   :block/created-at 1662459608081,
-  :block/updated-at 1663669452346}
+  :block/updated-at 1662991491368}
  {:block/name "de 8 markers",
   :block/created-at 1662991047068,
   :block/updated-at 1662991110218}
@@ -128,8 +71,8 @@
   :block/created-at 1662581290674,
   :block/updated-at 1662625021985}
  {:block/name "density of a cube uncertainty with callipers",
-  :block/created-at 1663669256498,
-  :block/updated-at 1663669256498}
+  :block/created-at 1663089522011,
+  :block/updated-at 1663090225519}
  {:block/name "design engineering",
   :block/created-at 1662393320292,
   :block/updated-at 1662993554927}
@@ -142,12 +85,6 @@
  {:block/name "done",
   :block/created-at 1662393208987,
   :block/updated-at 1662393208987}
- {:block/name "ductile",
-  :block/created-at 1663670397329,
-  :block/updated-at 1663670397329}
- {:block/name "durable",
-  :block/created-at 1663670517530,
-  :block/updated-at 1663670517530}
  {:block/name "electricity",
   :block/created-at 1662392079850,
   :block/updated-at 1662978188812}
@@ -160,21 +97,12 @@
  {:block/name "environmental considerations",
   :block/created-at 1662459608244,
   :block/updated-at 1662536722655}
- {:block/name "epoxy resin",
-  :block/created-at 1663672827449,
-  :block/updated-at 1663672876922}
  {:block/name "error bars",
   :block/created-at 1662714216823,
   :block/updated-at 1662714332924}
- {:block/name "fabrics",
-  :block/created-at 1663669366777,
-  :block/updated-at 1663669366777}
  {:block/name "favorites",
   :block/created-at 1662396336438,
   :block/updated-at 1662396336438}
- {:block/name "ferrous metals",
-  :block/created-at 1663669473878,
-  :block/updated-at 1663670204966}
  {:block/name "file",
   :block/created-at 1662459608335,
   :block/updated-at 1662459608335}
@@ -193,57 +121,24 @@
  {:block/name "function & aesthetics",
   :block/created-at 1662459608277,
   :block/updated-at 1662625032991}
- {:block/name "galvanising",
-  :block/created-at 1663670354617,
-  :block/updated-at 1663670354617}
- {:block/name "general purpose polystyrene",
-  :block/created-at 1663672180416,
-  :block/updated-at 1663672206429}
- {:block/name "glass reinforced plastic",
-  :block/created-at 1663672775479,
-  :block/updated-at 1663672780019}
- {:block/name "gold",
-  :block/created-at 1663670498291,
-  :block/updated-at 1663670498291}
  {:block/name "graphs",
   :block/created-at 1662714210379,
   :block/updated-at 1662714432087}
- {:block/name "grp",
-  :block/created-at 1663672780019,
-  :block/updated-at 1663672780019}
  {:block/name "hardboard",
-  :block/created-at 1663669256580,
-  :block/updated-at 1663669256580}
- {:block/name "high carbon steel",
-  :block/created-at 1663669679698,
-  :block/updated-at 1663669740194}
- {:block/name "high impact polystyrene",
-  :block/created-at 1663672214073,
-  :block/updated-at 1663672245728}
- {:block/name "hips",
-  :block/created-at 1663672217656,
-  :block/updated-at 1663672217656}
+  :block/created-at 1663089426147,
+  :block/updated-at 1663089440109}
  {:block/name "hls__fx-9860giii_soft_v340_en_1662409117444_0",
   :block/created-at 1662459608332,
   :block/updated-at 1662459608332}
  {:block/name "homework",
   :block/created-at 1662459607916,
   :block/updated-at 1662459607916}
- {:block/name "hot dip",
-  :block/created-at 1663670356854,
-  :block/updated-at 1663670356854}
  {:block/name "in-progress",
   :block/created-at 1662393208987,
   :block/updated-at 1662393208987}
- {:block/name "injection moulding",
-  :block/created-at 1663671459534,
-  :block/updated-at 1663671459534}
  {:block/name "intro to 6th form tasks",
   :block/created-at 1662653928038,
   :block/updated-at 1662714212180}
- {:block/name "iron",
-  :block/created-at 1663669516665,
-  :block/updated-at 1663669516665}
  {:block/name "iterative design challenge",
   :block/created-at 1662993527907,
   :block/updated-at 1662993528007}
@@ -259,30 +154,18 @@
  {:block/name "later",
   :block/created-at 1662393208987,
   :block/updated-at 1662393208987}
- {:block/name "lead",
-  :block/created-at 1663670491576,
-  :block/updated-at 1663670491576}
  {:block/name "line of worst acceptable fit",
   :block/created-at 1662714339858,
   :block/updated-at 1662714423029}
- {:block/name "magnesium",
-  :block/created-at 1663670180167,
-  :block/updated-at 1663670180167}
- {:block/name "malleable",
-  :block/created-at 1663670399318,
-  :block/updated-at 1663670399318}
- {:block/name "manganese",
-  :block/created-at 1663669538828,
-  :block/updated-at 1663669538828}
  {:block/name "manmade boards",
-  :block/created-at 1663669256618,
-  :block/updated-at 1663669256618}
+  :block/created-at 1663088871338,
+  :block/updated-at 1663089446883}
  {:block/name "material and component considerations",
   :block/created-at 1662393301492,
-  :block/updated-at 1663669367742}
+  :block/updated-at 1662993607167}
  {:block/name "material selection graphs",
   :block/created-at 1662462355147,
-  :block/updated-at 1663670254727}
+  :block/updated-at 1662463822277}
  {:block/name "material terms",
   :block/created-at 1662459608404,
   :block/updated-at 1662459608404}
@@ -290,68 +173,32 @@
   :block/created-at 1662459608416,
   :block/updated-at 1662648539270}
  {:block/name "mdf",
-  :block/created-at 1663669256662,
-  :block/updated-at 1663669256662}
+  :block/created-at 1663089360203,
+  :block/updated-at 1663089360203}
  {:block/name "measurements",
   :block/created-at 1662470209447,
   :block/updated-at 1663089522011}
- {:block/name "medium carbon steel",
-  :block/created-at 1663669619199,
-  :block/updated-at 1663669649440}
  {:block/name "medium density fibreboard",
-  :block/created-at 1663669256614,
-  :block/updated-at 1663669256614}
- {:block/name "metals",
-  :block/created-at 1663669362033,
-  :block/updated-at 1663670105860}
+  :block/created-at 1663089346984,
+  :block/updated-at 1663089420984}
  {:block/name "metre",
   :block/created-at 1662653928129,
   :block/updated-at 1662653928129}
- {:block/name "mild steel",
-  :block/created-at 1663669528369,
-  :block/updated-at 1663669862796}
  {:block/name "mole",
   :block/created-at 1662653928136,
   :block/updated-at 1662653928136}
- {:block/name "molybdenum",
-  :block/created-at 1663669789805,
-  :block/updated-at 1663669789805}
  {:block/name "mon, 12-09-2022",
   :block/created-at 1662977839829,
   :block/updated-at 1662977839829}
  {:block/name "newtons",
   :block/created-at 1662653928152,
   :block/updated-at 1662653928152}
- {:block/name "nickel",
-  :block/created-at 1663669786031,
-  :block/updated-at 1663669786031}
- {:block/name "non-ferrous alloys",
-  :block/created-at 1663670552546,
-  :block/updated-at 1663670557754}
- {:block/name "non-ferrous metals",
-  :block/created-at 1663670105859,
-  :block/updated-at 1663670552547}
  {:block/name "now",
   :block/created-at 1662393208987,
   :block/updated-at 1662393208987}
- {:block/name "nylon",
-  :block/created-at 1663672388016,
-  :block/updated-at 1663672388016}
  {:block/name "oak",
   :block/created-at 1662993828595,
   :block/updated-at 1662994071063}
- {:block/name "pa",
-  :block/created-at 1663672388015,
-  :block/updated-at 1663672388015}
- {:block/name "pe",
-  :block/created-at 1663671842819,
-  :block/updated-at 1663671842819}
- {:block/name "pet",
-  :block/created-at 1663672330424,
-  :block/updated-at 1663672373206}
- {:block/name "phosphorus",
-  :block/created-at 1663670673181,
-  :block/updated-at 1663670673181}
  {:block/name "physics",
   :block/created-at 1662393192422,
   :block/updated-at 1662724183850}
@@ -367,45 +214,12 @@
  {:block/name "pine",
   :block/created-at 1662994714229,
   :block/updated-at 1662994870639}
- {:block/name "plastics",
-  :block/created-at 1663669363890,
-  :block/updated-at 1663672903643}
  {:block/name "plywood",
-  :block/created-at 1663669256611,
-  :block/updated-at 1663669256611}
- {:block/name "pmma",
-  :block/created-at 1663672259254,
-  :block/updated-at 1663672259254}
- {:block/name "polyamide",
-  :block/created-at 1663672381434,
-  :block/updated-at 1663672427602}
- {:block/name "polycarbonate",
-  :block/created-at 1663672298686,
-  :block/updated-at 1663672298686}
- {:block/name "polyester resin",
-  :block/created-at 1663672753549,
-  :block/updated-at 1663672822485}
- {:block/name "polyethylene",
-  :block/created-at 1663671839289,
-  :block/updated-at 1663671887953}
- {:block/name "polypropylene",
-  :block/created-at 1663671786254,
-  :block/updated-at 1663671820519}
- {:block/name "polystyrene",
-  :block/created-at 1663672142033,
-  :block/updated-at 1663672214073}
- {:block/name "polythene",
-  :block/created-at 1663671849840,
-  :block/updated-at 1663671849840}
- {:block/name "polyvinyl chloride",
-  :block/created-at 1663671932534,
-  :block/updated-at 1663672008482}
+  :block/created-at 1663088979493,
+  :block/updated-at 1663089021061}
  {:block/name "powers of 10",
   :block/created-at 1662470707535,
   :block/updated-at 1662625040689}
- {:block/name "pp",
-  :block/created-at 1663671795324,
-  :block/updated-at 1663671795324}
  {:block/name "principles of design engineering",
   :block/created-at 1662993512269,
   :block/updated-at 1662993512426}
@@ -415,18 +229,9 @@
  {:block/name "properties & characteristics",
   :block/created-at 1662459608457,
   :block/updated-at 1662459608457}
- {:block/name "ps",
-  :block/created-at 1663672177198,
-  :block/updated-at 1663672177198}
- {:block/name "pvc",
-  :block/created-at 1663671935579,
-  :block/updated-at 1663671935579}
  {:block/name "radiation",
   :block/created-at 1662653928328,
   :block/updated-at 1662653928328}
- {:block/name "recycling",
-  :block/created-at 1663671467328,
-  :block/updated-at 1663671467328}
  {:block/name "reference",
   :block/created-at 1662460140241,
   :block/updated-at 1662460140241}
@@ -451,12 +256,12 @@
  {:block/name "resistivity",
   :block/created-at 1662977958286,
   :block/updated-at 1662978156267}
- {:block/name "resistivity ",
-  :block/created-at 1662977939394,
-  :block/updated-at 1662977939480}
  {:block/name "resistivity of a wire",
   :block/created-at 1662978188811,
   :block/updated-at 1662979726384}
+ {:block/name "sat, 10-09-2022",
+  :block/created-at 1662802898348,
+  :block/updated-at 1662802898348}
  {:block/name "second",
   :block/created-at 1662653928335,
   :block/updated-at 1662653928335}
@@ -466,24 +271,12 @@
  {:block/name "si units",
   :block/created-at 1662653928035,
   :block/updated-at 1662653928035}
- {:block/name "silicon",
-  :block/created-at 1663669546613,
-  :block/updated-at 1663669546613}
  {:block/name "social, cultural & ethical",
   :block/created-at 1662459762308,
   :block/updated-at 1662459941753}
- {:block/name "solder",
-  :block/created-at 1663670465614,
-  :block/updated-at 1663670473186}
  {:block/name "spruce",
   :block/created-at 1662994879716,
-  :block/updated-at 1663669311221}
- {:block/name "stainless steel",
-  :block/created-at 1663669747175,
-  :block/updated-at 1663669846017}
- {:block/name "steel",
-  :block/created-at 1663670052992,
-  :block/updated-at 1663670052992}
+  :block/updated-at 1663064819135}
  {:block/name "teak",
   :block/created-at 1662994491501,
   :block/updated-at 1662994675870}
@@ -493,18 +286,6 @@
  {:block/name "the times",
   :block/created-at 1662553697606,
   :block/updated-at 1662553752533}
- {:block/name "thermoplastic",
-  :block/created-at 1663673067162,
-  :block/updated-at 1663673067162}
- {:block/name "thermopolyer",
-  :block/created-at 1663673067161,
-  :block/updated-at 1663673067161}
- {:block/name "thermopolymers",
-  :block/created-at 1663671402351,
-  :block/updated-at 1663673067164}
- {:block/name "thermoset polymers",
-  :block/created-at 1663671409357,
-  :block/updated-at 1663672827450}
  {:block/name "thu, 08-09-2022",
   :block/created-at 1662624630692,
   :block/updated-at 1662713996790}
@@ -514,33 +295,18 @@
  {:block/name "timbers",
   :block/created-at 1662993607166,
   :block/updated-at 1663088871338}
- {:block/name "tin",
-  :block/created-at 1663670180165,
-  :block/updated-at 1663670465615}
  {:block/name "todo",
   :block/created-at 1662393208987,
   :block/updated-at 1662393208987}
- {:block/name "tough",
-  :block/created-at 1663670520059,
-  :block/updated-at 1663670520059}
  {:block/name "tue, 06-09-2022",
   :block/created-at 1662553059227,
   :block/updated-at 1662669589570}
  {:block/name "tue, 13-09-2022",
   :block/created-at 1663064550820,
   :block/updated-at 1663088793996}
- {:block/name "tue, 20-09-2022",
-  :block/created-at 1663669256745,
-  :block/updated-at 1663669256745}
- {:block/name "tungsten",
-  :block/created-at 1663670476834,
-  :block/updated-at 1663670545787}
  {:block/name "uc",
   :block/created-at 1662624632579,
   :block/updated-at 1662624632579}
- {:block/name "uf",
-  :block/created-at 1663672712342,
-  :block/updated-at 1663672712342}
  {:block/name "uncertainty",
   :block/created-at 1662470482346,
   :block/updated-at 1662714443586}
@@ -550,18 +316,6 @@
  {:block/name "uncertainty in graphs",
   :block/created-at 1662714432086,
   :block/updated-at 1663230671271}
- {:block/name "uranium",
-  :block/created-at 1663670501773,
-  :block/updated-at 1663670501773}
- {:block/name "urea formaldehyde",
-  :block/created-at 1663672708540,
-  :block/updated-at 1663672745462}
- {:block/name "vacuum forming",
-  :block/created-at 1663671453950,
-  :block/updated-at 1663671453950}
- {:block/name "vanadium",
-  :block/created-at 1663670035440,
-  :block/updated-at 1663670082690}
  {:block/name "wait",
   :block/created-at 1662393208987,
   :block/updated-at 1662393208987}
@@ -572,8 +326,5 @@
   :block/created-at 1662536694478,
   :block/updated-at 1662624638692}
  {:block/name "wed, 14-09-2022",
-  :block/created-at 1663159385467,
-  :block/updated-at 1663159385467}
- {:block/name "zinc",
-  :block/created-at 1663670189302, 
-  :block/updated-at 1663670356855}]
+  :block/created-at 1663159385467, 
+  :block/updated-at 1663159385467}]
