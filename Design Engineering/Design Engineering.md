@@ -2,9 +2,10 @@
  - Principles - 26.7% (80 mks)
  - Problem Solving - 23.3% (70 mks)
  - NEA/IDC - 50% (150 mks)
- - ![[Principles of Design Engineering]]
- - ![[Iterative Design Challenge]]
- - ![[Problem Solving]]
+
+![[Principles of Design Engineering]]
+![[Iterative Design Challenge]]
+![[Problem Solving]]
 
 # Timings
 |Period|Exam|
