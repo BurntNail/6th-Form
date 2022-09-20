@@ -2,4 +2,4 @@
  - Two part - resin & hardener
  - High strength
  - Structural applications where metals might be subjected to heat
- - Can be used instead of [[Polyester Resin]] in [[GRP]] and [[CFRP]]
+ - Can be used instead of [[Polyester Resin]] in [[Glass Reinforced Plastic|GRP]] and [[Carbon Fibre Reinforced Plastic|CFRP]]

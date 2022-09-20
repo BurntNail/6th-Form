@@ -8,66 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#Latin",
-      "color": {
-        "a": 1,
-        "rgb": 1401108
-      }
-    },
-    {
-      "query": "tag:#Biology",
-      "color": {
-        "a": 1,
-        "rgb": 1173557
-      }
-    },
-    {
-      "query": "tag:#DE",
+      "query": "path:\"Design Engineering\"",
       "color": {
         "a": 1,
         "rgb": 6227728
       }
     },
     {
-      "query": "tag:#English",
-      "color": {
-        "a": 1,
-        "rgb": 13619732
-      }
-    },
-    {
-      "query": "tag:#Chemistry",
-      "color": {
-        "a": 1,
-        "rgb": 584957
-      }
-    },
-    {
-      "query": "tag:#Geography",
-      "color": {
-        "a": 1,
-        "rgb": 14095380
-      }
-    },
-    {
-      "query": "tag:#Maths",
-      "color": {
-        "a": 1,
-        "rgb": 557031
-      }
-    },
-    {
-      "query": "tag:#Physics",
+      "query": "path:Physics",
       "color": {
         "a": 1,
         "rgb": 7171439
-      }
-    },
-    {
-      "query": "tag:#Russian",
-      "color": {
-        "a": 1,
-        "rgb": 1455040
       }
     }
   ],
@@ -81,6 +32,6 @@
   "repelStrength": 15.9183673469388,
   "linkStrength": 1,
   "linkDistance": 354,
-  "scale": 0.2726859917360128,
-  "close": true
+  "scale": 0.7514342322277601,
+  "close": false
 }

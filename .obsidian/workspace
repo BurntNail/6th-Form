@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "921f92cb130d9858",
+        "id": "8b5519bec056c3b5",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[[Conduct",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -46,15 +46,7 @@
             }
           },
           {
-            "id": "5d07627eede0ef00",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "5aa2cbc06f6a17c2",
+            "id": "4c8738815484dc13",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -62,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -129,17 +121,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "921f92cb130d9858",
+  "active": "8b5519bec056c3b5",
   "lastOpenFiles": [
-    "Design Engineering/Material Considerations/Material Groups/Plastics/Low Density Polyethylene.md",
-    "Design Engineering/Material Considerations/Material Groups/Plastics/Polyethylene.md",
-    "Design Engineering/Material Considerations/Material Groups/Metals/Brass.md",
-    "Design Engineering/Material Considerations/Material Groups/Metals/Aluminium.md",
-    "Design Engineering/Material Considerations/Material Groups/Metals/Alloys.md",
-    "Design Engineering/Material Considerations/Homeworks/Critical Analysis of Billiard Balls.md",
-    "Design Engineering/Material Considerations/Ethics/Coltan in Mobile Phones.md",
-    "Design Engineering/Material Considerations/Ethics/6 Rs.md",
-    "Sources/The BBC.md",
-    "Sources/The Times.md"
+    "Physics/Skills/Physics Sin and Cos adjacent.md",
+    "Physics/Electricity/Basics/Current & Drift Velocity.md",
+    "Physics/Electricity/Basics/Van_Der_Graaf.png",
+    "Physics/Electricity/Resistance/Resistance.md",
+    "Physics/Electricity/Electricity.md",
+    "Physics/Electricity/Basics/Charge & Current.md",
+    "Design Engineering/Material Considerations/Material Groups/Metals.md",
+    "Design Engineering/Material Considerations/Material Groups/Plastics/Materials/Thermopolymers.md",
+    "Design Engineering/Material Considerations/Material Groups/Plastics/Materials/Low Density Polyethylene.md",
+    "Design Engineering/Material Considerations/Material Groups/Plastics/Materials/Glass Reinforced Plastic.md"
   ]
 }

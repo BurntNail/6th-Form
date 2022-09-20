@@ -3,5 +3,5 @@ aliases: PE, Polythene
 ---
 - Excellent chemical resistance
 
- - [[LDPE]]
- - [[HDPE]]
+ - [[Low Density Polyethylene]]
+ - [[High Density Polyethylene]]

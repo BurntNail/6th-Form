@@ -1,9 +1,9 @@
 # Properties:
  - Low Density - 1/3 of [[Steel]]
- - [[Corrosion Resistant]]
- - Good [[Conductor]]
+ - Corrosion Resistant
+ - Good Conductor
  - Easily Machined
- - Raw Material is soft, weak and very [[Ductile]]
+ - Raw Material is soft, weak and very Ductile
  
  - Alloys with [[Silicon]], [[Manganese]], [[Magnesium]], [[Tin]], [[Copper]], [[Zinc]]
  - Thin Oxide layer - can be thickened by anodising

@@ -1,8 +1,8 @@
  - Relatively new.
- - Taken over from [[PE]] and [[PVC]] in:
+ - Taken over from [[Polyethylene|PE]] and [[Polyvinyl Chloride|PVC]] in:
   - Fizzy drinks bottles.
   - Clear washing up bottles.
   - Milk containers
   - Chocolate box liners.
  - Very strong plastic.
- - More expensive than [[PE]] but less needed.
+ - More expensive than [[Polyethylene|PE]] but less needed.
