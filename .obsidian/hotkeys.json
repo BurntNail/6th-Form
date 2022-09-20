@@ -1,1 +1,29 @@
-{}
+{
+  "metaedit:metaEditRun": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ],
+  "obsidian-wrap-with-shortcuts:wrap-with-shortcut-0": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "-"
+    }
+  ],
+  "obsidian-wrap-with-shortcuts:wrap-with-shortcut-1": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "="
+    }
+  ]
+}

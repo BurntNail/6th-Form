@@ -1,0 +1,14 @@
+{
+  "wrapperTags": [
+    {
+      "name": "Subscript",
+      "startTag": "<sub>",
+      "endTag": "</sub>"
+    },
+    {
+      "name": "Superscript",
+      "startTag": "<sup>",
+      "endTag": "</sup>"
+    }
+  ]
+}

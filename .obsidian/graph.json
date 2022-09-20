@@ -1,22 +1,86 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Latin",
+      "color": {
+        "a": 1,
+        "rgb": 1401108
+      }
+    },
+    {
+      "query": "tag:#Biology",
+      "color": {
+        "a": 1,
+        "rgb": 1173557
+      }
+    },
+    {
+      "query": "tag:#DE",
+      "color": {
+        "a": 1,
+        "rgb": 6227728
+      }
+    },
+    {
+      "query": "tag:#English",
+      "color": {
+        "a": 1,
+        "rgb": 13619732
+      }
+    },
+    {
+      "query": "tag:#Chemistry",
+      "color": {
+        "a": 1,
+        "rgb": 584957
+      }
+    },
+    {
+      "query": "tag:#Geography",
+      "color": {
+        "a": 1,
+        "rgb": 14095380
+      }
+    },
+    {
+      "query": "tag:#Maths",
+      "color": {
+        "a": 1,
+        "rgb": 557031
+      }
+    },
+    {
+      "query": "tag:#Physics",
+      "color": {
+        "a": 1,
+        "rgb": 7171439
+      }
+    },
+    {
+      "query": "tag:#Russian",
+      "color": {
+        "a": 1,
+        "rgb": 1455040
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.535714285714286,
+  "repelStrength": 15.9183673469388,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.3214865297048444,
-  "close": false
+  "linkDistance": 354,
+  "scale": 0.2726859917360128,
+  "close": true
 }
