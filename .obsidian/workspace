@@ -1,0 +1,132 @@
+{
+  "main": {
+    "id": "861f328573eaefea",
+    "type": "split",
+    "children": [
+      {
+        "id": "110925af5df79ec9",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a79fcbae711677d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "59aa84a404316bf3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "281187835a67ef20",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "885f4e32e97c603c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5d07627eede0ef00",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246.5
+  },
+  "right": {
+    "id": "d69461ae8e2f98ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "c30973b0bb920131",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19abe454348a1fa5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "17651831299d9b18",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "484d6568ed0562a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "721dddc6ad34c0b9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "110925af5df79ec9",
+  "lastOpenFiles": [
+    "Physics/Skills/Units/Dimensional Analysis.md",
+    "Design Engineering/Material Considerations/Material and Component Considerations.md",
+    "Physics/Skills/SI/Ampere.md",
+    "Physics/Electricity/Charge & Current.md",
+    "Design Engineering/Material Considerations/Material Groups/Plastics/ABS Drone Question.md",
+    "Design Engineering/Material Considerations/Material Groups/Plastics/ABS.md"
+  ]
+}
