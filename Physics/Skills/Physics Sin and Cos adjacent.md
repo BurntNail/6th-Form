@@ -1,1 +1,1 @@
-- ![[cos_and_sin-jacent.png|200]]
+ - ![[cos_and_sin-jacent.png|200]]

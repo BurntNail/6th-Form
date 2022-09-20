@@ -1,2 +1,2 @@
-- [[Intro_to_L6_2D_Problems_Working.pdf]]
-- [[Physics Sin and Cos adjacent]]
+ - [[Intro_to_L6_2D_Problems_Working.pdf]]
+ - [[Physics Sin and Cos adjacent]]

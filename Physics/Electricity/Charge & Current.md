@@ -1,6 +1,7 @@
-- #Homework
-- DONE Find definitions for all the terms.
-  DEADLINE: <2022-09-12 Mon>
+---
+tags: Homework
+---
+
 - |Term|Definition|
   |--|--|
   |Charge | Measured in Coulombs. A physical property of matter that causes charged matter to experience a force when placed in an electromagnetic field. Can either be positive or negative.|

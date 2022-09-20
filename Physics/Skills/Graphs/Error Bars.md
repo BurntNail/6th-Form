@@ -1,2 +1,2 @@
-- Indicate the [[Absolute Uncertainty]] of the graph.
-- eg. $/pm 0.3mm$ with a millimetre gradation - draw the bar $0.3mm$ below and $0.3mm$ above
+ - Indicate the [[Absolute Uncertainty]] of the graph.
+ - eg. $/pm 0.3mm$ with a millimetre gradation - draw the bar $0.3mm$ below and $0.3mm$ above

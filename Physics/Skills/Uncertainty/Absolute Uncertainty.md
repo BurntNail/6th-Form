@@ -1,1 +1,1 @@
-- The absolute amount of uncertainty for a measurement.
+The absolute amount of uncertainty for a measurement.
