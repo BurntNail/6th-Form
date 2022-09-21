@@ -2,8 +2,8 @@
   "citationExportFormat": "biblatex",
   "literatureNoteTitleTemplate": "@{{citekey}}",
   "literatureNoteFolder": "Sources/",
-  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\n---\n\n",
-  "markdownCitationTemplate": "[@{{citekey}}]",
+  "literatureNoteContentTemplate": "---\ntitle: {{title}}\ncitekey: {{citekey}}\nauthors: {{authorString}}\nyear: {{year}}\nurl: {{URL}}\npublisher: {{publisher}}\ntags: \"bib\"\n---\n\n# {{title}} \n> {{abstract}}\n\n\n[Open In Zotero]({{zoteroSelectURI}})\n\n[Open In Web]({{URL}})\n",
+  "markdownCitationTemplate": "@{{citekey}}",
   "alternativeMarkdownCitationTemplate": "@{{citekey}}",
-  "citationExportPath": "C:\\Users\\jackm\\Documents\\6th-form\\sources.bib"
+  "citationExportPath": "C:\\Users\\Jack Maguire\\Documents\\6th-form\\sources.bib"
 }

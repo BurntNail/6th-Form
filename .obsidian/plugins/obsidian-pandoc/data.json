@@ -10,6 +10,6 @@
   "pandoc": null,
   "pdflatex": null,
   "outputFolder": null,
-  "extraArguments": "",
+  "extraArguments": "--bibliography=C:\\Users\\Jack/ Maguire\\Documents\\6th-form\\sources.bib",
   "exportFrom": "md"
 }
