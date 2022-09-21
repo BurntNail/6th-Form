@@ -14,5 +14,7 @@
   "customjs",
   "obsidian-minimal-settings",
   "obsidian-contextual-typography",
-  "obsidian-sortable"
+  "obsidian-sortable",
+  "obsidian-citation-plugin",
+  "obsidian-pandoc"
 ]

@@ -7,8 +7,12 @@
         "id": "8b5519bec056c3b5",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Design Engineering/Material Considerations/Ethics/Coltan in Mobile Phones.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Design Engineering/Material Considerations/Ethics/Coltan in Mobile Phones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Design Engineering/Material Considerations/Ethics/Coltan in Mobile Phones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,27 +117,28 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Design Engineering/Material Considerations/Ethics/Coltan in Mobile Phones.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "b520ad77c2d95236",
   "lastOpenFiles": [
+    "Design Engineering/Material Considerations/Material and Component Considerations.md",
+    "Design Engineering/Material Considerations/Material Selection Graphs.md",
+    "Design Engineering/Material Considerations/Ethics/Coltan in Mobile Phones.md",
+    "Sources/@CellularNews_ColtanInIphones.md",
+    "Sources/@Wired_Note7Exploding.md",
     "Sources/Wired Note 7.md",
+    "Sources/Cellular News Coltan in Phones.md",
     "Physics/Skills/Intro to 6th Form Tasks.md",
     "Design Engineering/Material Considerations/Material Groups/Plastics/Materials/Urea Formaldehyde.md",
-    "Design Engineering/Material Considerations/Properties/Cost & Availability.md",
-    "Physics/Skills/Graphs/Uncertainty in Graphs.md",
-    "Design Engineering/Material Considerations/Properties/Material Terms.md",
-    "Design Engineering/Material Considerations/Properties/Properties & Characteristics.md",
-    "Design Engineering/Material Considerations/Properties/Function & Aesthetics.md",
-    "Design Engineering/Material Considerations/Material Groups/Woods/Spruce.md",
-    "Scripts/Scripts.md"
+    "Design Engineering/Material Considerations/Properties/Cost & Availability.md"
   ]
 }
