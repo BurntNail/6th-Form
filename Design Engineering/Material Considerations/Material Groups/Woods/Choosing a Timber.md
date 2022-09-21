@@ -6,13 +6,17 @@ subtopic: Timbers
 type: "Atomic Note"
 ---
  
- - Short term physical properties
+Short term physical properties
   - Strength, stiffness, density hardness
- - Long term physical properties
+
+Long term physical properties
   - Stability, resistance to conditions
- - Working properties
+
+Working properties
   - Ease of machining, ease of finishing, ability to be glued
- - Aesthetic Properties
+
+Aesthetic Properties
   - Colour, grain pattern, lustre, surface blemishes
- - Commercial factors
+
+Commercial factors
   - Cost, availability of sizes, consistency, wastage
