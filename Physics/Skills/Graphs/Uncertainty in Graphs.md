@@ -1,4 +1,15 @@
+---
+tags: ["Physics", "Physics/Electricity", "Physics/Electricity/Skills", "Physics/Electricity/Skills/Graphs"]
+subject: DesignEngineering
+topic: Skills
+subtopic: Graphs
+type: "Atomic Note"
+---
+
 # Uncertainty in Gradient
+
+^b0b152
+
 Calculate the percentage difference between the gradient of the best and worst lines.
 
 ## Line of Best Fit:

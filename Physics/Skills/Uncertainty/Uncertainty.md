@@ -1,5 +1,10 @@
 ---
-aliases: UC
+aliases "UC"
+tags: ["Physics", "Physics/Electricity", "Physics/Electricity/Skills", "Physics/Electricity/Skills/Uncertainty"]
+subject: DesignEngineering
+topic: Skills
+subtopic: Uncertainty
+type: "Atomic Note"
 ---
 
 # Uncertainty

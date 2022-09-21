@@ -1,3 +1,11 @@
+---
+tags: ["DesignEngineering", "DesingEngineering/Materials", "DesingEngineering/Materials/Properties"]
+subject: DesignEngineering
+topic: Materials
+subtopic: Properties
+type: "Atomic Note"
+---
+ 
  - Transportation - Where are the raw materials located? Where are the materials produced? Are pre-prepared parts made in off shore? What sort of transportation is required? etc.
  - Processing of materials & components
  - Considering pre-prepared component parts

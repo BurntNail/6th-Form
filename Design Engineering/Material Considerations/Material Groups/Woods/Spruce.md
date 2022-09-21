@@ -1,3 +1,11 @@
+---
+tags: ["DesignEngineering", "DesingEngineering/Materials", "DesingEngineering/Materials/Timbers", "DesingEngineering/Materials/Timbers/Softwoods"]
+subject: DesignEngineering
+topic: Materials
+subtopic: Timbers
+type: "Atomic Note"
+---
+
 # Origin 
  - Native through Europe & Canada.
  - Grows in lowlands and mountainous regions.

@@ -1,3 +1,11 @@
+---
+tags: ["DesignEngineering", "DesingEngineering/Materials", "DesingEngineering/Materials/Timbers"]
+subject: DesignEngineering
+topic: Materials
+subtopic: Timbers
+type: "Atomic Note"
+---
+ 
  - Short term physical properties
   - Strength, stiffness, density hardness
  - Long term physical properties

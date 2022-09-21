@@ -1,3 +1,11 @@
+---
+tags: ["DesignEngineering", "DesingEngineering/Materials", "DesingEngineering/Materials/Properties"]
+subject: DesignEngineering
+topic: Materials
+subtopic: Properties
+type: "Atomic Note"
+---
+
 # Functional Performance
 - Refers to how it actually works and performs, eg. weight, durability, elasticity.
 - Every product will have a crucial criteria, usually established during the development stage, that the material selection will usually depend on.

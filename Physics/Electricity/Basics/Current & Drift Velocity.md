@@ -1,3 +1,11 @@
+---
+tags: ["Physics", "Physics/Electricity", "Physics/Electricity/Basics"]
+subject: DesignEngineering
+topic: Electricity
+subtopic: Basics
+type: "Atomic Note"
+---
+
 # Equations
 ## Ohm's Law
 $V = IR$

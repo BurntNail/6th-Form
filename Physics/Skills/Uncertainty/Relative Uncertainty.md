@@ -1,3 +1,11 @@
+---
+tags: ["Physics", "Physics/Electricity", "Physics/Electricity/Skills", "Physics/Electricity/Skills/Uncertainty"]
+subject: DesignEngineering
+topic: Skills
+subtopic: Uncertainty
+type: "Atomic Note"
+---
+
 The relative percentage of uncertainty for a measurement.
 = [[Absolute Uncertainty]] / Value
  - For example, if I have a millimetre graded ruler, the [[Absolute Uncertainty]] is 0.1cm

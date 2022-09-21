@@ -1,3 +1,11 @@
+---
+tags: ["DesignEngineering", "DesingEngineering/Materials", "DesingEngineering/Materials/Plastics", "DesingEngineering/Materials/Plastics/Materials"]
+subject: DesignEngineering
+topic: Materials
+subtopic: Plastics
+type: "Atomic Note"
+---
+ 
  - Used as an adhesive
  - Two part - resin & hardener
  - High strength

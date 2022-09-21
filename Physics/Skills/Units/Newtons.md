@@ -1,5 +1,10 @@
 ---
-aliases: Force
+aliases: "Force"
+tags: ["Physics", "Physics/Electricity", "Physics/Electricity/Skills", "Physics/Electricity/Skills/Units"]
+subject: DesignEngineering
+topic: Skills
+subtopic: Units
+type: "Atomic Note"
 ---
 
 # How are Newtons defined:

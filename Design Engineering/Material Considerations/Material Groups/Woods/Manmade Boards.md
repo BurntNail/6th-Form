@@ -1,3 +1,11 @@
+---
+tags: ["DesignEngineering", "DesingEngineering/Materials", "DesingEngineering/Materials/Timbers", "DesingEngineering/Materials/Timbers/ManMade"]
+subject: DesignEngineering
+topic: Materials
+subtopic: Timbers
+type: "MOC"
+---
+
 # Advantages of Manmade Boards
  - Size - Standard Size is 1220x2440.
  - Consistent properties across the board.

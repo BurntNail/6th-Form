@@ -1,3 +1,11 @@
+---
+tags: ["DesignEngineering", "DesingEngineering/Materials", "DesingEngineering/Materials/Properties"]
+subject: DesignEngineering
+topic: Materials
+subtopic: Properties
+type: "Definitions"
+---
+
 | Term                 | Definition                               |
 | -------------------- | ---------------------------------------- |
 | Hardness             | Resistance to scratching - surface layer |

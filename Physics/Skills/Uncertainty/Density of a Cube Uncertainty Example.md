@@ -1,6 +1,14 @@
-|Height (±0.1cm)|Width (±0.1cm)|Depth (±0.1cm)|Mass(±1g)|
-|--|--|--|--|
-|8.0|4.9|4.9|540|
+---
+tags: ["Physics", "Physics/Electricity", "Physics/Electricity/Skills", "Physics/Electricity/Skills/Uncertainty"]
+subject: DesignEngineering
+topic: Skills
+subtopic: Uncertainty
+type: "Example"
+---
+
+| Height (±0.1cm) | Width (±0.1cm) | Depth (±0.1cm) | Mass(±1g) |
+| --------------- | -------------- | -------------- | --------- |
+| 8.0             | 4.9            | 4.9            | 540       |
 
 # Finding [[Relative Uncertainty]] for ^:
 - Height = $0.1 / 80 = 1.25\%$

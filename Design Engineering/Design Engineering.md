@@ -1,3 +1,9 @@
+---
+tags: ["DesignEngineering"]
+subject: DesignEngineering
+type: Information
+---
+
 # Exams
  - Principles - 26.7% (80 mks)
  - Problem Solving - 23.3% (70 mks)

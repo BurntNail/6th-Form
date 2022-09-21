@@ -1,3 +1,11 @@
+---
+tags: ["DesignEngineering", "DesingEngineering/Materials", "DesingEngineering/Materials/Plastics", "DesingEngineering/Materials/Plastics/Materials"]
+subject: DesignEngineering
+topic: Materials
+subtopic: Plastics
+type: "Atomic Note"
+---
+ 
  - Relatively new.
  - Taken over from [[Polyethylene|PE]] and [[Polyvinyl Chloride|PVC]] in:
   - Fizzy drinks bottles.

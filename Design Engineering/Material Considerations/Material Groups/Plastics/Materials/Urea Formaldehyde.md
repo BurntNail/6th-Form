@@ -1,8 +1,13 @@
 ---
 aliases: UF
+tags: ["DesignEngineering", "DesingEngineering/Materials", "DesingEngineering/Materials/Plastics", "DesingEngineering/Materials/Plastics/Materials"]
+subject: DesignEngineering
+topic: Materials
+subtopic: Plastics
+type: "Atomic Note"
 ---
 
- - Properties:
+# Properties:
   - Light coloured
   - Hard & Brittle
   - High heat distortion temperature

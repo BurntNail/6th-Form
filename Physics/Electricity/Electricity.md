@@ -1,5 +1,8 @@
 ---
-tags: Physics
+tags: ["Physics", "Physics/Electricity"]
+subject: DesignEngineering
+topic: Electricity
+type: "MOC"
 ---
 
 # Topics:

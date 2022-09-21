@@ -1,29 +1,38 @@
- - From a list on the board
- - Our Guesses:
-  - Mechanical Properties
+---
+tags: ["DesignEngineering", "DesingEngineering/Materials", "DesingEngineering/Materials/Properties"]
+subject: DesignEngineering
+topic: Materials
+subtopic: Properties
+type: "Atomic Note"
+---
+> From a list on the board
+
+ # Our Guesses:
+## Mechanical Properties
    - Flexibility
    - Formability
    - Elasticity
    - Coefficient of Friction
    - Acoustic Properties
-  - Physical Proprties
+## Physical Proprties
    - Ductility
    - Density
    - Conductivity
    - Strength
    - Toughness
    - Hardness
-  - Manufacturing Properties
+## Manufacturing Properties
    - Fatigue Limit
    - Machinability
-  - Chemical Properties
+## Chemical Properties
    - Corrosion Resistance
    - Flammability
    - Thermal Expansion
    - Hygroscopy
    - Fusibility
- - Actual
-  - Mechanical Properties
+
+ # Actual
+## Mechanical Properties
    - Strength
    - Ductility
    - Hardness
@@ -32,7 +41,7 @@
    - Flexibility
    - Fatigue Limit
    - Coefficient of Friction
-  - Physical Properties
+## Physical Properties
    - Density
    - Conductivity
    - Melting Point
@@ -43,7 +52,7 @@
    - Corrosion Resistance
    - Reactivity
    - Hygroscopy
-  - Manufacturing Properties
+## Manufacturing Properties
    - Formability
    - Machinability
    - Fusibility

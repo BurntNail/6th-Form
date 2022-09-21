@@ -1,3 +1,11 @@
+---
+tags: ["Physics", "Physics/Electricity", "Physics/Electricity/Resistance"]
+subject: DesignEngineering
+topic: Electricity
+subtopic: Resistance
+type: "Exercises"
+---
+
 ![[resistance_example.png|200]]
 $$R_{Top} = \frac{1}{\frac{1}{6} + \frac{1}{2}} = 1.5\Omega$$
 $$R_{Btm} = 5 + 7 = 12\Omega$$

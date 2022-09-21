@@ -1,3 +1,11 @@
+---
+tags: ["DesignEngineering", "DesingEngineering/Materials", "DesingEngineering/Materials/Metals", "DesingEngineering/Materials/Metals/Materials"]
+subject: DesignEngineering
+topic: Materials
+subtopic: Metals
+type: "Atomic Note"
+---
+
 # Properties:
  - Low Density - 1/3 of [[Steel]]
  - Corrosion Resistant

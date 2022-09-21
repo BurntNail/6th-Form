@@ -1,3 +1,11 @@
+---
+tags: ["DesignEngineering", "DesingEngineering/Materials", "DesingEngineering/Materials/Metals", "DesingEngineering/Materials/Metals/Materials"]
+subject: DesignEngineering
+topic: Materials
+subtopic: Metals
+type: "Atomic Note"
+---
+
 # Makeup:
  - 0.6% to 1% [[Carbon]]
  - 0.3% to 0.9% [[Manganese]]

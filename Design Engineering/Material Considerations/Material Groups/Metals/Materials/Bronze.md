@@ -1,3 +1,11 @@
+---
+tags: ["DesignEngineering", "DesingEngineering/Materials", "DesingEngineering/Materials/Metals", "DesingEngineering/Materials/Metals/Materials"]
+subject: DesignEngineering
+topic: Materials
+subtopic: Metals
+type: "Atomic Note"
+---
+ 
  - [[Copper]] and [[Tin]]
   - Also [[Arsenic]], [[Phosphorus]], [[Aluminium]], [[Manganese]], [[Silicon]]
  - Much harder than [[Copper]]

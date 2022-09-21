@@ -1,8 +1,16 @@
-||Height $(\pm 0.001cm)$|Height $(\pm 0.001cm)$|Height $(\pm 0.001cm)$|Mass $(\pm 1g)$|
-|--|--|--|--|--|
-|**Raw**|1.600|1.600|1.600|5|
-|[[Relative Uncertainty]] **Calculation**|$\frac{0.001}{1.6}$|$\frac{0.001}{1.6}$|$\frac{0.001}{1.6}$|$\frac{1}{5}$|
-|[[Relative Uncertainty]]|$0.0625\%$|$0.0625\%$|$0.0625\%$|$20\%$|
+---
+tags: ["Physics", "Physics/Electricity", "Physics/Electricity/Skills", "Physics/Electricity/Skills/Uncertainty"]
+subject: DesignEngineering
+topic: Skills
+subtopic: Uncertainty
+type: "Atomic Note"
+---
+
+|                                          | Height $(\pm 0.001cm)$ | Height $(\pm 0.001cm)$ | Height $(\pm 0.001cm)$ | Mass $(\pm 1g)$ |
+| ---------------------------------------- | ---------------------- | ---------------------- | ---------------------- | --------------- |
+| **Raw**                                  | 1.600                  | 1.600                  | 1.600                  | 5               |
+| [[Relative Uncertainty]] **Calculation** | $\frac{0.001}{1.6}$    | $\frac{0.001}{1.6}$    | $\frac{0.001}{1.6}$    | $\frac{1}{5}$   |
+| [[Relative Uncertainty]]                 | $0.0625\%$             | $0.0625\%$             | $0.0625\%$             | $20\%$          |
 
 $$D = \frac{m}{V} = \frac{5}{1.6^3} = 1.22 \ldots gcm^{-3}$$
 [[Relative Uncertainty]]: $$D = 0.0625 * 3 + 20 = 20.1875\%$$

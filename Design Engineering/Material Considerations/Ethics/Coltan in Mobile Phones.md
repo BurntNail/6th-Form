@@ -1,10 +1,19 @@
-#reference: [Cellular News Coltan Stuff](https://cellularnews.com/mobile-phone/coltan/)
+---
+tags: ["DesignEngineering", "DesingEngineering/Materials", "DesingEngineering/Materials/Ethics"]
+subject: DesignEngineering
+topic: Materials
+subtopic: Ethics
+type: Notes
+---
+
+[[Cellular News Coltan in Phones]]
+
 # Cultural Impacts
  - Smaller Phones as Tantalum capacitors are very capacitive.
  - Coltan also makes Audio filters.
  - Coltan is an ingredient in making LCD screens, which are very common.
  - Coltan also had a small time in the limelight, as it caused some phones to explode, like (possibly) the Note 7. Although this might have been another material that was exploding from over-charging and bad design.
-  - #reference: [Wired Note 7 Article](https://www.wired.com/2017/01/why-the-samsung-galaxy-note-7-kept-exploding/)
+  - [[Wired Note 7]]
 
 # Ethical
 Early 21st century coltan mining led to human rights violations such as:

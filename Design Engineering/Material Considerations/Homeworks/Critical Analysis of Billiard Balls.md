@@ -1,5 +1,11 @@
-#Homework
-> Discuss, using examples that you are familiar with, how ethical, sustainability and social issues can be considered in the design of a product.
+---
+tags: ["DesignEngineering", "DesingEngineering/Materials", "DesingEngineering/Materials/Ethics"]
+subject: DesignEngineering
+topic: Materials
+subtopic: Ethics
+type: Postessay
+---
+**Question**:: Discuss, using examples that you are familiar with, how ethical, sustainability and social issues can be considered in the design of a product.
 
 # References:
  - [Wikipedia](https://en.wikipedia.org/wiki/Billiard_ball)

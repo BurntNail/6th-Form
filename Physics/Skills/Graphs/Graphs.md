@@ -1,4 +1,0 @@
- - [[Reliability of Data]]
- - [[Error Bars]]
- - [[Line of Worst Acceptable Fit]]
- - [[Uncertainty in Graphs]]

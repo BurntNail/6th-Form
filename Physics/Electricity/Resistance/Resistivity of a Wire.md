@@ -1,4 +1,13 @@
+---
+tags: ["Physics", "Physics/Electricity", "Physics/Electricity/Resistance"]
+subject: DesignEngineering
+topic: Electricity
+subtopic: Resistance
+type: "CPAC"
+---
+
 > Determination of [[Resistivity]] of a wire using a micrometer, ammeter and voltmeter
+
 |CPAC Objective|Description|
 |--|--|
 |2c|Identifies and controls significant quantitative variables where applicable, and plans approaches to take account of variables that cannot readily be controlled.|

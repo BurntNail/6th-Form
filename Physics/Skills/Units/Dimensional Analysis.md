@@ -1,3 +1,12 @@
+---
+aliases: "Force"
+tags: ["Physics", "Physics/Electricity", "Physics/Electricity/Skills", "Physics/Electricity/Skills/Units"]
+subject: DesignEngineering
+topic: Skills
+subtopic: Units
+type: "Worked Examples"
+---
+
 # $$F = ma$$
 $$[N] = [kg][ms^{-2}]$$
 $$N = kgms^{-2}$$
