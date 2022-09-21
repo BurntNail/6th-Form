@@ -4,14 +4,17 @@ subject: DesignEngineering
 topic: Materials
 subtopic: Ethics
 type: Postessay
+link: https://www.canva.com/design/DAFLXsz1SxQ/EcCjXGC3wq3OBnIhGhtPYA/view
 ---
 **Question**:: Discuss, using examples that you are familiar with, how ethical, sustainability and social issues can be considered in the design of a product.
+Poster:: [[Billiard Balls Analysis.pdf]]
 
-# References:
- - [Wikipedia](https://en.wikipedia.org/wiki/Billiard_ball)
- - [Recycling](https://www.bbc.co.uk/news/science-environment-49827945)
- - [Burning for Fuel](https://www.thetimes.co.uk/article/thousands-of-tonnes-of-plastic-recycling-are-secretly-burnt-for-fuel-t6qsfdvj5)
- - [Plastics Competition](https://youtu.be/rHxxLYzJ8Sw?t=50)
+# References
+ - [[@BilliardBallWikipedia]]
+ - [[@websterThousandsTonnesPlastic2019]]
+ - [[@WhereDoesRecycling2021]]
+ - [[@crashcoursePolymersCrashCourse2014]]
+
 
 # Assets:
  - ![[clay_balls-removebg-preview.png|200]]
@@ -40,7 +43,7 @@ type: Postessay
 # Sustainability
  - Although plastic is now used, this is a far cry more sustainable than the Ivory balls of old which decimated elephant populations.
  - So far as I can tell, modern Billiard Balls cannot be easily recycled. However, people often see Billiard Balls as a low-order good, meaning that they are not bought very often, and they are used for a very long time.
- - This is a much better use for our limited oil supplies than single-use plastic water bottles which can be used multiple times, but are often discarded after a single use. Many people also forget to even send them to recycling. Then, even if items are sent to recycling, they are often exported (as shown by [[The BBC]] ) to other countries (often very far away in South-East Asia) which creates a larger environmental impact. [[The Times]] has also shown that plastic sent for recycling is often burnt for fuel.
+ - This is a much better use for our limited oil supplies than single-use plastic water bottles which can be used multiple times, but are often discarded after a single use. Many people also forget to even send them to recycling. Then, even if items are sent to recycling, they are often exported to other countries (often very far away in South-East Asia) which creates a larger environmental impact. Plastic sent for recycling is often burnt for fuel.
  - Wood and clay balls were also often used, but were used much less commonly than ivory balls due to inferior quality. I believe that our modern balls represent a good middle ground between ivory and wood/clay - better for the environment, and still a good quality of ball.
 
 # Conclusion

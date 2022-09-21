@@ -6,6 +6,8 @@ subtopic: Basics
 type: "Exercises"
 ---
 
+[[Van_Der_Graaf.png]]
+
 Working from [[W1_GCSE_Electricity_recap_quiz.pdf]]
 # Easy
 1) The flow of electrons  **rate of flow of charge - close but not quite, also:** $I=\frac{Q}{t}$
