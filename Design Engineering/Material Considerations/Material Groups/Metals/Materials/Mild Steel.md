@@ -7,6 +7,7 @@ type: "Atomic Note"
 ---
 
 # Makeup:
+ - < 0.25% Carbon
  - < 1.65% [[Manganese]]
  - 0.6% [[Silicon]]
  - 0.6% [[Copper]]
@@ -19,5 +20,7 @@ type: "Atomic Note"
  - Easily welded.
  - Poor resistance to corrosion
  - Cannot be hardened except for case hardening.
- 
-- Used for General Purpose engineering and structural material.
+
+# Uses:
+- General Purpose engineering
+- Structural material.

@@ -37,7 +37,7 @@ Poster:: [[Billiard Balls Analysis.pdf]]
 # Plastics
  - However, a New York supplier asked for an alternative for a $10,000 prize, now worth over $200,000.
  - Eventually, in 1869 John Wesley Hyatt invented a material called nitrocellulose, branded Celluloid in 1870, one of the very first plastics.
- - Soon after, other materials were developed to increase the longevity of the plastic, like Bakelite and Acrylic.
+ - Soon after, other materials were developed to increase the longevity of the plastic, like Bakelite and [[Polymethyl Acrylate|Acrylic]].
  - Nowadays, lots of plastics and resins are used, like [Saluc](https://www.saluc.com/index.html) who manufacture the famous [Aramith Billiard Balls](https://www.aramith.com/) which use Phenolic Resin.
 
 # Sustainability

@@ -6,6 +6,15 @@ topic: Materials
 subtopic: Plastics
 type: "Atomic Note"
 ---
- - Common & low cost
- - [[General Purpose Polystyrene]]
- - [[High Impact Polystyrene]]
+
+Abbreviation:: PS
+Safe Working Temperature:: $80^{\circ}C$
+
+# Characteristics
+ - Stiff
+ - Hard
+ - Brittle
+
+# Common Uses
+ - Disposable Cups
+ - Construction Kits

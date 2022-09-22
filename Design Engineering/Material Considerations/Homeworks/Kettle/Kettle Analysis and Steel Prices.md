@@ -32,7 +32,7 @@ Brushed [[Stainless Steel]]:
  - Electrical Insulator
 
 ## View Window
-[[Acrylic]]:
+[[Polymethyl Acrylate]]:
  - Can be coloured, as well as clear.
  - High working temperature ($95^{\circ}C$) useful for hot water.
 

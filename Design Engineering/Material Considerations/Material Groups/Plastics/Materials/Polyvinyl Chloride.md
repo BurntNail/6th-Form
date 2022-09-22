@@ -7,6 +7,9 @@ subtopic: Plastics
 type: "Atomic Note"
 ---
 
+Abbreviation:: PVC
+Safe Working Temperature:: $95^{\circ}C$
+
  # Rigid/unplasticised PVC:
   - Gutters, drainpipes
   - Window frames

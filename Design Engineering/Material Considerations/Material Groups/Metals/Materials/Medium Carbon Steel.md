@@ -6,7 +6,7 @@ subtopic: Metals
 type: "Atomic Note"
 ---
  
-0.25% - 6% [[Carbon]]
+0.25% - 0.5% [[Carbon]]
 
 
 # Uses

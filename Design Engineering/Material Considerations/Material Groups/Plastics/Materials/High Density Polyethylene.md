@@ -7,5 +7,12 @@ subtopic: Plastics
 type: "Atomic Note"
 ---
 
- - Fairly stiff and hard.
- - Bleach bottles, washing up bottles
+Abbreviation:: HDPE
+
+# Characteristics
+ - Fairly stiff
+ - Hard
+
+# Common Uses
+ - Domestic Bleach Bottles
+ - Milk Crates

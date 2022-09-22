@@ -1,5 +1,5 @@
 ---
-aliases: PMAA
+aliases: PMAA, Acrylic, Plexiglass
 tags: ["DesignEngineering", "DesingEngineering/Materials", "DesingEngineering/Materials/Plastics", "DesingEngineering/Materials/Plastics/Materials"]
 subject: DesignEngineering
 topic: Materials
@@ -7,12 +7,17 @@ subtopic: Plastics
 type: "Atomic Note"
 ---
 
-# Properties:
+Abbreviation:: PMAA
+Safe Working Temperature:: $95^{\circ}C$
+
+# Characteristics
  - Much tougher than glass.
  - Easily moulded.
- - Transmits 90% of light
+ - Transmits 90% of light - Crystal Clear
  - Eventually degrades in sunlight.
-# Uses:
+ - Glossy
+
+# Common Uses
  - Machine guards (now usually [[Polycarbonate]])
  - Car rear lights
  - Advertising Signs

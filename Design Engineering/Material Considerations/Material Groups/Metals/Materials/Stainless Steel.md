@@ -17,6 +17,8 @@ type: "Atomic Note"
 # Properties:
  - Thin Oxide layer which prevents corrosion
  - Ductile
+ - Work Hardening can make it magnetic
+
 # Uses:
  - Cutlery
  - Sinks

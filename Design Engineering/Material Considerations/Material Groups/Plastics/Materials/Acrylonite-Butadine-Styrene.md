@@ -1,20 +1,21 @@
 ---
-aliases: LDPE
+alias: ABS
 tags: ["DesignEngineering", "DesingEngineering/Materials", "DesingEngineering/Materials/Plastics", "DesingEngineering/Materials/Plastics/Materials"]
 subject: DesignEngineering
 topic: Materials
 subtopic: Plastics
 type: "Atomic Note"
 ---
-
-Abbreviation:: LDPE
-Safe Working Temperature:: $75^{\circ}C$
+ 
+Abbreviation:: ABS
+Safe Working Temperature:: $80^{\circ}C$
 
 # Characteristics
- - Flexible
- - Soft
- - Waxy
+ - Opaque
+ - Stiff
+ - Hard
+ - High Impact Resistance
 
 # Common Uses
- - Detergent Squeeze Bottles
- - Bin Liners
+ - Casings for cameras
+ - Casings for electrical appliances

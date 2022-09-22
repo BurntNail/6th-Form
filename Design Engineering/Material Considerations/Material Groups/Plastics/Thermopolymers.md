@@ -11,13 +11,13 @@ type: "MOC"
 - Deform when heated, remoulded many times
 
  - List:
-  - [[ABS]]
+  - [[Acrylonite-Butadine-Styrene]]
   - [[Polypropylene]]
   - [[Polyethylene]]
   - [[Polyvinyl Chloride]]
   - [[Polystyrene]]
-  - [[Acrylic]]
-  - [[PET]]
+  - [[Polymethyl Acrylate]]
+  - [[Polyethylene Terephthalate]]
   - [[Polyamide]]
 
  - Processes:

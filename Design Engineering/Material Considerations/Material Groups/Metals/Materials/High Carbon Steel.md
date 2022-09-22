@@ -7,13 +7,13 @@ type: "Atomic Note"
 ---
 
 # Makeup:
- - 0.6% to 1% [[Carbon]]
+ - 0.5% to 1.5% [[Carbon]]
  - 0.3% to 0.9% [[Manganese]]
  
 # Properties:
- - High resistance to wear.
- - Brittle.
- - Poor corrosion resistance.
+ - High wear resistance
+ - Brittle
+ - Poor Corrosion Resistance
  
  # Uses:
  - Hand and machine cutting tools that need to retain their sharp edges.

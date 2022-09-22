@@ -7,10 +7,20 @@ subtopic: Plastics
 type: "Atomic Note"
 ---
 
- - Flexibility is key feature.
- - Uses:
-  - Packaging
-  - Textiles
-  - Stationery
-  - Carpets
-  - Banknotes
+Abbreviation:: PP
+Safe Working Temperature:: $100^{\circ}C$
+
+# Characteristics
+ - Stiff
+ - Hard
+ - Flexible when Thin
+
+# Common Uses
+ - Child Car Seats
+ - Integral Hinges
+ - Storage Crates
+ - Car Interior Panels
+ - Textiles
+ - Stationery
+ - Carpets
+ - Reusable Containers
