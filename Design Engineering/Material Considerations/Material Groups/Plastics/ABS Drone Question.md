@@ -1,5 +1,5 @@
 ---
-tags: ["DesignEngineering", "DesingEngineering/Materials", "DesingEngineering/Materials/Plastics", "DesingEngineering/Materials/Plastics/Processes"]
+tags: ["DesignEngineering", "DesignEngineering/Materials", "DesignEngineering/Materials/Plastics", "DesignEngineering/Materials/Plastics/Processes"]
 subject: DesignEngineering
 topic: Materials
 subtopic: Plastics

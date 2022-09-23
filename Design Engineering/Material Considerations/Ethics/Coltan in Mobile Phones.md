@@ -1,5 +1,5 @@
 ---
-tags: ["DesignEngineering", "DesingEngineering/Materials", "DesingEngineering/Materials/Ethics"]
+tags: ["DesignEngineering", "DesignEngineering/Materials", "DesignEngineering/Materials/Ethics"]
 subject: DesignEngineering
 topic: Materials
 subtopic: Ethics

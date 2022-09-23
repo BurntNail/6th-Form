@@ -1,5 +1,5 @@
 ---
-tags: ["DesignEngineering", "DesingEngineering/Materials", "DesingEngineering/Materials/Properties"]
+tags: ["DesignEngineering", "DesignEngineering/Materials", "DesignEngineering/Materials/Properties"]
 subject: DesignEngineering
 topic: Materials
 subtopic: Properties

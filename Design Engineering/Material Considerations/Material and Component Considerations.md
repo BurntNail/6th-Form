@@ -1,5 +1,5 @@
 ---
-tags: ["DesignEngineering", "DesingEngineering/Materials"]
+tags: ["DesignEngineering", "DesignEngineering/Materials"]
 subject: DesignEngineering
 type: Topic
 ---

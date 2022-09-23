@@ -1,6 +1,6 @@
 ---
 aliases: PVC
-tags: ["DesignEngineering", "DesingEngineering/Materials", "DesingEngineering/Materials/Plastics", "DesingEngineering/Materials/Plastics/Materials"]
+tags: ["DesignEngineering", "DesignEngineering/Materials", "DesignEngineering/Materials/Plastics", "DesignEngineering/Materials/Plastics/Materials"]
 subject: DesignEngineering
 topic: Materials
 subtopic: Plastics

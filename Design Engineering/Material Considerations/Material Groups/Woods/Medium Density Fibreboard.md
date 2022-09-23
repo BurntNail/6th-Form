@@ -1,6 +1,6 @@
 ---
 aliases: MDF
-tags: ["DesignEngineering", "DesingEngineering/Materials", "DesingEngineering/Materials/Timbers", "DesingEngineering/Materials/Timbers/ManMade"]
+tags: ["DesignEngineering", "DesignEngineering/Materials", "DesignEngineering/Materials/Timbers", "DesignEngineering/Materials/Timbers/ManMade"]
 subject: DesignEngineering
 topic: Materials
 subtopic: Timbers

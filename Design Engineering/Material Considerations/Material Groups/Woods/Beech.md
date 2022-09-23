@@ -1,5 +1,5 @@
 ---
-tags: ["DesignEngineering", "DesingEngineering/Materials", "DesingEngineering/Materials/Timbers", "DesingEngineering/Materials/Timbers/Materials"]
+tags: ["DesignEngineering", "DesignEngineering/Materials", "DesignEngineering/Materials/Timbers", "DesignEngineering/Materials/Timbers/Materials"]
 subject: DesignEngineering
 topic: Materials
 subtopic: Metals
