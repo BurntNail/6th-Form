@@ -21,4 +21,4 @@ Used a lot by the Victorians.
   - Casts Well
   - Easily Machined.
 
-Traditional Cast Iron has a very high [[Carbon]] content, which makes it very brittle. Nowadays, Cast Iron is more often cast [[Mild Steel]].
+Traditional Cast Iron has a very high [[Design Engineering/Material Considerations/Material Groups/Metals/Elements/Carbon]] content, which makes it very brittle. Nowadays, Cast Iron is more often cast [[Mild Steel]].

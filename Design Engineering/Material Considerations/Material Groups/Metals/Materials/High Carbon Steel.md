@@ -7,7 +7,7 @@ type: "Atomic Note"
 ---
 
 # Makeup:
- - 0.5% to 1.5% [[Carbon]]
+ - 0.5% to 1.5% [[Design Engineering/Material Considerations/Material Groups/Metals/Elements/Carbon]]
  - 0.3% to 0.9% [[Manganese]]
  
 # Properties:

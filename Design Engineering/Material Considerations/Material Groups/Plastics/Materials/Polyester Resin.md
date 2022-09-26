@@ -7,7 +7,7 @@ type: "Atomic Note"
 ---
  
  - Very brittle without reinforcement
- - Used in [[Glass Reinforced Plastic]] and [[Carbon Fibre Reinforced Plastic]]
+ - Used in [[Design Engineering/Material Considerations/Material Groups/Plastics/Materials/Glass Reinforced Plastic]] and [[Carbon Fibre Reinforced Plastic]]
  - Low cost
  - Ease of handling
  - Dimensional Stability

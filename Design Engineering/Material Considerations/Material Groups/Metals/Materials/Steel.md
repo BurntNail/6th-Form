@@ -6,7 +6,7 @@ subtopic: Metals
 type: "Atomic Note"
 ---
 
-Steel is an alloy of [[Iron]] and [[Carbon]]
+Steel is an alloy of [[Iron]] and [[Design Engineering/Material Considerations/Material Groups/Metals/Elements/Carbon]]
  - [[Mild Steel]]
  - [[Medium Carbon Steel]]
  - [[High Carbon Steel]]

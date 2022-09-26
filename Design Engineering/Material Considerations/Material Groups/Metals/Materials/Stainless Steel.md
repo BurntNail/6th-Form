@@ -8,7 +8,7 @@ type: "Atomic Note"
 
 # Makeup:
  - \> 10.5% [[Chromium]]
- - [[Carbon]]
+ - [[Design Engineering/Material Considerations/Material Groups/Metals/Elements/Carbon]]
  - [[Silicon]]
  - [[Manganese]]
  - [[Nickel]]
