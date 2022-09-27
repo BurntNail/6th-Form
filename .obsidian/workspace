@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8b5519bec056c3b5",
+        "id": "9302bde6917c05f4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Physics/Electricity/Resistance/Resistivity.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "noauthor",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,17 +44,8 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "18e6e24b4a145c36",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Electricity/Resistance/Resistivity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Electricity/Resistance/Resistivity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Physics/Electricity/Resistance/Resistivity.md"
-              }
+              "state": {}
             }
           },
           {
@@ -130,24 +113,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8b5519bec056c3b5",
+  "active": "9302bde6917c05f4",
   "lastOpenFiles": [
-    "Physics/Electricity/Resistance.md",
-    "Design Engineering/Material Considerations/Material Groups/Smart Materials/Shape Memory Polymers.md",
-    "Sources/@USChinaTradeWar2018.md",
-    "Design Engineering/Material Considerations/Material Groups/Modern Materials/Fibre Optics.md",
-    "Design Engineering/Material Considerations/Material Groups/Modern Materials/Sandwich Panels.md",
-    "Design Engineering/Material Considerations/Material Groups/Smart Materials/Rare Earth Magnets.md",
-    "Design Engineering/Material Considerations/Material Groups/Smart Materials/Conductive Polymers.md",
-    "Design Engineering/Material Considerations/Material Groups/Smart Materials/Precious Metal Clay.md",
-    "Design Engineering/Material Considerations/Material Groups/Smart Materials/Self-Healing Materials.md",
-    "Design Engineering/Material Considerations/Material Groups/Smart Materials/Photochromics.md"
+    "Lesson Notes/Design Engineering/Material Considerations/Properties/Property Words/Brittleness.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Properties/Property Words/Impact Resistance.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Properties/Property Words/Plasticity.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Properties/Property Words/Elasticity.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Properties/Property Words/Stiffness.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Properties/Property Words/Thermal Conductivity.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Properties/Property Words/Tensile Strength.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Properties/Property Words/Strength-to-Weight Ratio.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Properties/Property Words/Hardness.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Properties/Property Words/Electrical Conductivity.md"
   ]
 }
