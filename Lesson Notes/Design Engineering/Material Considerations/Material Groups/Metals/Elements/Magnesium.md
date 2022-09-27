@@ -3,5 +3,5 @@ tags: ["DesignEngineering", "DesignEngineering/Materials", "DesignEngineering/Ma
 subject: DesignEngineering
 topic: Materials
 subtopic: Metals
-type: Element
+type: "Material"
 ---

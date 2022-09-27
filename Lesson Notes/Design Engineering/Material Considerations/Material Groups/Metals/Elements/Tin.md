@@ -3,7 +3,8 @@ tags: ["DesignEngineering", "DesignEngineering/Materials", "DesignEngineering/Ma
 subject: DesignEngineering
 topic: Materials
 subtopic: Metals
-type: "Atomic Note"
+type: "Material"
+material_properties: ["Tough", "Brittle", "Ductile", "Malleableo"]
 ---
 
 # Baked Bean 'Tins':

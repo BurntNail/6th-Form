@@ -3,9 +3,6 @@ tags: ["DesignEngineering", "DesignEngineering/Materials", "DesignEngineering/Ma
 subject: DesignEngineering
 topic: Materials
 subtopic: Metals
-type: Element
+type: "Material"
+material_properties: ["Tough", "Ductile"]
 ---
-
-# Tagged Properties
- - #DesignEngineering/Properties/Tough 
- - #DesignEngineering/Properties/Ductile 

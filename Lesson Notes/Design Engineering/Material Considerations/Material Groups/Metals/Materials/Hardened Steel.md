@@ -4,7 +4,5 @@ subject: DesignEngineering
 topic: Materials
 subtopic: Metals
 type: "Material"
+material_properties: ["Brittle"]
 ---
- 
- - 99% [[Tin]]
- - 1% [[Copper]]

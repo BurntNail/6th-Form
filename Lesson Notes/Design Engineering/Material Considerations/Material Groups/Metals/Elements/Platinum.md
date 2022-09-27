@@ -4,11 +4,5 @@ subject: DesignEngineering
 topic: Materials
 subtopic: Metals
 type: "Material"
+material_properties: ["Ductile"]
 ---
-
-# Properties:
- - Increased strength & toughness of [[Steel]], including wear resistance.
-# Uses:
- - Crank shafts
- - Some hand tools
- - Surgical Instruments

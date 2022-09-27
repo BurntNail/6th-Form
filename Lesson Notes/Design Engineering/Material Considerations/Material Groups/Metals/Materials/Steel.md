@@ -3,7 +3,7 @@ tags: ["DesignEngineering", "DesignEngineering/Materials", "DesignEngineering/Ma
 subject: DesignEngineering
 topic: Materials
 subtopic: Metals
-type: "Atomic Note"
+type: "Material"
 ---
 
 Steel is an alloy of [[Iron]] and [[Design Engineering/Material Considerations/Material Groups/Metals/Elements/Carbon]]
@@ -11,3 +11,4 @@ Steel is an alloy of [[Iron]] and [[Design Engineering/Material Considerations/M
  - [[Medium Carbon Steel]]
  - [[High Carbon Steel]]
  - [[Stainless Steel]]
+ - [[Hardened Steel]]

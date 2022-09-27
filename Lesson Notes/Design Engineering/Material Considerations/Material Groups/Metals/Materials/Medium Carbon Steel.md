@@ -3,7 +3,7 @@ tags: ["DesignEngineering", "DesignEngineering/Materials", "DesignEngineering/Ma
 subject: DesignEngineering
 topic: Materials
 subtopic: Metals
-type: "Atomic Note"
+type: "Material"
 ---
  
 0.25% - 0.5% [[Design Engineering/Material Considerations/Material Groups/Metals/Elements/Carbon]]

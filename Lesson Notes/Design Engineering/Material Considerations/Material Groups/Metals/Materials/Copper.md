@@ -3,17 +3,10 @@ tags: ["DesignEngineering", "DesignEngineering/Materials", "DesignEngineering/Ma
 subject: DesignEngineering
 topic: Materials
 subtopic: Metals
-type: "Atomic Note"
+type: "Material"
+material_properties: ["Tough", "Brittle", "Ductile", "Malleable"]
 ---
  
 # Properties:
   - Soft
   - Used in plumbing and electrical applications
-
-# Tagged Properties
- - #DesignEngineering/Properties/Tough 
- - #DesignEngineering/Properties/Brittle
- - #DesignEngineering/Properties/Ductile/High
- - #DesignEngineering/Properties/Malleable/High
- - #DesignEngineering/Properties/ElectricalConductor/High
- - #DesignEngineering/Properties/Resistant/Corrosion

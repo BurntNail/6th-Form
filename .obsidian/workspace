@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8b5519bec056c3b5",
+        "id": "9302bde6917c05f4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Design Engineering/Material Considerations/Material Groups/Smart Materials/Shape Memory Polymers.md",
+            "file": "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Textiles/Synthetic/Geotextiles.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "noauthor",
+                "query": "type: Element",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,12 +53,15 @@
             "id": "18e6e24b4a145c36",
             "type": "leaf",
             "state": {
-              "type": "file-tree-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Textiles/Natural/Wool.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Engineering/Material Considerations/Material Groups/Smart Materials/Shape Memory Polymers.md",
+                "file": "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Textiles/Synthetic/Geotextiles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Engineering/Material Considerations/Material Groups/Smart Materials/Shape Memory Polymers.md",
+                "file": "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Textiles/Synthetic/Geotextiles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Engineering/Material Considerations/Material Groups/Smart Materials/Shape Memory Polymers.md"
+                "file": "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Textiles/Synthetic/Geotextiles.md"
               }
             }
           },
@@ -130,24 +133,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8b5519bec056c3b5",
+  "active": "9302bde6917c05f4",
   "lastOpenFiles": [
-    "Sources/@USChinaTradeWar2018.md",
-    "Design Engineering/Material Considerations/Material Groups/Modern Materials/Fibre Optics.md",
-    "Design Engineering/Material Considerations/Material Groups/Modern Materials/Sandwich Panels.md",
-    "Design Engineering/Material Considerations/Material Groups/Smart Materials/Rare Earth Magnets.md",
-    "Design Engineering/Material Considerations/Material Groups/Smart Materials/Conductive Polymers.md",
-    "Design Engineering/Material Considerations/Material Groups/Smart Materials/Precious Metal Clay.md",
-    "Design Engineering/Material Considerations/Material Groups/Smart Materials/Self-Healing Materials.md",
-    "Design Engineering/Material Considerations/Material Groups/Smart Materials/Photochromics.md",
-    "Design Engineering/Material Considerations/Material Groups/Smart Materials/Electrochromics.md",
-    "Design Engineering/Material Considerations/Material Groups/Smart Materials/Thermochromic Pigments.md"
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Textiles/Synthetic/Nylon.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Textiles/Synthetic/Kevlar.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Textiles/Synthetic/Goretex.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Textiles/Synthetic/Geotextiles.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Textiles/Natural/Cotton.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Textiles/Natural/Silk.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Textiles/Natural/Wool.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Metals/Elements/Silver.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Metals/Elements/Gold.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Metals/Elements/Tungsten.md"
   ]
 }
