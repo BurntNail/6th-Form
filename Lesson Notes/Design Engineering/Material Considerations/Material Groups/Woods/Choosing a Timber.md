@@ -7,13 +7,13 @@ type: "Atomic Note"
 ---
  
 Short term physical properties
-  - Strength, stiffness, density hardness
+  - Strength, [[Stiffness]], density hardness
 
 Long term physical properties
   - Stability, resistance to conditions
 
 Working properties
-  - Ease of machining, ease of finishing, ability to be glued
+  - Ease of [[Machinability|Machining]], ease of finishing, ability to be glued
 
 Aesthetic Properties
   - Colour, grain pattern, lustre, surface blemishes

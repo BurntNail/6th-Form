@@ -15,10 +15,10 @@ type: "Atomic Note"
  - No Resin.
 
 # Physical Characteristics
- - Soft
+ - [[Hardness|Soft]]
  - Low in weight
- - Medium Density.
+ - Medium [[Density]].
  - Strength properties are good.
- - Sawing, machining and assembling are all easy.
+ - Sawing, [[Machinability|Machining]] and assembling are all easy.
  - Less susceptible to shrinkage when dried.
  - $530kg/m^3$

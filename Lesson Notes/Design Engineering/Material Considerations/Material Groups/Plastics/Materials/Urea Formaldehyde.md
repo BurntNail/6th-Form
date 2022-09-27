@@ -9,7 +9,7 @@ type: "Atomic Note"
 
 # Properties:
   - Light coloured
-  - Hard & Brittle
+  - [[Hardness|Hard]] & [[Brittleness|Brittle]]
   - High heat distortion temperature
   - Inexpensive
   - Powdered form used in glue in plywood

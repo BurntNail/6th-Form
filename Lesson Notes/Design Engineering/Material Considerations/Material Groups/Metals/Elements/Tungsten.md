@@ -9,7 +9,7 @@ material_properties: ["Ductile"]
 
 # Properties:
  - 1.7 denser than [[Lead]] - similar to [[Gold]] and [[Uranium]]
- - Incredibly tough and Durable
- - Corrosion Resistant
+ - Incredibly tough and [[Durability|Durable]]
+ - [[Corrosion Resistance|Corrosion Resistant]]
  - Melting Point $3422^{\circ}C$
- - Highest Tensile Strength of any metal
+ - Highest [[Tensile Strength]] of any metal

@@ -13,5 +13,5 @@ Coarser, longer fibres with less crimp are used to produce woollen cloth for hea
  - Good insulator. 
  - Highly absorbent.
  - Soft makes it comfortable.
- - Can be formed into durable shapes.
+ - Can be formed into [[Durability|Durable]] shapes.
  - Biodegradable & Recyclable.

@@ -10,8 +10,8 @@ type: "Atomic Note"
 Abbreviation:: HDPE
 
 # Characteristics
- - Fairly stiff
- - Hard
+ - Fairly [[Stiffness|Stiff]]
+ - [[Hardness|Hard]]
 
 # Common Uses
  - Domestic Bleach Bottles

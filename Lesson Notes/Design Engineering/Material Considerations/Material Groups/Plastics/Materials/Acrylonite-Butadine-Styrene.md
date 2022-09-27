@@ -12,9 +12,9 @@ Safe Working Temperature:: $80^{\circ}C$
 
 # Characteristics
  - Opaque
- - Stiff
- - Hard
- - High Impact Resistance
+ - [[Stiffness|Stiff]]
+ - [[Hardness|Hard]]
+ - High [[Impact Resistance]]
 
 # Common Uses
  - Casings for cameras

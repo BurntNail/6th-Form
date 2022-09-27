@@ -12,5 +12,5 @@ material_properties: ["Tough", "Brittle", "Ductile", "Malleable"]
 
 # Properties:
  - Melting Point $419^{\circ}C$
- - Hard, rust-proof surface.
+ - [[Hardness|Hard]], rust-proof surface.
  - Zinc paints also available.

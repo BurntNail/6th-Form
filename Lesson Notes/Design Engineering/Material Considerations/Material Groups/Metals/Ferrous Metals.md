@@ -7,7 +7,7 @@ type: MOC
 ---
 
 Fe - Contains [[Iron]]
-[[Iron]] is relatively soft, but steels are harder.
+[[Iron]] is relatively soft, but steels are [[Hardness|Harder]].
   - [[Cast Iron]]
 
 See Also:

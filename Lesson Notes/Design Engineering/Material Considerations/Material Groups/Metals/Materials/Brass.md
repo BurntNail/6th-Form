@@ -11,6 +11,6 @@ material_properties: ["Brittle"]
  - Bright Gold Colour
  - Decorative Metalwork
  - Low Friction: Mechanisms such as locks, gears, door handles, taps, valves, zips
- - Musical Instruments: High workability and durability
- - Easily cast & machined
+ - Musical Instruments: High workability and [[Durability]]
+ - Easily cast & [[Machinability|Machined]]
  - Can be [[Chrome]] plated

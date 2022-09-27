@@ -12,8 +12,8 @@ type: "Material"
  
 # Properties:
  - High resistance to wear.
- - Brittle.
- - Poor corrosion resistance.
+ - [[Brittleness|Brittle]].
+ - Poor [[Corrosion Resistance]].
  
  # Uses:
  - Hand and machine cutting tools that need to retain their sharp edges.

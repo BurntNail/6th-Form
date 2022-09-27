@@ -7,7 +7,7 @@ type: "Atomic Note"
 ---
 
 # Properties:
- - Hard, rigid, low shrinkage
+ - [[Hardness|Hard]], rigid, low shrinkage
  - Easy to mould with fine detail.
 
 # Uses:

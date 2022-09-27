@@ -16,8 +16,8 @@ type: "Atomic Note"
  - Very Expensive.
 
 # Physical Characteristics 
- - A little less resistant to impact than [[Oak]], but slightly stronger and stiffer.
- - Very durable - resists outdoor conditions well because of high resin content.
+ - A little less resistant to impact than [[Oak]], but slightly stronger and [[Stiffness|Stiffer]].
+ - Very [[Durability|Durable]] - resists outdoor conditions well because of high resin content.
 
 # Uses
  - Furniture and Interior/Exterior Joinery

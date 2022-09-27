@@ -15,8 +15,8 @@ type: "Material"
  - [[Molybdenum]]
 
 # Properties:
- - Thin Oxide layer which prevents corrosion
- - Ductile
+ - Thin Oxide layer - [[Corrosion Resistance|Corrosion Resistant]]
+ - [[Ductility|Ductile]]
  - Work Hardening can make it magnetic
 
 # Uses:

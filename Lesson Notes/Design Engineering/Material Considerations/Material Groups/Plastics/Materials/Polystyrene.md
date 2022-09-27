@@ -11,9 +11,9 @@ Abbreviation:: PS
 Safe Working Temperature:: $80^{\circ}C$
 
 # Characteristics
- - Stiff
- - Hard
- - Brittle
+ - [[Stiffness|Stiff]]
+ - [[Hardness|Hard]]
+ - [[Brittleness|Brittle]]
 
 # Common Uses
  - Disposable Cups

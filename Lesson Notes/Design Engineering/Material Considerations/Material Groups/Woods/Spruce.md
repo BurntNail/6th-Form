@@ -17,7 +17,7 @@ type: "Atomic Note"
 
 # Physical Characteristics
  - Soft, low in weight compared to other [[Common Woods]], medium density.
- - Good strength and elasticity.
+ - Good strength and [[Elasticity]].
 
 # Typical Uses
  - Structural - Indoors and Outdoors.

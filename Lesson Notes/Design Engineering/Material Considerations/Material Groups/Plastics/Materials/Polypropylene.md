@@ -11,8 +11,8 @@ Abbreviation:: PP
 Safe Working Temperature:: $100^{\circ}C$
 
 # Characteristics
- - Stiff
- - Hard
+ - [[Hardness|Hard]]
+ - [[Hardness|Hard]]
  - Flexible when Thin
 
 # Common Uses

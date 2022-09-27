@@ -11,7 +11,7 @@ Abbreviation:: PET
 
 # Characteristics
  - Translucent
- - Hard
+ - [[Hardness|Hard]]
 
 # Common Uses
  - Water Bottles

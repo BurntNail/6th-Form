@@ -7,8 +7,8 @@ type: "Material"
 ---
 
 # Properties:
- - Resists wear, and increases Corrosion Resistance.
- - Increases hardness and toughness.
+ - Resists wear, and increases [[Corrosion Resistance]].
+ - Increases [[Hardness]] and toughness.
 
 # Uses:
   - [[Stainless Steel]]

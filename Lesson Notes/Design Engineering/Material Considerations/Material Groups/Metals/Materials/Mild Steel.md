@@ -14,11 +14,11 @@ type: "Material"
 
 # Properties:
  - Tough
- - Ductile
- - Malleable
- - Good tensile strength
+ - [[Ductility|Ductile]]
+ - [[Malleability|Malleable]]
+ - Good [[Tensile Strength]]
  - Easily welded.
- - Poor resistance to corrosion
+ - Poor [[Corrosion Resistance]]
  - Cannot be hardened except for case hardening.
 
 # Uses:

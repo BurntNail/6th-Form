@@ -7,8 +7,8 @@ type: "Atomic Note"
 ---
 
  - Composite material made from 3 layers - a lightweight core sandwiches between 2 skin layers.
- - Skin provides tensile strength and the core holds the skin a contact distance apart.
- - Creating panel which is very stiff and effective at resisting bending.
+ - Skin provides [[Tensile Strength]] and the core holds the skin a contact distance apart.
+ - Creating panel which is very [[Stiffness|Stiff]] and effective at resisting bending.
  - Expensive to manufacture.
  - Foam core offers good levels of insulation.
 

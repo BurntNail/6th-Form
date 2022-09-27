@@ -16,7 +16,7 @@ type: "Atomic Note"
  - Straight-grain but sometimes marked by knots.
 
 # Physical Characteristics 
- - Reasonably strong and stiff but quality varies due to wide/varied distribution.
+ - Reasonably strong and [[Stiffness|Stiff]] but quality varies due to wide/varied distribution.
 
 # Typical Uses 
  - Exterior/Interior Joinery

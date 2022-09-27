@@ -17,7 +17,7 @@ type: "Atomic Note"
 # Physical Characteristics
  - Strong and Tough.
  - Resistance to outdoor conditions vary greatly with species:
-  - European Oak is generally very durable.
+  - European Oak is generally very [[Durability|Durable]].
   - American White Oak is not.
 
 # Typical Uses
