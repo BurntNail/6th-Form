@@ -8,17 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Design Engineering\"",
-      "color": {
-        "a": 1,
-        "rgb": 6227728
-      }
-    },
-    {
       "query": "path:Physics",
       "color": {
         "a": 1,
         "rgb": 7171439
+      }
+    },
+    {
+      "query": "tag:#DesignEngineering/Materials",
+      "color": {
+        "a": 1,
+        "rgb": 3256521
+      }
+    },
+    {
+      "query": "tag:#DesignEngineering",
+      "color": {
+        "a": 1,
+        "rgb": 14946577
       }
     }
   ],
@@ -32,6 +39,6 @@
   "repelStrength": 15.9183673469388,
   "linkStrength": 1,
   "linkDistance": 417,
-  "scale": 0.9205840901457008,
-  "close": true
+  "scale": 0.3715859399822169,
+  "close": false
 }
