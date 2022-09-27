@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Design Engineering/Material Considerations/Material Groups/Smart Materials/Shape Memory Polymers.md",
+            "file": "Physics/Electricity/Resistance/Resistivity.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Engineering/Material Considerations/Material Groups/Smart Materials/Shape Memory Polymers.md",
+                "file": "Physics/Electricity/Resistance/Resistivity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Engineering/Material Considerations/Material Groups/Smart Materials/Shape Memory Polymers.md",
+                "file": "Physics/Electricity/Resistance/Resistivity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Engineering/Material Considerations/Material Groups/Smart Materials/Shape Memory Polymers.md"
+                "file": "Physics/Electricity/Resistance/Resistivity.md"
               }
             }
           },
@@ -139,6 +139,8 @@
   },
   "active": "8b5519bec056c3b5",
   "lastOpenFiles": [
+    "Physics/Electricity/Resistance.md",
+    "Design Engineering/Material Considerations/Material Groups/Smart Materials/Shape Memory Polymers.md",
     "Sources/@USChinaTradeWar2018.md",
     "Design Engineering/Material Considerations/Material Groups/Modern Materials/Fibre Optics.md",
     "Design Engineering/Material Considerations/Material Groups/Modern Materials/Sandwich Panels.md",
@@ -146,8 +148,6 @@
     "Design Engineering/Material Considerations/Material Groups/Smart Materials/Conductive Polymers.md",
     "Design Engineering/Material Considerations/Material Groups/Smart Materials/Precious Metal Clay.md",
     "Design Engineering/Material Considerations/Material Groups/Smart Materials/Self-Healing Materials.md",
-    "Design Engineering/Material Considerations/Material Groups/Smart Materials/Photochromics.md",
-    "Design Engineering/Material Considerations/Material Groups/Smart Materials/Electrochromics.md",
-    "Design Engineering/Material Considerations/Material Groups/Smart Materials/Thermochromic Pigments.md"
+    "Design Engineering/Material Considerations/Material Groups/Smart Materials/Photochromics.md"
   ]
 }
