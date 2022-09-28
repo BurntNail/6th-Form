@@ -1,5 +1,5 @@
 ---
-tags: ["Physics", "Physics/Electricity", "Physics/Electricity/Skills", "Physics/Electricity/Skills/Graphs"]
+tags: ["Physics", "Physics/Skills", "Physics/Skills/Graphs"]
 subject: DesignEngineering
 topic: Skills
 subtopic: Graphs

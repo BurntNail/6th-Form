@@ -1,6 +1,6 @@
 ---
 aliases "UC"
-tags: ["Physics", "Physics/Electricity", "Physics/Electricity/Skills", "Physics/Electricity/Skills/Uncertainty"]
+tags: ["Physics", "Physics/Skills", "Physics/Skills/Uncertainty"]
 subject: DesignEngineering
 topic: Skills
 subtopic: Uncertainty

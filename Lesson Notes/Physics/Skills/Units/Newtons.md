@@ -1,6 +1,6 @@
 ---
 aliases: "Force"
-tags: ["Physics", "Physics/Electricity", "Physics/Electricity/Skills", "Physics/Electricity/Skills/Units"]
+tags: ["Physics", "Physics/Skills", "Physics/Skills/Units"]
 subject: DesignEngineering
 topic: Skills
 subtopic: Units

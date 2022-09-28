@@ -1,5 +1,5 @@
 ---
-tags: ["Physics", "Physics/Electricity", "Physics/Electricity/Skills", "Physics/Electricity/Skills/SI"]
+tags: ["Physics", "Physics/Skills", "Physics/Skills/SI"]
 subject: DesignEngineering
 topic: Skills
 subtopic: SI

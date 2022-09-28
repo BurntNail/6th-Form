@@ -48,7 +48,7 @@ dv.table(["Link", "Subject", "Theme"], dv.pages("#Revision/RevisionNotes and #Re
 const { FileUtils, Formatter, NotDataview } = customJS;
 
 let attachment_paths = new Array();
-const GITLAB_PATH = "https://gitlab.com/Epacnoss/school-v2/-/raw/main/";
+const GITLAB_PATH = "https://raw.githubusercontent.com/BurntNail/6th-Form/main/";
 
 for (let page of dv.pages('')) {
 	for (let link of page.file.outlinks.filter(link => FileUtils.is_attachment(link.path))) {
@@ -60,7 +60,7 @@ for (let page of dv.pages('')) {
 }
 
 //Example Link
-//https://gitlab.com/Epacnoss/school-v2/-/raw/main/U5/Exams/Past%20Papers/Chem/Jun%2019%20P2%206.d.ii.png
+//https://raw.githubusercontent.com/BurntNail/6th-Form/main/GCSE%20Stuff/Past%20Papers/Chem/Jan%2018.md
 
 //need to keep mapping step in as not that bad for computational complexity + for future
 attachment_paths = attachment_paths.map(arr => {

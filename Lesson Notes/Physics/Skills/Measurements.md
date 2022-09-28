@@ -1,5 +1,5 @@
 ---
-tags: ["Physics", "Physics/Electricity", "Physics/Electricity/Skills"]
+tags: ["Physics", "Physics/Skills"]
 subject: DesignEngineering
 topic: Skills
 type: "Atomic Note"
