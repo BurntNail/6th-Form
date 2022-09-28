@@ -6,9 +6,8 @@ subtopic: Metals
 type: "Admin/dataviewer"
 ---
 
+https://quizlet.com/_c1sure?x=1qqt&i=gp7bg
+
 ```dataviewjs
-const { Formatter } = customJS;
-for (let paper of dv.pages("#DesignEngineering/Materials/Metals").filter(paper => paper.type == "Material") {
-	console.log(page);
-}
+dv.list(dv.pages("#DesignEngineering/Materials/Metals/Elements or #DesignEngineering/Materials/Metals/Materials").map(notes => [notes.file.link]));
 ```

@@ -4,7 +4,7 @@ subject: DesignEngineering
 topic: Materials
 subtopic: Metals
 type: "Material"
-material_properties: ["Tough", "Brittle", "Ductile", "Malleableo"]
+material_properties: ["Tough", "Brittle", "Ductile", "Malleable"]
 ---
 
 # Baked Bean 'Tins':

@@ -10,5 +10,6 @@ type: Topic
  - [[Cost & Availability]]
  - [[Function & Aesthetics]]
  - [[Material Selection Graphs]]
+ 
 # Homeworks:
  - [[Critical Analysis of Billiard Balls]]
