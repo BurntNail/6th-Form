@@ -5,7 +5,7 @@ authors:
 year: 2017
 url: https://www.sciencehistory.org/distillations/winning-skin
 publisher: 
-tags: "bib"
+tags: "Admin/bib"
 ---
 
 # Winning Skin 

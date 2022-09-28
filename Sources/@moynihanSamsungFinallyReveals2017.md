@@ -5,7 +5,7 @@ authors: Tim Moynihan
 year: 2017
 url: https://www.wired.com/2017/01/why-the-samsung-galaxy-note-7-kept-exploding/
 publisher: 
-tags: "bib"
+tags: "Admin/bib"
 ---
 
 # Samsung Finally Reveals Why the Galaxy Note 7 Kept Exploding | WIRED 

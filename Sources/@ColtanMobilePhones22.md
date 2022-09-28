@@ -5,7 +5,7 @@ authors: Rexan
 year: 22
 url: https://cellularnews.com/mobile-phone/coltan/
 publisher: 
-tags: "bib"
+tags: "Admin/bib"
 ---
 
 # Coltan and Mobile Phones: The Wonders & the Sad Truth About It 

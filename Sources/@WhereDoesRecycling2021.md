@@ -5,7 +5,7 @@ authors:
 year: 2021
 url: https://www.bbc.com/news/science-environment-49827945
 publisher: 
-tags: "bib"
+tags: "Admin/bib"
 ---
 
 # Where does recycling and rubbish from the UK go? 

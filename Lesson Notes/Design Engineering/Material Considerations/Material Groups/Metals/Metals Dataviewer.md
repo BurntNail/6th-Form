@@ -3,7 +3,7 @@ tags: ["DesignEngineering", "DesignEngineering/Materials", "DesignEngineering/Ma
 subject: DesignEngineering
 topic: Materials
 subtopic: Metals
-type: "Dataviewer"
+type: "Admin/dataviewer"
 ---
 
 ```dataviewjs

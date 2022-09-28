@@ -8,24 +8,59 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Physics",
-      "color": {
-        "a": 1,
-        "rgb": 7171439
-      }
-    },
-    {
-      "query": "tag:#DesignEngineering/Materials",
+      "query": "tag:#DesignEngineering",
       "color": {
         "a": 1,
         "rgb": 3256521
       }
     },
     {
-      "query": "tag:#DesignEngineering",
+      "query": "tag:#Physics",
       "color": {
         "a": 1,
-        "rgb": 14946577
+        "rgb": 11579568
+      }
+    },
+    {
+      "query": "tag:#Biology",
+      "color": {
+        "a": 1,
+        "rgb": 1690685
+      }
+    },
+    {
+      "query": "tag:#Chemistry",
+      "color": {
+        "a": 1,
+        "rgb": 5397472
+      }
+    },
+    {
+      "query": "tag:#Geography",
+      "color": {
+        "a": 1,
+        "rgb": 14291001
+      }
+    },
+    {
+      "query": "tag:#Russian",
+      "color": {
+        "a": 1,
+        "rgb": 541539
+      }
+    },
+    {
+      "query": "tag:#English",
+      "color": {
+        "a": 1,
+        "rgb": 12690756
+      }
+    },
+    {
+      "query": "tag:#Maths",
+      "color": {
+        "a": 1,
+        "rgb": 8890313
       }
     }
   ],
@@ -39,6 +74,6 @@
   "repelStrength": 15.9183673469388,
   "linkStrength": 1,
   "linkDistance": 417,
-  "scale": 0.7303729908130665,
+  "scale": 0.1890487634800997,
   "close": false
 }

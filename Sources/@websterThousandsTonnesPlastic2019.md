@@ -5,7 +5,7 @@ authors: Ben Webster
 year: 2019
 url: https://www.thetimes.co.uk/article/thousands-of-tonnes-of-plastic-recycling-are-secretly-burnt-for-fuel-t6qsfdvj5
 publisher: 
-tags: "bib"
+tags: "Admin/bib"
 ---
 
 # Thousands of tonnes of plastic recycling are secretly burnt for fuel | News | The Sunday Times 

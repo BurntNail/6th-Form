@@ -5,7 +5,7 @@ authors:
 year: 2018
 url: https://www.bbc.com/news/business-45255623
 publisher: 
-tags: "bib"
+tags: "Admin/bib"
 ---
 
 # US-China trade war: New tariffs come into force 
