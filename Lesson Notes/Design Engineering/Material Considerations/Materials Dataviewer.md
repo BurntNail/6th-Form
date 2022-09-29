@@ -44,8 +44,25 @@ dv.table(["Link", "Properties"], pages);
 
 # Plastics
 
+https://quizlet.com/_c1ylqz?x=1qqt&i=gp7bg
+
 
 ```dataviewjs
 let pages = dv.pages("#DesignEngineering/Materials/Plastics/Materials").filter(note => note.type != "MOC");
 dv.table(["Link", "Abbr", "Safe Working Temperature"], pages.map(note => [note.file.link, note["Abbreviation"], note["Safe Working Temperature"]]));
+```
+
+# Textiles
+
+```dataviewjs
+let pages = dv.pages("#DesignEngineering/Materials/Textiles").filter(note => note.type != "MOC").map(note => note.file.link);
+dv.list(pages);
+```
+
+# Modern/Smart Materials
+
+
+```dataviewjs
+let pages = dv.pages("#DesignEngineering/Materials/SmartMaterials or #DesignEngineering/Materials/ModernMaterials").filter(note => note.type != "MOC").filter(note => note.type != "MOC").map(note => note.file.link);
+dv.list(pages);
 ```

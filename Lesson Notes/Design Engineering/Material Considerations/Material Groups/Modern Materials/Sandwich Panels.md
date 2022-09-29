@@ -1,5 +1,5 @@
 ---
-tags: ["DesignEngineering", "DesignEngineering/Materials", "DesignEngineering/Materials/Textiles", "DesignEngineering/Materials/ModernMaterials"]
+tags: ["DesignEngineering", "DesignEngineering/Materials", "DesignEngineering/Materials/ModernMaterials"]
 subject: DesignEngineering
 topic: Materials
 subtopic: "Modern Materials"

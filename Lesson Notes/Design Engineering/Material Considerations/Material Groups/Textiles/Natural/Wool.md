@@ -6,11 +6,12 @@ subtopic: Textiles
 type: "Atomic Note"
 ---
 
-Made from the seed pod of the cotton plant. Accounts for 25% of the global pesticide usage, and there are concerns about contamination.
- - Can absorb up to 65% of its weight in moisture.
- - Always contains some moisture so non-static.
- - Strong when wet.
- - Durable and abrasion resistant.
+Usually made from sheep, but also from goats, llamas and [Angora Rabbits](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.ukpets.com%2Fblog%2Fwp-content%2Fuploads%2F2020%2F05%2Fangora-rabbit-pet-care.jpg&f=1&nofb=1&ipt=7c82420e5815679d775e433bf2af95b5218e236beac7bcfa760248f8acbf1f45&ipo=images).
+Wool fibres are made from keratin that is formed into bundles and can vary in length.
+Coarser, longer fibres with less crimp are used to produce woollen cloth for heavier, more robust clothing.
+
+ - Good insulator. 
+ - Highly absorbent.
+ - Soft makes it comfortable.
+ - Can be formed into [[Durability|Durable]] shapes.
  - Biodegradable & Recyclable.
- - Dries slowly.
- - Tendency to crease.

@@ -7,7 +7,7 @@ subtopic: Plastics
 type: "Atomic Note"
 ---
 
- - Similar to [[Polystyrene|PS]] but 7x the impact strength
+ - Similar to [[Polystyrene|PS]] but 7x the [[Impact Resistance|Impact Strength]]
  - Uses:
   - Low strength structural
   - Pre-production prototypes

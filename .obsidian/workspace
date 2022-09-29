@@ -7,8 +7,12 @@
         "id": "6d9d143a543fa528",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "GCSE Stuff/Dataview/GCSE Dataviewer.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -53,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GCSE Stuff/Dataview/GCSE Dataviewer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GCSE Stuff/Dataview/GCSE Dataviewer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GCSE Stuff/Dataview/GCSE Dataviewer.md"
+              }
             }
           },
           {
@@ -125,19 +134,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "6d9d143a543fa528",
+  "active": "0a58fb37c10638d6",
   "lastOpenFiles": [
-    "Lesson Notes/Design Engineering/Material Considerations/Properties/Property Words/Toughness.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Textiles/Natural/Cotton.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Textiles/Natural/Wool.md",
     "Lesson Notes/Design Engineering/Material Considerations/Materials Dataviewer.md",
-    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Metals/Elements/Chromium.md",
-    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Metals/Elements/Arsenic.md",
-    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Metals/Materials/Hardened Steel.md",
-    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Metals/Materials/Cast Iron.md",
-    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Metals/Materials/Bronze.md",
-    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Metals/Materials/Brass.md",
-    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Metals/Materials/Aluminium.md",
-    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Metals/Elements/Zinc.md"
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Textiles/Synthetic/Geotextiles.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Textiles/Synthetic/Goretex.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Textiles/Synthetic/Kevlar.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Textiles/Synthetic/Nylon.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Textiles/Tactile Response.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Modern Materials/Sandwich Panels.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Modern Materials/Fibre Optics.md"
   ]
 }

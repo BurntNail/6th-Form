@@ -1,6 +1,6 @@
 ---
 aliases: "SMA"
-tags: ["DesignEngineering", "DesignEngineering/Materials", "DesignEngineering/Materials/Textiles", "DesignEngineering/Materials/SmartMaterials"]
+tags: ["DesignEngineering", "DesignEngineering/Materials", "DesignEngineering/Materials/SmartMaterials"]
 subject: DesignEngineering
 topic: Materials
 subtopic: "Smart Materials"

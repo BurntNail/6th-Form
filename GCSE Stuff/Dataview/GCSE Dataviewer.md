@@ -50,7 +50,7 @@ const { FileUtils, Formatter, NotDataview } = customJS;
 let attachment_paths = new Array();
 const GITLAB_PATH = "https://raw.githubusercontent.com/BurntNail/6th-Form/main/";
 
-for (let page of dv.pages('')) {
+for (let page of dv.pages('"GCSEs"')) {
 	for (let link of page.file.outlinks.filter(link => FileUtils.is_attachment(link.path))) {
 		let attach = link;
 		if (!attachment_paths.contains(attach)) {
