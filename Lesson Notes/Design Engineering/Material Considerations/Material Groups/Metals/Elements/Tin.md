@@ -7,6 +7,8 @@ type: "Material"
 material_properties: ["Tough", "Brittle", "Ductile", "Malleable"]
 ---
 
+[[Toughness|Tough]], [[Brittleness|Brittle]], [[Ductility|Ductile]], [[Malleability|Malleable]]
+
 # Baked Bean 'Tins':
  - Mild Steel sheet covered in tin.
  - Similar to [[Galvanising]]

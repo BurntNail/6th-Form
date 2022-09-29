@@ -12,7 +12,6 @@ Safe Working Temperature:: $100^{\circ}C$
 
 # Characteristics
  - [[Hardness|Hard]]
- - [[Hardness|Hard]]
  - Flexible when Thin
 
 # Common Uses

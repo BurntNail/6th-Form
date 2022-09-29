@@ -7,6 +7,8 @@ type: "Material"
 material_properties: ["Ductile"]
 ---
 
+[[Ductility|Ductile]]
+
 # Properties:
  - 1.7 [[Density|denser]] than [[Lead]] - similar to [[Gold]] and [[Uranium]]
  - Incredibly tough and [[Durability|Durable]]

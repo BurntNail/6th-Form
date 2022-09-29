@@ -6,3 +6,5 @@ subtopic: Metals
 type: "Material"
 material_properties: ["Ductile", "Malleable"]
 ---
+
+[[Ductility|Ductile]], [[Malleability|Malleable]]

@@ -6,6 +6,8 @@ subtopic: Metals
 type: "Material"
 material_properties: ["Brittle"]
 ---
+
+[[Brittleness|Brittle]]
  
  - [[Copper]] and [[Zinc]]
  - Bright Gold Colour

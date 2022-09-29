@@ -3,12 +3,14 @@
     {
       "name": "Subscript",
       "startTag": "<sub>",
-      "endTag": "</sub>"
+      "endTag": "</sub>",
+      "id": "0"
     },
     {
       "name": "Superscript",
       "startTag": "<sup>",
-      "endTag": "</sup>"
+      "endTag": "</sup>",
+      "id": "1"
     }
   ]
 }

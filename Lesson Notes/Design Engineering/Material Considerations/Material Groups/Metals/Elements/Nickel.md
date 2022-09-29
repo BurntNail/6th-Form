@@ -6,3 +6,5 @@ subtopic: Metals
 type: "Material"
 material_properties: ["Tough", "Ductile"]
 ---
+
+[[Toughness|Tough]], [[Ductility|Ductile]]

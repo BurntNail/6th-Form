@@ -6,6 +6,8 @@ subtopic: Metals
 type: "Material"
 material_properties: ["Brittle"]
 ---
+
+[[Brittleness|Brittle]]
  
  - [[Copper]] and [[Tin]]
   - Also [[Arsenic]], [[Phosphorus]], [[Aluminium]], [[Manganese]], [[Silicon]]
