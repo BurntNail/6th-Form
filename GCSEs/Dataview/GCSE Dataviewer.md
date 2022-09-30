@@ -1,5 +1,5 @@
 ---
-tags: "Admin"
+tags: ["Admin", "Revision"]
 ---
 
 # Past Papers

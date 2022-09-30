@@ -54,6 +54,8 @@ dv.table(["Link", "Abbr", "Safe Working Temperature"], pages.map(note => [note.f
 
 # Textiles
 
+https://quizlet.com/_c20mbx?x=1jqt&i=gp7bg
+
 ```dataviewjs
 let pages = dv.pages("#DesignEngineering/Materials/Textiles").filter(note => note.type != "MOC").map(note => note.file.link);
 dv.list(pages);
@@ -61,7 +63,7 @@ dv.list(pages);
 
 # Modern/Smart Materials
 
-
+https://quizlet.com/_c20sdz?x=1jqt&i=gp7bg
 ```dataviewjs
 let pages = dv.pages("#DesignEngineering/Materials/SmartMaterials or #DesignEngineering/Materials/ModernMaterials").filter(note => note.type != "MOC").filter(note => note.type != "MOC").map(note => note.file.link);
 dv.list(pages);

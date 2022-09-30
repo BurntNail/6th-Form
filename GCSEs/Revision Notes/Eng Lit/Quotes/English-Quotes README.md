@@ -14,10 +14,10 @@ The `db.json` holds all of the quotes, the `types` all of the quote categories, 
 
 |                    | db                                                                | types                                                               | bat                        | export pdf         |
 | ------------------ | ----------------------------------------------------------------- | ------------------------------------------------------------------- | -------------------------- | ------------------ |
-| **Woman In Black** | [[U5/Exams/Revision Notes/Eng Lit/Quotes/WIB/db.json]]         | [[U5/Exams/Revision Notes/Eng Lit/Quotes/WIB/types.txt]]            | [[WIB-quotes.bat]]         | [[WIB Quotes.pdf]] |
-| **Jekyll & Hyde**  | [[U5/Exams/Revision Notes/Eng Lit/Quotes/J&H/db.json]]            | [[U5/Exams/Revision Notes/Eng Lit/Quotes/J&H/types.txt]]            | [[JH-quotes.bat]]          | [[J&H Quotes.pdf]] |
-| **Macbeth**        | [[U5/Exams/Revision Notes/Eng Lit/Quotes/M/db.json]]              | [[U5/Exams/Revision Notes/Eng Lit/Quotes/M/types.txt]]              | [[M-quotes.bat]]           | [[M Quotes.pdf]]   |
-| **J&H Cut Down**   | [[U5/Exams/Revision Notes/Eng Lit/Quotes/J&H - cut down/db.json]] | [[U5/Exams/Revision Notes/Eng Lit/Quotes/J&H - cut down/types.txt]] | [[JH-cut-down-quotes.bat]] | [[J&H CD.pdf]]     |
+| **Woman In Black** | [[GCSEs/Revision Notes/Eng Lit/Quotes/WIB/db.json]]         | [[GCSEs/Revision Notes/Eng Lit/Quotes/WIB/types.txt]]            | [[WIB-quotes.bat]]         | [[WIB Quotes.pdf]] |
+| **Jekyll & Hyde**  | [[GCSEs/Revision Notes/Eng Lit/Quotes/J&H/db.json]]            | [[GCSEs/Revision Notes/Eng Lit/Quotes/J&H/types.txt]]            | [[JH-quotes.bat]]          | [[J&H Quotes.pdf]] |
+| **Macbeth**        | [[GCSEs/Revision Notes/Eng Lit/Quotes/M/db.json]]              | [[GCSEs/Revision Notes/Eng Lit/Quotes/M/types.txt]]              | [[M-quotes.bat]]           | [[M Quotes.pdf]]   |
+| **J&H Cut Down**   | [[GCSEs/Revision Notes/Eng Lit/Quotes/J&H - cut down/db.json]] | [[GCSEs/Revision Notes/Eng Lit/Quotes/J&H - cut down/types.txt]] | [[JH-cut-down-quotes.bat]] | [[J&H CD.pdf]]     |
 
 
 # Resources
