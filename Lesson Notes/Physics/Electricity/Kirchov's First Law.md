@@ -1,6 +1,6 @@
 ---
 tags: ["Physics", "Physics/Electricity"]
-subject: DesignEngineering
+subject: Physics
 topic: Electricity
 type: "Atomic Note"
 ---

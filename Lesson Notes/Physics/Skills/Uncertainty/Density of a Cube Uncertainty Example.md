@@ -1,6 +1,6 @@
 ---
 tags: ["Physics", "Physics/Skills", "Physics/Skills/Uncertainty"]
-subject: DesignEngineering
+subject: Physics
 topic: Skills
 subtopic: Uncertainty
 type: "Example"

@@ -1,6 +1,6 @@
 ---
 tags: ["Physics", "Physics/Skills", "Physics/Skills/SI"]
-subject: DesignEngineering
+subject: Physics
 topic: Skills
 subtopic: SI
 type: "MOC"

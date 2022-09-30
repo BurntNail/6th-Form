@@ -1,6 +1,6 @@
 ---
 tags: ["Physics", "Physics/Skills"]
-subject: DesignEngineering
+subject: Physics
 topic: Skills
 type: "MOC"
 ---

@@ -1,6 +1,6 @@
 ---
 tags: ["Physics", "Physics/Electricity", "Physics/Electricity/Mechanics", "Physics/Electricity/Mechanics/Vectors"]
-subject: DesignEngineering
+subject: Physics
 topic: Mechanics
 subtopic: Vectors
 type: "MOC"

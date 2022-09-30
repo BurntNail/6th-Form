@@ -1,6 +1,6 @@
 ---
 tags: ["Physics", "Physics/Electricity", "Physics/Electricity/Resistance"]
-subject: DesignEngineering
+subject: Physics
 topic: Electricity
 subtopic: Resistance
 type: "MOC"

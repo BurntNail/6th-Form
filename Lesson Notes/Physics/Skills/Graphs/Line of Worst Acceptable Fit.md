@@ -1,6 +1,6 @@
 ---
 tags: ["Physics", "Physics/Skills", "Physics/Skills/Graphs"]
-subject: DesignEngineering
+subject: Physics
 topic: Skills
 subtopic: Graphs
 type: "Atomic Note"

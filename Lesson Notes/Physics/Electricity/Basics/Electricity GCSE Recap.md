@@ -1,6 +1,6 @@
 ---
 tags: ["Physics", "Physics/Electricity", "Physics/Electricity/Basics"]
-subject: DesignEngineering
+subject: Physics
 topic: Electricity
 subtopic: Basics
 type: "Exercises"

@@ -1,7 +1,7 @@
 ---
 alias: ["Kirchov's Laws"]
 tags: ["Physics", "Physics/Electricity"]
-subject: DesignEngineering
+subject: Physics
 topic: Electricity
 type: "MOC"
 ---
