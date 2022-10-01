@@ -6,5 +6,6 @@ topic: Electricity
 type: "MOC"
 ---
 
-[[Kirchov's First Law]]
-[[Kirchov's Second Law]]
+![[Kirchov's First Law]]
+
+![[Kirchov's Second Law]]

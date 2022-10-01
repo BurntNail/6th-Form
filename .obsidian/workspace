@@ -7,12 +7,8 @@
         "id": "6d9d143a543fa528",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Lesson Notes/Physics/Electricity/Current & Voltage Laws.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -62,7 +58,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264
+    "width": 264,
+    "collapsed": true
   },
   "right": {
     "id": "d69461ae8e2f98ce",
@@ -78,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesson Notes/Physics/Electricity/Current & Voltage Laws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +91,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lesson Notes/Physics/Electricity/Current & Voltage Laws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +112,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lesson Notes/Physics/Electricity/Current & Voltage Laws.md"
-              }
+              "state": {}
             }
           },
           {
@@ -139,15 +132,15 @@
   },
   "active": "6d9d143a543fa528",
   "lastOpenFiles": [
-    "Lesson Notes/Physics/Electricity/Kirchov's Second Law.md",
-    "Lesson Notes/Physics/Electricity/Kirchov's First Law.md",
-    "Lesson Notes/Physics/Electricity/Current & Voltage Laws.md",
     "Lesson Notes/Physics/Electricity/Resistance/Circuit Problems.md",
+    "Lesson Notes/Physics/Electricity/Basics/Current & Drift Velocity.md",
+    "Lesson Notes/Physics/Electricity/Current & Voltage Laws.md",
+    "Lesson Notes/Physics/Electricity/Kirchov's First Law.md",
+    "Lesson Notes/Physics/Electricity/Kirchov's Second Law.md",
     "Lesson Notes/Physics/Electricity/Resistance/Circuit Problems.docx.pdf",
     "Lesson Notes/Physics/Electricity/Resistance/IV Graphs.md",
     "GCSEs/Dataview/GCSE Dataviewer.md",
     "GCSEs/Revision Notes/Eng Lit/Quotes/English-Quotes README.md",
-    "Sources/Sources.md",
-    "Lesson Notes/Design Engineering/Material Considerations/Materials Dataviewer.md"
+    "Sources/Sources.md"
   ]
 }
