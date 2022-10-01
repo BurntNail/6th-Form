@@ -8,3 +8,11 @@ type: "Atomic Note"
  
  - Thin veneers, glued at right angles, always an odd number.
  - Alternating grains ensure similar structural properties.
+
+# Uses
+
+ - Interior Walls
+ - Roofing
+ - Flooring
+ - Skateboard Ramps
+ - Cabinets/Furniture

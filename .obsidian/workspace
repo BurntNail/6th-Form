@@ -7,8 +7,12 @@
         "id": "6d9d143a543fa528",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Woods/Blockboard.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -58,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264,
-    "collapsed": true
+    "width": 264
   },
   "right": {
     "id": "d69461ae8e2f98ce",
@@ -75,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Woods/Blockboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Woods/Blockboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Woods/Blockboard.md"
+              }
             }
           },
           {
@@ -123,24 +130,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "6d9d143a543fa528",
   "lastOpenFiles": [
-    "Lesson Notes/Physics/Electricity/Resistance/Circuit Problems.md",
-    "Lesson Notes/Physics/Electricity/Basics/Current & Drift Velocity.md",
-    "Lesson Notes/Physics/Electricity/Current & Voltage Laws.md",
-    "Lesson Notes/Physics/Electricity/Kirchov's First Law.md",
-    "Lesson Notes/Physics/Electricity/Kirchov's Second Law.md",
-    "Lesson Notes/Physics/Electricity/Resistance/Circuit Problems.docx.pdf",
-    "Lesson Notes/Physics/Electricity/Resistance/IV Graphs.md",
-    "GCSEs/Dataview/GCSE Dataviewer.md",
-    "GCSEs/Revision Notes/Eng Lit/Quotes/English-Quotes README.md",
-    "Sources/Sources.md"
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Woods/Chipboard.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Woods/Medium Density Fibreboard.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Woods/Plywood.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Woods/Fir.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Woods/Spruce.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Woods/Pine.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Woods/Teak.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Woods/Oak.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Woods/Common Woods.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Woods/Beech.md"
   ]
 }

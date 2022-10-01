@@ -68,3 +68,10 @@ https://quizlet.com/_c20sdz?x=1jqt&i=gp7bg
 let pages = dv.pages("#DesignEngineering/Materials/SmartMaterials or #DesignEngineering/Materials/ModernMaterials").filter(note => note.type != "MOC").filter(note => note.type != "MOC").map(note => note.file.link);
 dv.list(pages);
 ```
+
+# Property Words
+
+https://quizlet.com/_c2dl4k?x=1qqt&i=gp7bg
+```dataviewjs
+dv.list(dv.pages("#DesignEngineering/Materials/Properties/PropertyWords").map(page => page.file.link));
+```
