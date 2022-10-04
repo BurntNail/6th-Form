@@ -1,9 +1,9 @@
 ---
-tags: ["DesignEngineering", "DesignEngineering/Materials", "Admin"]
+tags: ["DesignEngineering", "DesignEngineering/Materials", "Admin/Dataviewer"]
 subject: DesignEngineering
 topic: Materials
 subtopic: Metals
-type: "Admin/dataviewer"
+type: "dataviewer"
 ---
 
 # Metals
