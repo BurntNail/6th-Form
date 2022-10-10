@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -139,15 +140,15 @@
   },
   "active": "8b5ade7b8cb5f95f",
   "lastOpenFiles": [
-    "Lesson Notes/Design Engineering/Technical Understanding/Types of Motion/Rotary Motion.md",
+    "Sources/@noauthor_ukraine_2022.md",
     "Lesson Notes/Design Engineering/Technical Understanding/Types of Motion/Types of Motion.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Types of Motion/Rotary Motion.md",
     "Lesson Notes/Design Engineering/Technical Understanding/Types of Motion/Reciprocating Motion.md",
     "Lesson Notes/Design Engineering/Technical Understanding/Types of Motion/Oscillating Motion.md",
     "Lesson Notes/Design Engineering/Technical Understanding/Types of Motion/Linear Motion.md",
     "Lesson Notes/Design Engineering/Technical Understanding/Forces/Linkages.md",
     "Lesson Notes/Design Engineering/Technical Understanding/Forces/Moments.md",
     "Lesson Notes/Design Engineering/Technical Understanding/Forces/Torque.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Forces/Force.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Forces/Levers.md"
+    "Lesson Notes/Design Engineering/Technical Understanding/Forces/Force.md"
   ]
 }
