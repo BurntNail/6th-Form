@@ -14,7 +14,5 @@ Find Controls/Mitigations
 [[Rating]]
 
 ```dataviewjs
-let pages = dv.pages("#DesignEngineering/HealthSafety/RiskAssesments").filter(note => note.type == "List");
-let mapped_pages = pages.map(note => [note.file.link, note["One"], note["Two"], note["Three"], note["Four"], note["Five"]]);
-dv.table(mapped_pages, ["Link", "1", "2", "3", "4", "5"]);
+dv.table(dv.pages("#DesignEngineering/HealthSafety/RiskAssesments").filter(note => note.type == "List").map(note => [note.file.link, note["One"], note["Two"], note["Three"], note["Four"], note["Five"]]), ["Link", "1", "2", "3", "4", "5"]);
 ```
