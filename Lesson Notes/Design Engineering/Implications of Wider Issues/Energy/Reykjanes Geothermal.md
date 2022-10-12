@@ -5,3 +5,7 @@ topic: Wider Issues
 subtopic: Energy
 type: "Atomic Note"
 ---
+
+
+
+Main Source: [[@ReykjanesGeothermalPower]]
