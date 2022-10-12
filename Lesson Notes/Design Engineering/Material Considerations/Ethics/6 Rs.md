@@ -6,8 +6,8 @@ subtopic: Ethics
 type: "Atomic Note"
 ---
 
+# Great
 In order of preference from best to worst
-
  - Refuse
  - Rethink
  - Reduce
@@ -15,5 +15,6 @@ In order of preference from best to worst
  - Repair
  - Recycle
 
+# Bad
  - Landfill
  - Recover (burn and get energy)

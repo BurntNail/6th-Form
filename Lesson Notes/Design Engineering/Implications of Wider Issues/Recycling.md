@@ -5,4 +5,5 @@ topic: Wider Issues
 type: "Atomic Note"
 ---
 
-See [[6 Rs]]
+Apple robot for phones - Gracie
+Metals preferred for recycling as they go back to an almost virgin form - they don't degrade much.

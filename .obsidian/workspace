@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e3824d341ba4d09b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Lesson Notes/Design Engineering/Implications of Wider Issues/Design Factors.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "cccf3fe01bc9f9bc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lesson Notes/Design Engineering/Material Considerations/Ethics/6 Rs.md",
+            "file": "Lesson Notes/Design Engineering/Health & Safety/Risk Assesments.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Material Considerations/Ethics/6 Rs.md",
+                "file": "Lesson Notes/Design Engineering/Health & Safety/Risk Assesments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Material Considerations/Ethics/6 Rs.md",
+                "file": "Lesson Notes/Design Engineering/Health & Safety/Risk Assesments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Material Considerations/Ethics/6 Rs.md"
+                "file": "Lesson Notes/Design Engineering/Health & Safety/Risk Assesments.md"
               }
             }
           },
@@ -151,15 +139,15 @@
   },
   "active": "cccf3fe01bc9f9bc",
   "lastOpenFiles": [
-    "Lesson Notes/Design Engineering/Implications of Wider Issues/Design Factors.md",
-    "Lesson Notes/Design Engineering/Material Considerations/Ethics/6 Rs.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Gears/Rack & Pinion.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Gears/Helical Cut Gears.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Gears.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Gears/Spur Gears.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Gears/Bevel Gears.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Forces/Torque.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Cams.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Types of Motion/Oscillating Motion.md"
+    "Lesson Notes/Design Engineering/Implications of Wider Issues/Coffee Cup LCA.md",
+    "Lesson Notes/Design Engineering/Implications of Wider Issues/Cradle to Cradle.md",
+    "Lesson Notes/Design Engineering/Health & Safety/Risk Assesments.md",
+    "Lesson Notes/Design Engineering/Health & Safety/Risk Assesments/Rating.md",
+    "Lesson Notes/Design Engineering/Health & Safety/H&S at Work.md",
+    "Sources/Sources.md",
+    "Sources/@WhereDoesRecycling2021.md",
+    "Sources/@USChinaTradeWar2018.md",
+    "Sources/@hobbsRussellHobbs20460.md",
+    "Sources/@crashcoursePolymersCrashCourse2014.md"
   ]
 }
