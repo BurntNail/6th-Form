@@ -6,8 +6,8 @@ subtopic: Risk Assesments
 type: "List"
 ---
 
-Five:: Impossible - self-explanatory
-Four:: Remote - once in a lifetime
+One:: Impossible - self-explanatory
+Two:: Remote - once in a lifetime
 Three:: Occasional - once every few years
-Two:: Probable - once every year/few months
-One:: Frequent - fairly regular occurrence
+Four:: Probable - once every year/few months
+Five:: Frequent - fairly regular occurrence
