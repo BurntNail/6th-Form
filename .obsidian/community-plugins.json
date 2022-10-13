@@ -1,20 +1,13 @@
 [
   "hotkeysplus-obsidian",
   "table-editor-obsidian",
-  "better-pdf-plugin",
   "better-word-count",
   "file-tree-alternative",
   "find-unlinked-files",
-  "markdown-prettifier",
-  "note-refactor-obsidian",
-  "cm-typewriter-scroll-obsidian",
   "dataview",
   "metaedit",
-  "obsidian-wrap-with-shortcuts",
   "customjs",
-  "obsidian-minimal-settings",
-  "obsidian-contextual-typography",
   "obsidian-sortable",
   "obsidian-citation-plugin",
-  "obsidian-pandoc"
+  "better-pdf-plugin"
 ]

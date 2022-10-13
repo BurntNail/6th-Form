@@ -2,6 +2,7 @@
   "baseFontSize": 16,
   "translucency": false,
   "baseFontSizeAction": false,
-  "cssTheme": "Jack's Minimal",
-  "theme": "obsidian"
+  "cssTheme": "",
+  "theme": "obsidian",
+  "accentColor": ""
 }

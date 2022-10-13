@@ -1,9 +1,9 @@
 ---
 aliases: "Force"
-tags: ["Physics", "Physics/Skills", "Physics/Skills/Units"]
+tags: ["Physics", "Physics/Skills", "Physics/Skills/Uncertainty"]
 subject: Physics
 topic: Skills
-subtopic: Units
+subtopic: Uncertainty
 type: "Questions"
 ---
 
