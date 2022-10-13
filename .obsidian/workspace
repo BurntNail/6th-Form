@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3f32df733e5b8f2e",
+        "id": "40484cc685ef7e64",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lesson Notes/Design Engineering/Implications of Wider Issues/Energy/Reykjanes Geothermal.md",
+            "file": "Sources/Sources.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Physics",
+                "query": "[[@",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Implications of Wider Issues/Energy/Reykjanes Geothermal.md",
+                "file": "Sources/Sources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Implications of Wider Issues/Energy/Reykjanes Geothermal.md",
+                "file": "Sources/Sources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Implications of Wider Issues/Energy/Reykjanes Geothermal.md"
+                "file": "Sources/Sources.md"
               }
             }
           },
@@ -138,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3f32df733e5b8f2e",
+  "active": "40484cc685ef7e64",
   "lastOpenFiles": [
-    "Sources/@ReykjanesGeothermalPower.md",
+    "Sources/@sciencehistoryinstituteWinningSkin2017.md",
+    "Sources/Sources.md",
+    "Sources/@bbcnewsUSChinaTradeWar2018.md",
+    "Sources/@moynihanSamsungFinallyReveals2017.md",
+    "Sources/@wikipediacontributorsBilliardBallWikipedia.md",
+    "Lesson Notes/Design Engineering/Acronyms.md",
     "Lesson Notes/Design Engineering/Implications of Wider Issues/Energy/Reykjanes Geothermal.md",
-    "().md",
-    "Lesson Notes/Physics/Skills/Uncertainty/Uncertainty Board Questions.md",
-    "Lesson Notes/AL Dataviewer.md",
-    "Lesson Notes/Design Engineering/Material Considerations/Materials Dataviewer.md",
-    "Lesson Notes/Design Engineering/Health & Safety/Risk Assesments.md",
-    "Lesson Notes/Design Engineering/Implications of Wider Issues/Coffee Cup LCA.md",
-    "Lesson Notes/Design Engineering/Implications of Wider Issues/Cradle to Cradle.md",
-    "Lesson Notes/Design Engineering/Health & Safety/Risk Assesments/Rating.md"
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Textiles/Synthetic/Nylon.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Homeworks/Kettle/Kettle Analysis and Steel Prices.md",
+    "Lesson Notes/Design Engineering/Health & Safety/H&S at Work.md"
   ]
 }

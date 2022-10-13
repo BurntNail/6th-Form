@@ -6,7 +6,7 @@ subtopic: Ethics
 type: Notes
 ---
 
-[[@ColtanMobilePhones22]]
+[[@rexanColtanMobilePhones22]]
 
 # Cultural Impacts
  - Smaller Phones as Tantalum capacitors are very capacitive.

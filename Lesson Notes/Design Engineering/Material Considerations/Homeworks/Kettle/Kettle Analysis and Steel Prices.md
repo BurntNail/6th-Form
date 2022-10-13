@@ -39,7 +39,7 @@ Brushed [[Stainless Steel]]:
 
 # Steel Prices
 ## References:
- - [[@USChinaTradeWar2018]]
+ - [[@bbcnewsUSChinaTradeWar2018]]
  - [[@thomasSteelTariffsWhat2018]]
 
 ## Content

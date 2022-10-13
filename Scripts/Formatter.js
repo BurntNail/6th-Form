@@ -97,4 +97,12 @@ class Formatter {
         }
     }
 
+    limit_plus_dots (txt, num) {
+        let { length: len } = txt;
+        if (num < len){
+            return txt.slice(0, num) + '...';
+        } else {
+            return txt;
+        }
+    }
 }

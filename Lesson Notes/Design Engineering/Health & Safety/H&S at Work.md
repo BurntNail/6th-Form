@@ -5,12 +5,12 @@ topic: Health & Safety
 type: "MOC"
 ---
 
- - [[@HealthSafetyWorka]]
+ - [[@ukgovHealthSafetyWork]]
  - [[COSHH]]
  - [[Lesson Notes/Design Engineering/Health & Safety/British Standards]]
  - [[PUWER]]
  - [[Risk Assesments]]
 
 # Consumer Protection
- - [[@ConsumerRightsAct]]
+ - [[@ukgovConsumerRightsAct]]
  - [[@TradeDescriptionsAct]]

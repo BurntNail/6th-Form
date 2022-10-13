@@ -6,7 +6,7 @@ subtopic: Energy
 type: "Atomic Note"
 ---
 
-Main Sources: [[@ReykjanesGeothermalPower]], [[@WhatAreAdvantages]]
+Main Sources [[@powertechnologyReykjanesGeothermalPower]], [[@WhatAreAdvantages]]
 
 # Quick Stats about Reykjanes
 | Term               | Definition                  |
@@ -26,7 +26,7 @@ Main Sources: [[@ReykjanesGeothermalPower]], [[@WhatAreAdvantages]]
 Geothermal Energy is the thermal energy inside the Earth's crust that comes from a mix of tectonic activity and radioactive decay. As the hot parts of the crust heat, they can deform and rise higher up, whilst maintaining high temperatures. At these spots, we can harvest Geothermal Energy. 
 
 ## Specific
-Reykjanes is located in Iceland, famed for its volcanic and tectonic activity, and so is the perfect location for geothermal plants. As of such, this is only one of their more recent plants, and Iceland has 6 Geothermal Plants ranging from 60MW (in Krafla) to 303MW (in Hellisheiði) .[[@IcelandicPowerPlants2011]]
+Reykjanes is located in Iceland, famed for its volcanic and tectonic activity, and so is the perfect location for geothermal plants. As of such, this is only one of their more recent plants, and Iceland has 6 Geothermal Plants ranging from 60MW (in Krafla) to 303MW (in Hellisheiði) .[[@askjaIcelandicPowerPlants2011]]
 
 The plant uses steam/water extracted from its 12 wells, each 2700m deep. After the water/steam mix has risen to the surface, it is taken to a steam separator. Once the steam is isolated, it passes under 19 bars of pressure to a steam dryer and the 2 50MW turbines.
 

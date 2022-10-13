@@ -10,9 +10,9 @@ link: https://www.canva.com/design/DAFLXsz1SxQ/EcCjXGC3wq3OBnIhGhtPYA/view
 Poster:: [[Billiard Balls Analysis.pdf]]
 
 # References
- - [[@BilliardBallWikipedia]]
+ - [[@wikipediacontributorsBilliardBallWikipedia]]
  - [[@websterThousandsTonnesPlastic2019]]
- - [[@WhereDoesRecycling2021]]
+ - [[@bbcnewsWhereDoesRecycling2021]]
  - [[@crashcoursePolymersCrashCourse2014]]
 
 
