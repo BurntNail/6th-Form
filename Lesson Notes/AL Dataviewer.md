@@ -1,4 +1,5 @@
 #Admin/Dataviewer 
+type:: Dataviewer
 
 ```dataviewjs
 const { Formatter } = customJS;
