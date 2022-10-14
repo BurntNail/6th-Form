@@ -9,4 +9,4 @@ type: "Atomic Note"
 See also [[Polyamide|Nylon]], the plastic.
 
  - Often used in Sports
- - [[@noauthor_winning_2017]]
+ - [[@sciencehistoryinstituteWinningSkin2017]]
