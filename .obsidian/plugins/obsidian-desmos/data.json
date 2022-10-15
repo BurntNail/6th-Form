@@ -1,0 +1,7 @@
+{
+  "version": "0.6.4",
+  "cache": {
+    "enabled": true,
+    "location": "Memory"
+  }
+}

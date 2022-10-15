@@ -9,5 +9,7 @@
   "customjs",
   "obsidian-sortable",
   "obsidian-citation-plugin",
-  "better-pdf-plugin"
+  "better-pdf-plugin",
+  "obsidian-desmos",
+  "note-refactor-obsidian"
 ]
