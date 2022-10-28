@@ -11,8 +11,12 @@
             "id": "e404fcf5bb9c312a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lesson Notes/Physics/Electricity/Potential Dividers.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lesson Notes/Physics/Electricity/Potential Dividers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lesson Notes/Physics/Electricity/Potential Dividers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lesson Notes/Physics/Electricity/Potential Dividers.md"
+              }
             }
           },
           {
@@ -140,7 +149,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "281187835a67ef20",
+  "active": "e404fcf5bb9c312a",
   "lastOpenFiles": [
     "Diagram.svg",
     "Lesson Notes/Physics/Electricity/Potential Dividers.md",
