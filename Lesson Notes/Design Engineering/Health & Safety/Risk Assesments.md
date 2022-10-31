@@ -9,9 +9,7 @@ type: "Atomic Note"
 Identify Hazards
 Find Controls/Mitigations
 
-[[Severity]]
-[[Likelihood]]
-[[Rating]]
+Use the [[Severity]] and [[Likelihood]] to get the [[Rating]].
 
 ```dataviewjs
 let pages = dv.pages("#DesignEngineering/HealthSafety/RiskAssesments").filter(note => note.type == "List");
