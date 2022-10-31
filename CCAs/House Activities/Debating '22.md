@@ -18,5 +18,10 @@ maybe make some suggestions to make the law fit the definition, or maybe some st
 ## Common Sense
 People also have to have critical thinking skills...
 
+## Non-digital manipulation
+Large incentive for expensive things to show in the best light, literally
+speak about house photos with lights
+get dem retorical qs, speak slowly
+
 ## Responses
-(write here on the day)
+*(write here on the day)*
