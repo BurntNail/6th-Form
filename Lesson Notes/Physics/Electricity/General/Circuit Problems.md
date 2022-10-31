@@ -1,8 +1,7 @@
 ---
-tags: ["Physics", "Physics/Electricity", "Physics/Electricity/Resistance"]
+tags: ["Physics", "Physics/Electricity", "Physics/Electricity"]
 subject: Physics
 topic: Electricity
-subtopic: Resistance
 type: "Sheet"
 ---
 
