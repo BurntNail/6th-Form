@@ -6,6 +6,8 @@ subtopic: Forces
 type: "Atomic Note"
 ---
 
+## General
+
 $$Input\ Force * Input\ Speed = Output\ Force * Output\ Speed$$
 $$Input\ Force * Distance\ Moved = Output\ Force * Distance\ Moved$$
 Therefore, a mechanism can either:
@@ -17,3 +19,6 @@ Mechanical Advantage is the ratio of output force to input force.
 
 $$MA = \frac{Output\ Force}{Input\ Force}$$
 $$MA = \frac{Input\ Distance}{Output\ Distance}$$
+
+## Pulleys
+$$MA = \frac{Load}{Effort}$$

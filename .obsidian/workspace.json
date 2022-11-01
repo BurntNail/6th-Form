@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Design Thinking/Project Management/Scrums.md",
+                "file": "Lesson Notes/Design Engineering/Technical Understanding/Gears/Pulleys.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Physics",
+                "query": "Mechanical Adva",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Design Thinking/Project Management/Scrums.md",
+                "file": "Lesson Notes/Design Engineering/Technical Understanding/Gears/Pulleys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Design Thinking/Project Management/Scrums.md",
+                "file": "Lesson Notes/Design Engineering/Technical Understanding/Gears/Pulleys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Design Thinking/Project Management/Scrums.md"
+                "file": "Lesson Notes/Design Engineering/Technical Understanding/Gears/Pulleys.md"
               }
             }
           },
@@ -144,17 +145,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "281187835a67ef20",
+  "active": "7c13e296bafde62c",
   "lastOpenFiles": [
-    "Lesson Notes/Design Engineering/Design Thinking/Project Management/Six Sigma.md",
-    "Lesson Notes/Design Engineering/Design Thinking/Project Management/Critical Path Analysis.md",
-    "Lesson Notes/Design Engineering/Design Thinking/Project Management/Gantt Chart.md",
-    "Lesson Notes/Design Engineering/Design Thinking/Project Management/Scrums.md",
-    "Lesson Notes/Design Engineering/Design Thinking/Project Management.md",
-    "Lesson Notes/Design Engineering/Design Thinking/Project Management Tools.md",
-    "Lesson Notes/Design Engineering/Health & Safety/British Standards.md",
-    "Lesson Notes/Design Engineering/Health & Safety/H&S at Work.md",
-    "Lesson Notes/Design Engineering/Health & Safety/Risk Assesments/Likelihood.md",
-    "Lesson Notes/Design Engineering/Health & Safety/Risk Assesments/Example Risk Assesment.md"
+    "Lesson Notes/Design Engineering/Technical Understanding/Forces/Mechanical Advantage.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Gears/Pulleys.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Gears/Gear Ratios.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Gears/Chain and Sprockets.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Gears/Pulleys & Belts.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Gears/Screw Threads.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Gears/Pitch Circle Diameter and Module.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Gears/Bevel Gears.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Gears/rack_pinion.gif",
+    "Lesson Notes/Design Engineering/Technical Understanding/Gears/Compound Gear Trains.md"
   ]
 }
