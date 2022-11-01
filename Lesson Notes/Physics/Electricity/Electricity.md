@@ -13,6 +13,7 @@ type: "MOC"
 
 # Homeworks:
  - [[Charge & Current]]
+ - [[Maguire J Electricity Qs.pdf]]]
 
 # CPACs:
  - [[Resistivity of a Wire]]
