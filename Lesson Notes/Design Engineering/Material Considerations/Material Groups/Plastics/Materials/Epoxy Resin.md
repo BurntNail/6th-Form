@@ -5,6 +5,8 @@ topic: Materials
 subtopic: Plastics
 type: "Atomic Note"
 ---
+
+Trade name: Araldyte
  
  - Used as an adhesive
  - Two part - resin & hardener

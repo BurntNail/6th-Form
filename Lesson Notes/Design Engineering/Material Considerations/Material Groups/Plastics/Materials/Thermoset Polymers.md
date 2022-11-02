@@ -5,6 +5,8 @@ topic: Materials
 subtopic: Plastics
 type: "MOC"
 ---
+
+General Rule: ends in -hyde or -resin, then is a thermoset
  
  - Cross-linked, not flexible.
  - When heated, burns
