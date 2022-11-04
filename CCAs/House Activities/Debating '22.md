@@ -1,3 +1,6 @@
+#CCAs, #CCAs/Debating
+
+
 > Opposing **This house would ban the use of digital manipulation in advertising, including social media ad content**
 
 # Overview
