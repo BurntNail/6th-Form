@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Implications of Wider Issues/Metals/Basic Impacts.md",
+                "file": "Lesson Notes/Design Engineering/Design Thinking/Design Methodology/Circular Economy.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Implications of Wider Issues/Metals/Basic Impacts.md",
+                "file": "Lesson Notes/Design Engineering/Design Thinking/Design Methodology/Circular Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Implications of Wider Issues/Metals/Basic Impacts.md",
+                "file": "Lesson Notes/Design Engineering/Design Thinking/Design Methodology/Circular Economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Implications of Wider Issues/Metals/Basic Impacts.md"
+                "file": "Lesson Notes/Design Engineering/Design Thinking/Design Methodology/Circular Economy.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "b53ef318bc88c8c5",
   "lastOpenFiles": [
-    "Lesson Notes/Design Engineering/Implications of Wider Issues/Metals/Current Mining Impacts.md",
-    "CCAs/House Activities/Debating '22.md",
-    "Revision Notes/Physics/Ohm's Law.md",
-    "Lesson Notes/Design Engineering/Implications of Wider Issues/Metals/Basic Impacts.md",
-    "Lesson Notes/Design Engineering/Implications of Wider Issues/Polymers/Nappies.md",
-    "Lesson Notes/Physics/Electricity/General/Thermistors.md",
-    "Lesson Notes/Physics/Electricity/Resistance/Thermistors.md",
-    "Lesson Notes/Physics/Electricity/Resistance/Superconductivity.md",
-    "Lesson Notes/Design Engineering/Implications of Wider Issues/Environmental Directives/Restriction of Hazardous Substances.md",
-    "Lesson Notes/Design Engineering/Implications of Wider Issues/Environmental Directives/Waste Electrical and Electronic Equipment.md"
+    "Lesson Notes/Design Engineering/Design Thinking/Design Methodology/Circular Economy.md",
+    "Lesson Notes/Design Engineering/Implications of Wider Issues/Circular Economy.md",
+    "Lesson Notes/Design Engineering/Design Thinking/Design Methodology/System Thinking.md",
+    "Lesson Notes/AL Dataviewer.md",
+    "Lesson Notes/Design Engineering/Design Thinking/Design Methodology/User Centred Design.md",
+    "Lesson Notes/Design Engineering/Design Thinking/Project Management/Critical Path Analysis.md",
+    "Lesson Notes/Physics/Electricity/General/Electromotive Force.md",
+    "Latex Cheatsheet.md",
+    "Lesson Notes/Physics/Electricity/General/Kirchov's Second Law.md",
+    "Lesson Notes/Design Engineering/Implications of Wider Issues/Metals/Basic Impacts.md"
   ]
 }
