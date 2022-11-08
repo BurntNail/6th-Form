@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "280857ff30d5b259",
+        "id": "18f39aa342d5f805",
         "type": "tabs",
         "children": [
           {
-            "id": "b53ef318bc88c8c5",
+            "id": "92eea2c47b094451",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Design Thinking/Design Methodology/Circular Economy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed62599ad947f501",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CCAs/House Activities/Debating '22.md",
+                "file": "Lesson Notes/Design Engineering/Technical Understanding/Gears/25-1 Gear.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Mechanical Adva",
+                "query": "machine principle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +58,7 @@
             }
           },
           {
-            "id": "0a58fb37c10638d6",
+            "id": "6a871f608e6b9a14",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Design Thinking/Design Methodology/Circular Economy.md",
+                "file": "Lesson Notes/Design Engineering/Technical Understanding/Gears/25-1 Gear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Design Thinking/Design Methodology/Circular Economy.md",
+                "file": "Lesson Notes/Design Engineering/Technical Understanding/Gears/25-1 Gear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Design Thinking/Design Methodology/Circular Economy.md"
+                "file": "Lesson Notes/Design Engineering/Technical Understanding/Gears/25-1 Gear.md"
               }
             }
           },
@@ -157,17 +145,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "b53ef318bc88c8c5",
+  "active": "92eea2c47b094451",
   "lastOpenFiles": [
-    "Lesson Notes/Design Engineering/Design Thinking/Design Methodology/Circular Economy.md",
-    "Lesson Notes/Design Engineering/Implications of Wider Issues/Circular Economy.md",
-    "Lesson Notes/Design Engineering/Design Thinking/Design Methodology/System Thinking.md",
-    "Lesson Notes/AL Dataviewer.md",
-    "Lesson Notes/Design Engineering/Design Thinking/Design Methodology/User Centred Design.md",
-    "Lesson Notes/Design Engineering/Design Thinking/Project Management/Critical Path Analysis.md",
-    "Lesson Notes/Physics/Electricity/General/Electromotive Force.md",
-    "Latex Cheatsheet.md",
-    "Lesson Notes/Physics/Electricity/General/Kirchov's Second Law.md",
-    "Lesson Notes/Design Engineering/Implications of Wider Issues/Metals/Basic Impacts.md"
+    "Lesson Notes/Design Engineering/Technical Understanding/Gears/1-1 Gear.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Gears/Chain and Sprockets.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Gears/Bevel Gears.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Gears/Worm Gears.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Efficiency in Mechanical Systems.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Bearing & Lubrication/Tapered Roller & Thrust Bearings.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Bearing & Lubrication/Axial Forces.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Bearing & Lubrication/Fluid Bearings.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Bearing & Lubrication/Shaft.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Bearing & Lubrication/Bearings.md"
   ]
 }
