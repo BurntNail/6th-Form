@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "18f39aa342d5f805",
+        "id": "ecb9b4c40098ff18",
         "type": "tabs",
         "children": [
           {
-            "id": "92eea2c47b094451",
+            "id": "fc5169ea633aa03f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Technical Understanding/Gears/25-1 Gear.md",
+                "file": "Lesson Notes/Design Engineering/Implications of Wider Issues/Textiles/Cotton.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2b1c5bed9afd205",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson Notes/Design Engineering/Implications of Wider Issues/Textiles/The Lifecycle of a Cotton Shirt.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Technical Understanding/Gears/25-1 Gear.md",
+                "file": "Lesson Notes/Design Engineering/Implications of Wider Issues/Textiles/The Lifecycle of a Cotton Shirt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Technical Understanding/Gears/25-1 Gear.md",
+                "file": "Lesson Notes/Design Engineering/Implications of Wider Issues/Textiles/The Lifecycle of a Cotton Shirt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Technical Understanding/Gears/25-1 Gear.md"
+                "file": "Lesson Notes/Design Engineering/Implications of Wider Issues/Textiles/The Lifecycle of a Cotton Shirt.md"
               }
             }
           },
@@ -145,17 +158,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "92eea2c47b094451",
+  "active": "c2b1c5bed9afd205",
   "lastOpenFiles": [
-    "Lesson Notes/Design Engineering/Technical Understanding/Gears/1-1 Gear.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Gears/Chain and Sprockets.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Gears/Bevel Gears.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Gears/Worm Gears.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Efficiency in Mechanical Systems.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Bearing & Lubrication/Tapered Roller & Thrust Bearings.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Bearing & Lubrication/Axial Forces.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Bearing & Lubrication/Fluid Bearings.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Bearing & Lubrication/Shaft.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Bearing & Lubrication/Bearings.md"
+    "Lesson Notes/Design Engineering/Implications of Wider Issues/Textiles/Cotton.md",
+    "Lesson Notes/Design Engineering/Implications of Wider Issues/Textiles/The Lifecycle of a Cotton Shirt.md",
+    "Lesson Notes/Design Engineering/Implications of Wider Issues/Timbers/Climate 101 Nat Geo Vid.md",
+    "GCSEs/Past Papers/Chem/June 19.md",
+    "Lesson Notes/Design Engineering/Implications of Wider Issues/Timbers/Bamboo.md",
+    "Lesson Notes/Design Engineering/Implications of Wider Issues/Timbers/Forestry Stewardship Council.md",
+    "Lesson Notes/Design Engineering/Implications of Wider Issues/Timbers/Mahogany.md",
+    "Lesson Notes/Design Engineering/Implications of Wider Issues/Timbers/Teak.md",
+    "Lesson Notes/Design Engineering/Implications of Wider Issues/Timbers/Deforestation Impacts.md",
+    "Lesson Notes/Design Engineering/Implications of Wider Issues/Timbers/Hardwoods.md"
   ]
 }
