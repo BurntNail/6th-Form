@@ -1,0 +1,75 @@
+% !TEX TS-program = pdflatex
+% !TEX encoding = UTF-8 Unicode
+
+\input{preamble}
+
+\title{Pure Mathematics Year 1/AS}
+\author{Jack Maguire}
+\date{}
+
+\begin{document}
+\maketitle
+
+\tableofcontents
+\newpage
+
+\topic{Graphs and Transformations}	
+\subtopic{Transformations}
+
+The graph of \(f(x)\), here as an example: \(y = x^2\).
+\plotbasic{x^2}
+
+
+\parttitle{Translation}
+\textbf{The graph of \(f(x-a)\) is the graph of \(f(x)\) translated right by \(a\) units.} For example, if we want to move our graph 2 units right, then we can plot \(y = (x-2)^2\).
+\plotbasic{(x-2)^2}
+
+\textbf{The graph of \(f(x)+b\) is the graph of \(f(x)\) translated upwards by \(b\) units.} For example, if we want to move our graph 3 units down, then we can plot \(y = x^2 - 3\).
+\plotbasic{x^2-3}
+
+
+\parttitle{Scaling}
+\nb{Never say shrink - always say stretch by a factor \(e\) where \(|e| < 1\)}
+
+\textbf{The graph of \(cf(x)\) is the graph of \(f(x)\) stretched vertically by a factor of \(c\).} For example, if we want to stretch our graph by a factor of 2, then we can plot \(y = 2 * x^2\).
+\plotbasic{2 * x^2}
+
+\textbf{The graph of \(f(dx)\) is the graph of \(f(x)\) stretched horizontally by a factor of \(d^{-1}\).} For example, if we want to stretch our graph by a factor of 5, then we can plot \(y = (0.2 * x)^2\).
+\plotbasic{(0.2*x)^2}
+
+\newcounter{TransformationsCounter}
+\setcounter{TransformationsCounter}{1}
+
+\begin{example}{\arabic{TransformationsCounter}}{Combining Transformations}
+	
+	\[
+		y = cf(\frac{1}{a} * (x-b)) + d
+	\]
+	
+	This is obtained from \(f(x)\) by doing the following:
+	\begin{enumerate}
+		\item Shift from the right \(b\) units.
+		\item Stretch horizontally by a factor of \(a\).
+		\item Stretch vertically by a factor of \(c\).
+		\item Shift upwards by \(d\) units.
+	\end{enumerate}
+	
+\end{example}
+\addtocounter{TransformationsCounter}{1}
+\begin{example}{\arabic{TransformationsCounter}}{Combining Transformations}
+	
+	\[
+	y = f(-2x)
+	\]
+	
+	This is obtained from \(f(x)\) by doing the following:
+	\begin{enumerate}
+		\item Flip horizontally.
+		\item Stretch horizontally by a factor of \(0.5\).
+	\end{enumerate}
+	
+\end{example}
+\addtocounter{TransformationsCounter}{1}
+
+
+\end{document}
