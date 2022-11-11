@@ -1,5 +1,5 @@
 ---
-tags: ["DesignEngineering", "DesignEngineering/WiderIssues", "DesignEngineering/WiderIssues/Polymers", "DesignEngineering/Materials/Textiles"]
+tags: ["DesignEngineering", "DesignEngineering/WiderIssues", "DesignEngineering/WiderIssues/Textiles", "DesignEngineering/Materials/Textiles", "DesignEngineering/HowItsMade"]
 subject: DesignEngineering
 topic: Wider Issues
 subtopic: Textiles
