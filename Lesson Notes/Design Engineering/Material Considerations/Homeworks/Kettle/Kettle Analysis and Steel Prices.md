@@ -3,7 +3,7 @@ tags: ["DesignEngineering", "DesignEngineering/Materials"]
 subject: DesignEngineering
 topic: Materials
 subtopic: Ethics
-type: Postessay
+type: "Postessay"
 link: https://www.canva.com/design/DAFM4MsMpDo/LCWaRk56yGUTOuNconpKWA/view
 ---
 **Question**:: Take several photographs of your kettle at home. Use the details on pages 132-133 to annotate the photos. Present as a display page, either on PowerPoint or A3 paper. Then, Looking at BBC news or similar, briefly read around the topic of steel prices/tariffs in the US during the trump administration and how it impacted on trade/production in China. Summarise your findings (treat as a 4-6 mark question).

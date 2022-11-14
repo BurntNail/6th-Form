@@ -15,3 +15,7 @@ material_properties: ["Ductile"]
  - [[Corrosion Resistance|Corrosion Resistant]]
  - Melting Point $3422^{\circ}C$
  - Highest [[Tensile Strength]] of any metal
+
+# More Details
+
+See also [[Lesson Notes/Design Engineering/Implications of Wider Issues/Product Lifecycle Management/Tungsten]]

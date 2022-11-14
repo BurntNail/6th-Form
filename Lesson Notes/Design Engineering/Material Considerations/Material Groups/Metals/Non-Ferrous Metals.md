@@ -12,6 +12,6 @@ Do not contain Iron
  - [[Zinc]]
  - [[Copper]]
  - [[Tin]]
- - [[Tungsten]]
+ - [[Lesson Notes/Design Engineering/Material Considerations/Material Groups/Metals/Elements/Tungsten]]
 
 [[Non-Ferrous Alloys]]
