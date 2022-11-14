@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lesson Notes/Physics/Electricity/General/Electromotive Force.md",
+                "file": "Lesson Notes/Physics/Electricity/Oscilloscope.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesson Notes/Physics/Electricity/General/Electromotive Force.md",
+                "file": "Lesson Notes/Physics/Electricity/Oscilloscope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lesson Notes/Physics/Electricity/General/Electromotive Force.md",
+                "file": "Lesson Notes/Physics/Electricity/Oscilloscope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lesson Notes/Physics/Electricity/General/Electromotive Force.md"
+                "file": "Lesson Notes/Physics/Electricity/Oscilloscope.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "4161133253d104f5",
   "lastOpenFiles": [
+    "Lesson Notes/Physics/Electricity/Alternating Current.md",
+    "Lesson Notes/Physics/Electricity/Oscilloscope.md",
+    "Lesson Notes/Physics/Electricity/Electricity.md",
+    "Lesson Notes/Physics/Electricity/General/Electromotive Force.md",
     "Lesson Notes/AL Dataviewer.md",
     "Lesson Notes/Design Engineering/Implications of Wider Issues/Product Lifecycle Management/Product Support and EOL.md",
     "Lesson Notes/Design Engineering/Implications of Wider Issues/Product Lifecycle Management/Maintenance of Machinery.md",
     "Lesson Notes/Design Engineering/Implications of Wider Issues/Product Lifecycle Management/System Compatability.md",
     "Lesson Notes/Design Engineering/Implications of Wider Issues/Product Lifecycle Management/Disruptive Technologies.md",
-    "Lesson Notes/Design Engineering/Implications of Wider Issues/Textiles/The Lifecycle of a Cotton Shirt.md",
-    "Lesson Notes/Design Engineering/Implications of Wider Issues/Textiles/How It's Made - Wool.md",
-    "Lesson Notes/Design Engineering/Implications of Wider Issues/Textiles/How It's Made - Silk.md",
-    "Lesson Notes/Design Engineering/Implications of Wider Issues/Textiles/Cotton.md",
-    "Lesson Notes/Design Engineering/Implications of Wider Issues/Textiles/How It's Made - Leather.md"
+    "Lesson Notes/Design Engineering/Implications of Wider Issues/Textiles/The Lifecycle of a Cotton Shirt.md"
   ]
 }
