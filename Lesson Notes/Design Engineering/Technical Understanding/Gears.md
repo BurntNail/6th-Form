@@ -5,6 +5,7 @@ topic: Technical Understanding
 subtopic: Gears
 type: "Atomic Note"
 ---
+
 # Uses
  - Inc/Dec the speed of rotation
  - Inc/Dec [[Torque]]
