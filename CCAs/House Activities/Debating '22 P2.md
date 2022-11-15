@@ -1,3 +1,5 @@
+#CCAs, #CCAs/Debating
+
 > Proposing: **This House Rejects the rise of social media**
 
 Base argument of context/lack thereof

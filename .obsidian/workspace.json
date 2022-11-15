@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Internal Resistance",
+                "query": "type: \"home\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
