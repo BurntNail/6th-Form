@@ -1,5 +1,5 @@
 ---
-aliases: ["Elastic"]
+aliases: ["Elastic", "Young's Modulus"]
 tags: ["DesignEngineering", "DesignEngineering/Materials", "DesignEngineering/Materials/Properties", "DesignEngineering/Materials/Properties/PropertyWords"]
 subject: DesignEngineering
 topic: Materials
