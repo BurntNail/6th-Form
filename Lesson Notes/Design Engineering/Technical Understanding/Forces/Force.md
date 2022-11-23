@@ -6,4 +6,4 @@ subtopic: Forces
 type: "Atomic Note"
 ---
 
-A force is a push, pull or twist measured in Newtons.
+A force is a push, pull or twist measured in Newtons ($N$).

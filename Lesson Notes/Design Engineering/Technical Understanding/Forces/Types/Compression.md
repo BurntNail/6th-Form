@@ -3,7 +3,8 @@ tags: ["DesignEngineering", "DesignEngineering/TechnicalUnderstanding", "DesignE
 subject: DesignEngineering
 topic: Technical Understanding
 subtopic: Forces
-type: "Atomic Note"
+type: "Force"
 ---
-
-A measure of how much force is acting on an object causing that object to rotate (turning force). Measured in Newton metres ($Nm$).
+definition:: A force making something smaller
+example:: Weight of objects on top, inner bend of acrylic line bend
+opposite:: [[Tension]]
