@@ -4,7 +4,7 @@ abstract: "Hugo Boss created quite a storm with its latest trademark challenge. 
 citekey: "smithHUGOBOSSVs2020"
 authors: "Shireen Smith"
 zotero_url: "zotero://select/items/@smithHUGOBOSSVs2020"
-tags: "bib"
+tags: "Admin/bib"
 type: "Source"
 ---
 

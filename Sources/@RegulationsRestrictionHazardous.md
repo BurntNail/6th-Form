@@ -4,7 +4,7 @@ abstract: "Guidance for manufacturers, importers and distributors."
 citekey: "RegulationsRestrictionHazardous"
 authors: ""
 zotero_url: "zotero://select/items/@RegulationsRestrictionHazardous"
-tags: "bib"
+tags: "Admin/bib"
 type: "Source"
 ---
 

@@ -4,7 +4,7 @@ abstract: "There are many advantages of geothermal energy but also some challeng
 citekey: "WhatAreAdvantages"
 authors: ""
 zotero_url: "zotero://select/items/@WhatAreAdvantages"
-tags: "bib"
+tags: "Admin/bib"
 type: "Source"
 ---
 

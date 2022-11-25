@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "db075d6530c56a13",
+        "id": "9243704234e43f6c",
         "type": "tabs",
         "children": [
           {
-            "id": "a185d283ade256b7",
+            "id": "46926e0efae7f60f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Technical Understanding/Forces/Stress, Strain, YM.md",
+                "file": "Lesson Notes/Design Engineering/Learning from Existing Products & Practice/Less successful technologies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f844c5a76e725aaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Plastics/Materials/Polypropylene.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Strain",
+                "query": "\"bib\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,8 +98,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Technical Understanding/Forces/Stress, Strain, YM.md",
-                "collapseAll": false,
+                "file": "Lesson Notes/Design Engineering/Learning from Existing Products & Practice/Less successful technologies.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Technical Understanding/Forces/Stress, Strain, YM.md",
+                "file": "Lesson Notes/Design Engineering/Learning from Existing Products & Practice/Less successful technologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Technical Understanding/Forces/Stress, Strain, YM.md"
+                "file": "Lesson Notes/Design Engineering/Learning from Existing Products & Practice/Less successful technologies.md"
               }
             }
           },
@@ -138,25 +150,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 200,
     "collapsed": true
   },
-  "active": "a185d283ade256b7",
+  "active": "46926e0efae7f60f",
   "lastOpenFiles": [
-    "Lesson Notes/Design Engineering/Technical Understanding/Forces/Force Kinds.md",
-    "Lesson Notes/Design Engineering/Material Considerations/Properties/Property Words/Elasticity.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Forces/Increasing Rigidity.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Forces/Types/Shear.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Forces/DE Levers.pdf",
-    "Lesson Notes/Design Engineering/Technical Understanding/Forces/Types/Bending.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Forces/Types/Torsion.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Forces/Types/Compression.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Forces/Types/Tension.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Forces/Types/Static.md"
+    "Lesson Notes/Design Engineering/Implications of Wider Issues/Product Lifecycle Management/Disruptive Technologies.md",
+    "Lesson Notes/Design Engineering/Learning from Existing Products & Practice/Teardown Pictures.md",
+    "Lesson Notes/Design Engineering/Learning from Existing Products & Practice/Teardown Writeup.md",
+    "Lesson Notes/Design Engineering/Learning from Existing Products & Practice/Why is it important to understand New Technology.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Plastics/Materials/Polypropylene.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Textiles/Synthetic/Nylon.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Forces/Mechanical Advantage.md",
+    "Lesson Notes/Design Engineering/Learning from Existing Products & Practice/Key Terminology.md",
+    "Lesson Notes/Design Engineering/Learning from Existing Products & Practice/Hairdryer Example.md",
+    "Sources/@wikipediacontributorsTungsten2022.md"
   ]
 }

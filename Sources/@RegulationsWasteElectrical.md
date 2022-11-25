@@ -4,7 +4,7 @@ abstract: "Guidance for manufacturers, importers and distributors."
 citekey: "RegulationsWasteElectrical"
 authors: ""
 zotero_url: "zotero://select/items/@RegulationsWasteElectrical"
-tags: "bib"
+tags: "Admin/bib"
 type: "Source"
 ---
 

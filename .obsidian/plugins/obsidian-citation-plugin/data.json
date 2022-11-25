@@ -2,7 +2,7 @@
   "citationExportFormat": "biblatex",
   "literatureNoteTitleTemplate": "@{{citekey}}",
   "literatureNoteFolder": "Sources/",
-  "literatureNoteContentTemplate": "---\ntitle: \"{{title}}\"\nabstract: \"{{abstract}}\"\ncitekey: \"{{citekey}}\"\nauthors: \"{{authorString}}\"\nzotero_url: \"{{zoteroSelectURI}}\"\ntags: \"bib\"\ntype: \"Source\"\n---\n\n# {{title}} \n> {{abstract}}\n\n[Open In Zotero]({{zoteroSelectURI}})",
+  "literatureNoteContentTemplate": "---\ntitle: \"{{title}}\"\nabstract: \"{{abstract}}\"\ncitekey: \"{{citekey}}\"\nauthors: \"{{authorString}}\"\nzotero_url: \"{{zoteroSelectURI}}\"\ntags: \"Admin/bib\"\ntype: \"Source\"\n---\n\n# {{title}} \n> {{abstract}}\n\n[Open In Zotero]({{zoteroSelectURI}})",
   "markdownCitationTemplate": "@{{citekey}}",
   "alternativeMarkdownCitationTemplate": "@{{citekey}}",
   "citationExportPath": "C:\\Users\\Jack Maguire\\Documents\\6th-form\\sources.bib"

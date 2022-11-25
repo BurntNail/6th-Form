@@ -4,7 +4,7 @@ abstract: "Russell Hobbs Buckingham Quiet Boil 1.7 L, 3000 W Kettle 20460"
 citekey: "hobbsRussellHobbs20460"
 authors: "Russel Hobbs"
 zotero_url: "zotero://select/items/@hobbsRussellHobbs20460"
-tags: "bib"
+tags: "Admin/bib"
 type: "Source"
 ---
 

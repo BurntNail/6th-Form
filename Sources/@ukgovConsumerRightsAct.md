@@ -4,7 +4,7 @@ abstract: "An Act to amend the law relating to the rights of consumers and prote
 citekey: "ukgovConsumerRightsAct"
 authors: "UK Gov"
 zotero_url: "zotero://select/items/@ukgovConsumerRightsAct"
-tags: "bib"
+tags: "Admin/bib"
 type: "Source"
 ---
 

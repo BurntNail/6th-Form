@@ -4,7 +4,7 @@ abstract: "An Act to make further provision for securing the health, safety and 
 citekey: "ukgovHealthSafetyWork"
 authors: "UK Gov"
 zotero_url: "zotero://select/items/@ukgovHealthSafetyWork"
-tags: "bib"
+tags: "Admin/bib"
 type: "Source"
 ---
 

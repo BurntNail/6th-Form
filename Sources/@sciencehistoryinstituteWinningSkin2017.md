@@ -4,7 +4,7 @@ abstract: "Michael Phelps marched into the Beijing National Aquatics Center with
 citekey: "sciencehistoryinstituteWinningSkin2017"
 authors: "Science History Institute"
 zotero_url: "zotero://select/items/@sciencehistoryinstituteWinningSkin2017"
-tags: "bib"
+tags: "Admin/bib"
 type: "Source"
 ---
 

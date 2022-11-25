@@ -4,7 +4,7 @@ abstract: "The pioneering Reykjanes Geothermal Power Plant in Iceland is now pro
 citekey: "powertechnologyReykjanesGeothermalPower"
 authors: "Power Technology"
 zotero_url: "zotero://select/items/@powertechnologyReykjanesGeothermalPower"
-tags: "bib"
+tags: "Admin/bib"
 type: "Source"
 ---
 

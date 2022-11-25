@@ -4,7 +4,7 @@ abstract: "Tungsten, or wolfram, is a chemical element with the symbol W and ato
 citekey: "wikipediacontributorsTungsten2022"
 authors: "Wikipedia Contributors'"
 zotero_url: "zotero://select/items/@wikipediacontributorsTungsten2022"
-tags: "bib"
+tags: "Admin/bib"
 type: "Source"
 ---
 

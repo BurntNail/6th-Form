@@ -4,7 +4,7 @@ abstract: "The tit-for-tat conflict moves up a gear as China immediately retalia
 citekey: "bbcnewsUSChinaTradeWar2018"
 authors: "BBC News"
 zotero_url: "zotero://select/items/@bbcnewsUSChinaTradeWar2018"
-tags: "bib"
+tags: "Admin/bib"
 type: "Source"
 ---
 

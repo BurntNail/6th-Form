@@ -4,7 +4,7 @@ abstract: "standard acceleration of gravity"
 citekey: "nistCODATAValueStandard"
 authors: "NIST"
 zotero_url: "zotero://select/items/@nistCODATAValueStandard"
-tags: "bib"
+tags: "Admin/bib"
 type: "Source"
 ---
 

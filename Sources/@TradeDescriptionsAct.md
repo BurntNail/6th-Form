@@ -4,7 +4,7 @@ abstract: "An Act to replace the Merchandise Marks Acts 1887 to 1953 by fresh pr
 citekey: "TradeDescriptionsAct"
 authors: ""
 zotero_url: "zotero://select/items/@TradeDescriptionsAct"
-tags: "bib"
+tags: "Admin/bib"
 type: "Source"
 ---
 

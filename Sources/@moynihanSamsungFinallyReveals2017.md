@@ -4,7 +4,7 @@ abstract: "The smartphone maker offered an explanation today regarding the Galax
 citekey: "moynihanSamsungFinallyReveals2017"
 authors: "Tim Moynihan"
 zotero_url: "zotero://select/items/@moynihanSamsungFinallyReveals2017"
-tags: "bib"
+tags: "Admin/bib"
 type: "Source"
 ---
 

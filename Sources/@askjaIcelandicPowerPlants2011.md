@@ -4,7 +4,7 @@ abstract: "Iceland's largest power plant is the 690 MW Fljótsdalsstöð Hydropo
 citekey: "askjaIcelandicPowerPlants2011"
 authors: "ASKJA"
 zotero_url: "zotero://select/items/@askjaIcelandicPowerPlants2011"
-tags: "bib"
+tags: "Admin/bib"
 type: "Source"
 ---
 
