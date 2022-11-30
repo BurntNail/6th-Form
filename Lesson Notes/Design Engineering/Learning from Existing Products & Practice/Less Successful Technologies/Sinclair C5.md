@@ -3,13 +3,10 @@ tags: ["DesignEngineering", "DesignEngineering/LearningFromExisting", "DesignEng
 subject: DesignEngineering
 topic: LearningFromExisting
 subtopic: LessSuccessfulTechs
-type: "MOC"
+type: "Atomic Note"
 ---
-
-![[Sinclair C5]]
-
-![[Early VR]]
-
-![[Apple Newton]]
-
-![[Google Glass]]
+ 
+ - Single-person electric car by Sir Clive Sinclair.
+ - 1985 - too early. 
+ - Technically *an electrically assisted peddle cycle*
+ - Lots of safety issues

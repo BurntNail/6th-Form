@@ -3,13 +3,9 @@ tags: ["DesignEngineering", "DesignEngineering/LearningFromExisting", "DesignEng
 subject: DesignEngineering
 topic: LearningFromExisting
 subtopic: LessSuccessfulTechs
-type: "MOC"
+type: "Atomic Note"
 ---
-
-![[Sinclair C5]]
-
-![[Early VR]]
-
-![[Apple Newton]]
-
-![[Google Glass]]
+ 
+ - Original concept never really took off - see ^
+ - Now somewhat reincarnated in snapchat/rayban glasses
+ - Also see Zach Friedman Telepromter

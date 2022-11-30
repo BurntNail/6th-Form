@@ -12,7 +12,7 @@ However, it is generally beneficial to maintain a degree of compatibility to enc
 Designing products to be compatible with older versions is called backwards compatibility.
 Also think about new updates slowing down phones, or new connection/protocol standards.
 
-![[Disruptive Technologies]]
+![[Lesson Notes/Design Engineering/Implications of Wider Issues/Product Lifecycle Management/Disruptive Technologies]]
 
 ## Brand Loyalty
  - Apple Walled Garden
