@@ -47,13 +47,17 @@ Linked to [[Lesson Notes/Design Engineering/Implications of Wider Issues/Product
 
 ## Drones
  - Can be ran autonomously or from behind line of sight.
- - Can act as telepresence for dangerous places (SAR or warzones)
- - Filming things like Free Solo
- - Military Weaponization -> Delivering Humanitarian Aid
+ - Can act as telepresence for dangerous places (SAR or warzones).
+ - Filming things like Free Solo.
+ - Military Weaponization -> Delivering Humanitarian Aid.
 
 ## Graphene
- - Incredibly light, incredibly strong layer of carbon
- - Single sheet of atoms
- - Really cool, but not enough of a bonus over most existing things to replace
- - Impressive properties for impregnated rubber. 
- - Ink can be stretched, washed, etc. 
+ - Incredibly light, incredibly strong layer of carbon.
+ - Single sheet of atoms.
+ - Really cool, but not enough of a bonus over most existing things to replace.
+ - Impressive properties for impregnated rubber.
+ - Ink can be stretched, washed, etc.
+
+## AI
+ - Large expected job losses for certain kinds of jobs, eg. cashiers, bank tellers, postal service workers, admin assistants, 
+ - DALLE-2
