@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Implications of Wider Issues/Cradle to Cradle.md",
+                "file": "Lesson Notes/Physics/Particle Physics/History of Particle Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Implications of Wider Issues/Cradle to Cradle.md",
+                "file": "Lesson Notes/Physics/Particle Physics/History of Particle Models.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Implications of Wider Issues/Cradle to Cradle.md",
+                "file": "Lesson Notes/Physics/Particle Physics/History of Particle Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Implications of Wider Issues/Cradle to Cradle.md"
+                "file": "Lesson Notes/Physics/Particle Physics/History of Particle Models.md"
               }
             }
           },
@@ -159,6 +159,8 @@
   },
   "active": "f2397e166b168fe2",
   "lastOpenFiles": [
+    "Lesson Notes/Physics/Skills/Intro to 6th Form Tasks.md",
+    "Lesson Notes/Design Engineering/Implications of Wider Issues/Cradle to Cradle.md",
     "Lesson Notes/Design Engineering/Learning from Existing Products & Practice/Planned Obselescense.md",
     "Lesson Notes/Design Engineering/Learning from Existing Products & Practice/Economies of Scale.md",
     "Lesson Notes/Design Engineering/Learning from Existing Products & Practice/Hairdryer Example.md",
@@ -166,8 +168,6 @@
     "Lesson Notes/Design Engineering/Technical Understanding/Forces/Young's Modulus.md",
     "Lesson Notes/Design Engineering/Material Considerations/Properties/Property Words/Elasticity.md",
     "Lesson Notes/Design Engineering/Technical Understanding/Forces/Stress.md",
-    "Lesson Notes/Design Engineering/Material Considerations/Properties/Property Words/Tensile Strength.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Forces/Strain.md",
-    "CCAs/King's Essay/Ideas/Programming in 2023.md"
+    "Lesson Notes/Design Engineering/Material Considerations/Properties/Property Words/Tensile Strength.md"
   ]
 }
