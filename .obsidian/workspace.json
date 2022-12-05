@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lesson Notes/Physics/Particle Physics/History of Particle Models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f345df8a33f8cbbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lesson Notes/Design Engineering/Learning from Existing Products & Practice/Hairdryer Example.md",
+                "file": "Lesson Notes/Physics/Particle Physics/Atomic Charge & Specific Charge.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"bib\"",
+                "query": "\\ ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesson Notes/Physics/Particle Physics/History of Particle Models.md",
+                "file": "Lesson Notes/Physics/Particle Physics/Atomic Charge & Specific Charge.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lesson Notes/Physics/Particle Physics/History of Particle Models.md",
+                "file": "Lesson Notes/Physics/Particle Physics/Atomic Charge & Specific Charge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lesson Notes/Physics/Particle Physics/History of Particle Models.md"
+                "file": "Lesson Notes/Physics/Particle Physics/Atomic Charge & Specific Charge.md"
               }
             }
           },
@@ -159,15 +147,15 @@
   },
   "active": "f2397e166b168fe2",
   "lastOpenFiles": [
-    "Lesson Notes/Physics/Skills/Intro to 6th Form Tasks.md",
-    "Lesson Notes/Design Engineering/Implications of Wider Issues/Cradle to Cradle.md",
-    "Lesson Notes/Design Engineering/Learning from Existing Products & Practice/Planned Obselescense.md",
-    "Lesson Notes/Design Engineering/Learning from Existing Products & Practice/Economies of Scale.md",
-    "Lesson Notes/Design Engineering/Learning from Existing Products & Practice/Hairdryer Example.md",
-    "Lesson Notes/Design Engineering/Learning from Existing Products & Practice/Disruptive Technologies.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Forces/Young's Modulus.md",
-    "Lesson Notes/Design Engineering/Material Considerations/Properties/Property Words/Elasticity.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Forces/Stress.md",
-    "Lesson Notes/Design Engineering/Material Considerations/Properties/Property Words/Tensile Strength.md"
+    "Lesson Notes/Physics/Particle Physics/Energy Levels.md",
+    "Lesson Notes/Physics/Particle Physics/Atomic Charge & Specific Charge.md",
+    "Lesson Notes/Physics/Particle Physics/History of Particle Models.md",
+    "Lesson Notes/Physics/Skills/Units/Dimensional Analysis.md",
+    "Lesson Notes/Physics/Particle Physics/Specific Charge.md",
+    "Lesson Notes/Physics/Electricity/Alternating Current.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Gears/1-1 Gear.md",
+    "Lesson Notes/Physics/Particle Physics/Ions.md",
+    "Lesson Notes/Physics/Particle Physics/Isotopes.md",
+    "Lesson Notes/Atomic Charge & Specific Charge.md"
   ]
 }
