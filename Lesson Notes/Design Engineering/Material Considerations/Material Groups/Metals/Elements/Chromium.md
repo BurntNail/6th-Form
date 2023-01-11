@@ -7,7 +7,7 @@ type: "Material"
 ---
 
 # Properties:
- - Resists wear, and increases [[Corrosion Resistance]].
+ - Resists wear, and increases [[Chemical Resistance]].
  - Increases [[Hardness]] and toughness.
 
 # Uses:

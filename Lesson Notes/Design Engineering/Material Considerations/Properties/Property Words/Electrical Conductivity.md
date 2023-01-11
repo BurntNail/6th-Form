@@ -7,4 +7,5 @@ subtopic: Properties
 type: "Property Words"
 ---
 
-A measure of a material to conduct/transfer heat.
+definition:: A measure of a material to conduct/transfer electricity.
+example:: In computers, we need electrical signals to be sent quickly and without degradation, so we need to use materials with high Electrical Conductivity like copper.

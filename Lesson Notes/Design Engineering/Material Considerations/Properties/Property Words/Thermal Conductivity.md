@@ -7,4 +7,5 @@ subtopic: Properties
 type: "Property Words"
 ---
 
-The ability of a material to conduct/transfer heat.
+definition:: The ability of a material to conduct/transfer heat.
+example:: A cooking pan needs to have high thermal conductivity to transfer the heat from a possibly uneven source (the flame or induction plate) evenly to the food.

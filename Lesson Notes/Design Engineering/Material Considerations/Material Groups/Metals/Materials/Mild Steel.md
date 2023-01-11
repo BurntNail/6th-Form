@@ -18,7 +18,7 @@ type: "Material"
  - [[Malleability|Malleable]]
  - Good [[Tensile Strength]]
  - Easily welded.
- - Poor [[Corrosion Resistance]]
+ - Poor [[Chemical Resistance]]
  - Cannot be hardened except for case hardening.
 
 # Uses:

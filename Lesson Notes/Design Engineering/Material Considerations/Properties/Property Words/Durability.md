@@ -7,4 +7,5 @@ subtopic: Properties
 type: "Property Words"
 ---
 
-The ability to withstand wear or damage. Also refers to the ability to withstand weathering and to last.
+definition:: The ability to withstand wear or damage. Also refers to the ability to withstand weathering and to last.
+example:: For high-quality products, you need high durability to ensure the product lasts a long time. For example, children's blocks might be made from wood over plastic as most woods are more durable and so last for longer.

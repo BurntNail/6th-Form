@@ -6,4 +6,5 @@ subtopic: Properties
 type: "Property Words"
 ---
 
-The ability of a material to deform permanently without breaking or rupturing.
+definition:: The ability of a material to deform permanently without breaking or rupturing.
+example:: Once a spring has reached its elastic limit, it will plastically deform.

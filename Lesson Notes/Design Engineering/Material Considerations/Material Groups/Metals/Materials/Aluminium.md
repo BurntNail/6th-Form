@@ -11,7 +11,7 @@ material_properties: ["Tough", "Brittle", "Ductile", "Malleable"]
 
 # Properties:
  - Low Density - 1/3 of [[Steel]]
- - [[Corrosion Resistance|Corrosion Resistant]]
+ - [[Chemical Resistance|Corrosion Resistant]]
  - Good Conductor
  - Easily [[Machinability|Machinable]]
  - Raw Material is soft, weak and very Ductile

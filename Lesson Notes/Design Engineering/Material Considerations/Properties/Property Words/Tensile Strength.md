@@ -6,6 +6,6 @@ subtopic: Properties
 type: "Property Words"
 ---
 
-The maximum tensile strength a material can withstand before it breaks.
-
-$$Tensile\ Strength\ [Nm{-2}] = \frac{Breaking\ Force\ [N]}{CSA}$$
+definition:: The maximum tensile (in stretching) strength a material can withstand before it breaks.
+extras:: $$Tensile\ Strength\ [Nm{-2}] = \frac{Breaking\ Force\ [N]}{CSA}$$
+example:: A material that will be stretched needs a high tensile strength, like a ski-lift cable.
