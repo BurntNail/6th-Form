@@ -20,14 +20,7 @@ Quarks always come in pairs or threes. You will never be able to have a single q
  - Particles with 3 quarks are **baryons**, for example protons.
  - Particles with 2 quarks (a quark-antiquark pair) are **meson**.
 
-## Notation
- - $q$ is a quark
- - $\overline{q}$ is an antiquark
-
-## Hadrons
-
 You need to memorise Protons, Neutrons and that Kaons are Strange.
-
 | Hadron        | Symbol           | Quarks          |
 | ------------- | ---------------- | --------------- |
 | Proton        | $p$              | $uud$           |
@@ -38,10 +31,9 @@ You need to memorise Protons, Neutrons and that Kaons are Strange.
 | Pion Zero     | $\pi^0$          | $d\overline{d}$ |
 | Kaon Plus     | $K^+$            | $u\overline{s}$ |
 | Kaon Minus    | $K^-$            | $\overline{u}s$ |
-| Kaon Zero     | $K^0$            | $d\overline{s}$            |
+| Kaon Zero     | $K^0$            | $d\overline{s}$ |
 | AntiKaon Zero | $\overline{K}^0$ | $\overline{d}s$ |
 
-#### Extras
-| Thing | Symbol | Quarks |
-| ----- | ------ | ------ |
-|       |        |        |
+## Notation
+ - $q$ is a quark
+ - $\overline{q}$ is an antiquark
