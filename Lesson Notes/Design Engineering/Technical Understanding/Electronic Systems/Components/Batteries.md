@@ -1,5 +1,5 @@
 ---
-tags: ["DesignEngineering", "DesignEngineering/TechnicalUnderstanding", "DesignEngineering/TechnicalUnderstanding/ElectronicSystems"]
+tags: ["DesignEngineering", "DesignEngineering/TechnicalUnderstanding", "DesignEngineering/TechnicalUnderstanding/ElectronicSystems", "DesignEngineering/TechnicalUnderstanding/ElectronicSystems/Components"]
 subject: DesignEngineering
 topic: Technical Understanding
 subtopic: Electronic Systems

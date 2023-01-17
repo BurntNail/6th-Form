@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"a2d6d9acdbb93a6c","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"4 Main Ways of Input"},
+		{"id":"4806c50ae34ba5a9","x":-600,"y":-118,"width":400,"height":236,"type":"file","file":"Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfaces/Digital Switch Sensor.md"},
+		{"id":"22ffe7392505a270","x":200,"y":-167,"width":400,"height":334,"type":"file","file":"Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfaces/Analogue-Digital Output Sensor.md"},
+		{"id":"793fb02c89377dbb","x":-200,"y":-439,"width":400,"height":363,"type":"file","file":"Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfaces/Datastream Output Sensor.md"},
+		{"id":"6a324e106ac699ef","x":-200,"y":80,"width":400,"height":229,"type":"file","file":"Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfaces/Analogue Resistive Sensor.md"},
+		{"id":"50232175dae294da","x":-700,"y":-472,"width":400,"height":215,"type":"file","file":"Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfaces/Pull Up-and-Down resistors.md"},
+		{"id":"cc7601e0ee506ae8","x":895,"y":-136,"width":250,"height":60,"type":"text","text":"4 Main Ways of Output"},
+		{"id":"025f573cb556f0aa","x":820,"y":-26,"width":400,"height":332,"type":"file","file":"Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfaces/Light.md"},
+		{"id":"d9016aa991a03b62","x":632,"y":405,"width":250,"height":60,"type":"text","text":"TODO next time"}
+	],
+	"edges":[
+		{"id":"5b0fbab55dc626e6","fromNode":"a2d6d9acdbb93a6c","fromSide":"left","toNode":"4806c50ae34ba5a9","toSide":"right"},
+		{"id":"2df98f6733c47c8e","fromNode":"a2d6d9acdbb93a6c","fromSide":"bottom","toNode":"6a324e106ac699ef","toSide":"top"},
+		{"id":"959cf7f70c9a463f","fromNode":"a2d6d9acdbb93a6c","fromSide":"right","toNode":"22ffe7392505a270","toSide":"left"},
+		{"id":"27d2dbf92ccd2c42","fromNode":"793fb02c89377dbb","fromSide":"bottom","toNode":"a2d6d9acdbb93a6c","toSide":"top"},
+		{"id":"09627dad60818abc","fromNode":"cc7601e0ee506ae8","fromSide":"bottom","toNode":"025f573cb556f0aa","toSide":"top"},
+		{"id":"707fccb15c665694","fromNode":"4806c50ae34ba5a9","fromSide":"top","toNode":"50232175dae294da","toSide":"bottom"}
+	]
+}
