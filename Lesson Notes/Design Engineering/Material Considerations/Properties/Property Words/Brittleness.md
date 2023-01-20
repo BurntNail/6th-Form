@@ -8,4 +8,4 @@ type: "Property Words"
 ---
 
 definition:: The opposite of [[Plasticity]]. A brittle metal is one that breaks or shatters before it deforms. White [[Cast Iron]] and Glass are good examples of Brittle Materials.
-example:: Thin glass is very brittle as it is easy to snap, in contrast to a rubber band which can stretch a long way before snapping. 
+example:: Thin glass is very brittle as it is easy to snap, in contrast to a rubber band which can stretch a long way before snapping. Also ceramics, graphite, [[High Carbon Steel]], [[Polymethyl Acrylate|Acrylic]].

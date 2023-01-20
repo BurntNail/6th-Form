@@ -7,7 +7,6 @@ type: "Atomic Note"
 ---
 
 # Uncertainty in Gradient
-
 ^b0b152
 
 Calculate the percentage difference between the gradient of the best and worst lines.

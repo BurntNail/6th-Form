@@ -7,4 +7,4 @@ type: "Property Words"
 ---
 
 definition:: The maximum compressive (pushing inwards) strength a material can withstand before it breaks.
-example:: The material for supports underneath a bridge need to have high compressive strength to ensure they don't break under the weight of the bridge
+example:: The material for supports underneath a bridge need to have high compressive strength to ensure they don't break under the weight of the bridge. Rebar-refinforced concrete.

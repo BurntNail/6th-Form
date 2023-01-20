@@ -23,10 +23,11 @@ Add the Relative uncertainties
 Multiply the Relative uncertainty by the power.
 
 # Example Data Table
- - |Ball No|Mass (± 0.01g)|Diameter (± 0.1mm) A|Diameter B|Diamater C|Diameter D|Diameter E|
-   |--|--|--|--|--|--|--|
-   |1|27.92|8.0|8.0|8.3|8.4|8.3|
-   |2|46.53|9.3|9.4|9.3|9.1|9.4|
+
+| Ball No | Mass (± 0.01g) | Diameter (± 0.1mm) A | Diameter B | Diamater C | Diameter D | Diameter E |
+| ------- | -------------- | -------------------- | ---------- | ---------- | ---------- | ---------- |
+| 1       | 27.92          | 8.0                  | 8.0        | 8.3        | 8.4        | 8.3        |
+| 2       | 46.53          | 9.3                  | 9.4        | 9.3        | 9.1        | 9.4        |
 
 [[Uncertainty Board Questions]]
 [[Uncertainty in Graphs]]

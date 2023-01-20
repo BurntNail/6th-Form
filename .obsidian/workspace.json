@@ -10,35 +10,18 @@
           {
             "id": "3d28c77674c9e2c3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfaces/Light.md",
+                "file": "Lesson Notes/Design Engineering/Material Considerations/Properties/Property Words Dataviewer.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "6f2394206152d52c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfacing with Microcontrollers.canvas",
-                "viewState": {
-                  "x": 403.34722224410586,
-                  "y": -71.82204473305947,
-                  "zoom": -0.5908873660614093,
-                  "snapToGrid": true
-                }
               },
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfacing with Microcontrollers.canvas",
+                "file": "Lesson Notes/Design Engineering/Material Considerations/Properties/Property Words Dataviewer.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfacing with Microcontrollers.canvas",
+                "file": "Lesson Notes/Design Engineering/Material Considerations/Properties/Property Words Dataviewer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfacing with Microcontrollers.canvas"
+                "file": "Lesson Notes/Design Engineering/Material Considerations/Properties/Property Words Dataviewer.md"
               }
             }
           },
@@ -175,17 +158,17 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "6f2394206152d52c",
+  "active": "3d28c77674c9e2c3",
   "lastOpenFiles": [
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfaces/Light.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfacing with Microcontrollers.canvas",
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfaces/Datastream Output Sensor.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfaces/Analogue-Digital Output Sensor.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfaces/Analogue Resistive Sensor.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfaces/Digital Switch Sensor.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfaces/Pull Up-and-Down resistors.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfacing with a Microcontroller.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Pulse Width Modulation.md",
-    "unlinked files output.md"
+    "Lesson Notes/Design Engineering/Material Considerations/Properties/Property Words/Durability.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Properties/Property Words Dataviewer.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Properties/Property Words/Shear Strengh.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Properties/Property Words/Compressive Strength.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Properties/Property Words/Brittleness.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Properties/Property Words/Plasticity.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Properties/Property Words/Elasticity.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Properties/Property Words/Tensile Strength.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Properties/Property Words/Toughness.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Properties/Property Words/Hardness.md"
   ]
 }
