@@ -6,6 +6,6 @@ subtopic: Subatomics
 type: "Lepton"
 ---
 
-symbol::$\mu_e$
+symbol::$\nu_\mu$
 charge::0
-lepton_number::-1
+lepton_number::1

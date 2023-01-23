@@ -8,4 +8,4 @@ type: "Lepton"
 
 symbol::$\nu_\tau$
 charge::0
-lepton_number::-1
+lepton_number::1

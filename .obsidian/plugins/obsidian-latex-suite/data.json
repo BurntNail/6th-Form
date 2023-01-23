@@ -3,7 +3,7 @@
   "snippetsEnabled": false,
   "loadSnippetsFromFile": false,
   "snippetsFileLocation": "",
-  "concealEnabled": false,
+  "concealEnabled": true,
   "colorPairedBracketsEnabled": true,
   "highlightCursorBracketsEnabled": true,
   "inlineMathPreviewEnabled": true,

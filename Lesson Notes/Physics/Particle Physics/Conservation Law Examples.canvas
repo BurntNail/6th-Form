@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"a2f6899a0a32c0d1","x":-338,"y":-260,"width":622,"height":254,"type":"file","file":"Lesson Notes/Physics/Particle Physics/Conservation Laws.md"},
+		{"id":"bc8724ab3135d706","x":26,"y":142,"width":649,"height":398,"type":"text","text":"#### Electron Absorption\n$$p + e^- \\to n + x$$\n\n| Conserved | Proton | [[Electron]] | Neutron  | $x$ |\n| --------- | ------- | ------ | ------------ | -------------------------- | \n| Q         | +1       | -1     | 0           | 0                          | \n| B         | +1      | 0     | +1            | 0                          | \n| L         | 0       | -1      | 0           | -1                         | \n\nWe can therefore tell that $x$ is an [[Electron Neutrino]]"},
+		{"id":"566e01f06ed18d39","x":-720,"y":142,"width":649,"height":398,"type":"text","text":"#### Beta-Minus Decay\n$$n \\to p + \\beta^- + \\overline{\\nu_e}$$\n\n| Conserved | Neutron | Proton | [[Electron]] | [[Anti-Electron Neutrino]] | Works |\n| --------- | ------- | ------ | ------------ | -------------------------- | ----- |\n\t| Q         | 0       | +1     | -1           | 0                          | Y     |\n| B         | +1      | +1     | 0            | 0                          | Y     |\n| L         | 0       | 0      | +1           | -1                         | Y     |\n\nWe first discovered the [[Anti-Electron Neutrino]] from this very reaction - both from lepton numbers not working, as well as momentum not being conserved when the particles hit each other and react."},
+		{"id":"d9e013b71d84143e","x":-351,"y":618,"width":649,"height":280,"type":"text","text":"#### Beta-Plus Decay\n$$p \\to e + e^+ + \\nu_e$$\n\n| Conserved | Proton | Neutron | [[Positron]] | [[Electron Neutrino]] | Works |\n| --------- | ------ | ------- | ------------ | --------------------- | ----- |\n| Q         | +1     | 0       | +1           | 0                     | Y     |\n| B         | 1      | 1       | 0            | 0                     | Y     |\n| L         | 0      | 0       | -1           | +1                    | Y     |\n"}
+	],
+	"edges":[
+		{"id":"971830dd36f9a6da","fromNode":"a2f6899a0a32c0d1","fromSide":"bottom","toNode":"566e01f06ed18d39","toSide":"top"},
+		{"id":"c3fe1642f04624d0","fromNode":"a2f6899a0a32c0d1","fromSide":"bottom","toNode":"bc8724ab3135d706","toSide":"top"},
+		{"id":"13256c743e24de5f","fromNode":"a2f6899a0a32c0d1","fromSide":"bottom","toNode":"d9e013b71d84143e","toSide":"top"}
+	]
+}

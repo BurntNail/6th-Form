@@ -1,4 +1,5 @@
 ---
+alias: "Lepton"
 tags: ["Physics", "Physics/Particles", "Physics/Particles/Subatomics"]
 subject: Physics
 topic: Particles

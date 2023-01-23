@@ -6,6 +6,6 @@ subtopic: Subatomics
 type: "Lepton"
 ---
 
-symbol:: $\overline{\nu_\tau}$
+symbol:: $\overline{\nu}_\tau$
 charge:: 0
-lepton_number:: 1
+lepton_number:: -1

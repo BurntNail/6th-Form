@@ -114,7 +114,7 @@ C<sub>n</sub>H<sub>2n+2</sub>
 ###### ii
 Propene, Methane
 ###### iii
-![[GCSEs/Revision Notes/Past Papers/Chem/June 17 5.c.iii.png|500]]
+![[June 17 5.c.iii.png|500]]
 
 ###### iv
 ![[June 17 5.c.iv.png|500]]
