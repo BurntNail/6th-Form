@@ -4,29 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ff22a6291f1a4550",
+        "id": "f94d833b179342d1",
         "type": "tabs",
         "children": [
           {
-            "id": "982af9cafa4c44fa",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfacing with Microcontrollers.canvas",
-                "viewState": {
-                  "x": 857.9300814526524,
-                  "y": 699.9402098009621,
-                  "zoom": -1.3815495668938242,
-                  "snapToGrid": true
-                }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "de28c7369beb4731",
+            "id": "c6419029e6cf8aea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,9 +157,10 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "de28c7369beb4731",
+  "active": "c6419029e6cf8aea",
   "lastOpenFiles": [
     "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfacing with Microcontrollers.canvas",
+    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Sensors Table.md",
     "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Motors.md",
     "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfaces/Servo Motor.md",
     "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfaces/DC Motor.md",
@@ -186,7 +168,6 @@
     "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfaces/Piezo Actuator.md",
     "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfaces/Stepper Motors.md",
     "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfaces/Solenoid.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Forces/Force Kinds.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfaces/Alphanumeric Displays.md"
+    "Lesson Notes/Design Engineering/Technical Understanding/Forces/Force Kinds.md"
   ]
 }
