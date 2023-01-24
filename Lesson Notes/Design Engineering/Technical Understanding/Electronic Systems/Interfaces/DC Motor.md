@@ -3,9 +3,8 @@ tags: ["DesignEngineering", "DesignEngineering/TechnicalUnderstanding", "DesignE
 subject: DesignEngineering
 topic: Technical Understanding
 subtopic: Electronic Systems
-type: "Atomic Note"
+type: "Motor"
+Motion: "Rotary High Speed"
+Control: "[[Pulse Width Modulation|PWM]] output from a microntroller. Direction Control using a motor driver IC."
+Examples: ["Cooling fans", "Robots", "Automatic Doors"]
 ---
-
- - Simple Switch, eg. float, tilt, magnetic reed, push, micro-switch
- - Connect one wire to digital IO, one wire to +5V.
- - [[Pull Up and Down resistors|Pull-Down resistor]] required

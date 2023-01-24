@@ -6,6 +6,8 @@ subtopic: Electronic Systems
 type: "Atomic Note"
 ---
 
- - Simple Switch, eg. float, tilt, magnetic reed, push, micro-switch
- - Connect one wire to digital IO, one wire to +5V.
- - [[Pull Up and Down resistors|Pull-Down resistor]] required
+
+```dataviewjs
+let pages = dv.pages("#DesignEngineering/TechnicalUnderstanding/ElectronicSystems/Components").filter(note => note.type == "Motor");
+dv.table(["Link", "Type of Motion", "Method of Control", "Examples"], pages.map(note => [note.file.link, note["Motion"], note["Control"], note["Examples"]]))
+```

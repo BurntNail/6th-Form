@@ -3,9 +3,8 @@ tags: ["DesignEngineering", "DesignEngineering/TechnicalUnderstanding", "DesignE
 subject: DesignEngineering
 topic: Technical Understanding
 subtopic: Electronic Systems
-type: "Atomic Note"
+type: "Motor"
+Motion: Reciprocating, very short stroke
+Control: Varying voltage produces small linear movements
+Examples: ["Focusing systems in miniature cameras"]
 ---
-
- - Simple Switch, eg. float, tilt, magnetic reed, push, micro-switch
- - Connect one wire to digital IO, one wire to +5V.
- - [[Pull Up and Down resistors|Pull-Down resistor]] required

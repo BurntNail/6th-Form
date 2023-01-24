@@ -10,4 +10,4 @@ type: "Atomic Note"
   - Wide range of colours, sizes, brightness and shapes.
   - 'Power' LEDs used to replace filament bulbs - better efficiency, longer life, reduced energy consumption.
   - RGB/Flexible strips available.
-  - LEDs need a current-limiting resistor, otherwise they might be damaged.
+  - LEDs need [[Current-Limiting Resistors]], otherwise they might be damaged.

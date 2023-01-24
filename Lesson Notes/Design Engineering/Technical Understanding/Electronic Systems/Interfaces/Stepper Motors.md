@@ -3,9 +3,8 @@ tags: ["DesignEngineering", "DesignEngineering/TechnicalUnderstanding", "DesignE
 subject: DesignEngineering
 topic: Technical Understanding
 subtopic: Electronic Systems
-type: "Atomic Note"
+type: "Motor"
+Motion: Rotary, turns through precise angles step by step
+Control: 4-wire control from a microntroller through a driver IC
+Examples: ["CNC Machines"]
 ---
-
- - Simple Switch, eg. float, tilt, magnetic reed, push, micro-switch
- - Connect one wire to digital IO, one wire to +5V.
- - [[Pull Up and Down resistors|Pull-Down resistor]] required

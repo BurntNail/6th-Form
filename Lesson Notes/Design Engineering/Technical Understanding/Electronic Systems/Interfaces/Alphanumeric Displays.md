@@ -6,6 +6,7 @@ subtopic: Electronic Systems
 type: "Atomic Note"
 ---
 
- - Simple Switch, eg. float, tilt, magnetic reed, push, micro-switch
- - Connect one wire to digital IO, one wire to +5V.
- - [[Pull Up and Down resistors|Pull-Down resistor]] required
+LCDs - need to be backlit
+LEDs - Bright and emit own light + more expensive
+ - Wide range of sizes, shapes & colours
+ - Control using a serial interface method

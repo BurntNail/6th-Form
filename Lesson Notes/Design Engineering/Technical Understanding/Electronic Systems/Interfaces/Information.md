@@ -6,6 +6,15 @@ subtopic: Electronic Systems
 type: "Atomic Note"
 ---
 
- - Simple Switch, eg. float, tilt, magnetic reed, push, micro-switch
- - Connect one wire to digital IO, one wire to +5V.
- - [[Pull Up and Down resistors|Pull-Down resistor]] required
+Mainly LED Displays
+
+## 7 Segment
+ - Numbers only
+ - Bright & Colourful
+ - Clocks & Microwaves
+ - Controlled directly or through driver IC
+
+## Dot Matrix
+ - Letters, digits & other characters
+ - Can be connected together
+ - Bus displays for stop names.

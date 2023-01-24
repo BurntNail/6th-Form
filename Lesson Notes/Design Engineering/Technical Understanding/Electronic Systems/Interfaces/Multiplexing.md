@@ -6,6 +6,6 @@ subtopic: Electronic Systems
 type: "Atomic Note"
 ---
 
- - Simple Switch, eg. float, tilt, magnetic reed, push, micro-switch
- - Connect one wire to digital IO, one wire to +5V.
- - [[Pull Up and Down resistors|Pull-Down resistor]] required
+ - Used when several displays are joined together
+ - Each display turned on & off in sequence so fast they appear to be on constantly, which reduces the number of wires as well as power consumption.
+ - Also used to send data down fibre optic cables.

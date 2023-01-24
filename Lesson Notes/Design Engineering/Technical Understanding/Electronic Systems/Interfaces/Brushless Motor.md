@@ -3,9 +3,8 @@ tags: ["DesignEngineering", "DesignEngineering/TechnicalUnderstanding", "DesignE
 subject: DesignEngineering
 topic: Technical Understanding
 subtopic: Electronic Systems
-type: "Atomic Note"
+type: "Motor"
+Motion: "Rotary - high speed, high torque"
+Control: "[[Pulse Width Modulation|PWM]] from a microntroller through an Electronic Speed Controller"
+Examples: ["Flying Drones"]
 ---
-
- - Simple Switch, eg. float, tilt, magnetic reed, push, micro-switch
- - Connect one wire to digital IO, one wire to +5V.
- - [[Pull Up and Down resistors|Pull-Down resistor]] required
