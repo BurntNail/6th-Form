@@ -15,7 +15,7 @@
               "state": {
                 "file": "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Sensors Table.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264,
-    "collapsed": true
+    "width": 264
   },
   "right": {
     "id": "d69461ae8e2f98ce",
@@ -159,15 +158,15 @@
   },
   "active": "c6419029e6cf8aea",
   "lastOpenFiles": [
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfacing with Microcontrollers.canvas",
+    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Components/Proximity Inputs.md",
     "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Sensors Table.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Components/Force Sensitive Resistor.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfacing with Microcontrollers.canvas",
     "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Motors.md",
     "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfaces/Servo Motor.md",
     "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfaces/DC Motor.md",
     "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfaces/Brushless Motor.md",
     "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfaces/Piezo Actuator.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfaces/Stepper Motors.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfaces/Solenoid.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Forces/Force Kinds.md"
+    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfaces/Stepper Motors.md"
   ]
 }

@@ -15,18 +15,18 @@ type: "Atomic Note"
 | Sound             | Microphone                                           | To tell what someone is saying for a voice assistant.                                                               |
 | Infra-red         | IR Sensor                                            | For measuring the temperature of a person's forehead for checking if they have a fever.                             |
 |                   | PIR Sensor                                           | A Passive Infrared sensor might be used to detect burglars in a house without them realising.                       |
-|                   | Photodiode                                           | This might be used for                                                                                                                     |
-| Strain/Force      | [[Force Sensitive Resistor\|FSR]]                    |                                                                                                                     |
-|                   | [[Force Sensitive Resistor\|Load Cell]]              |                                                                                                                     |
-| Position/Distance | [[Proximity Inputs\|Switch]]                         |                                                                                                                     |
-|                   | [[Proximity Inputs\|Hall Effect]] Sensor             |                                                                                                                     |
-|                   | [[Proximity Inputs\|Proximity]] Sensor               |                                                                                                                     |
-|                   | Reflective/Slotted [[Proximity Inputs\|Opto-switch]] |                                                                                                                     |
-|                   | Potentiometer                                        |                                                                                                                     |
-|                   | Rangefinder Sensor                                   |                                                                                                                     |
-| Rotation          | Reflective/Slotted [[Proximity Inputs\|Opto-switch]] |                                                                                                                     |
-|                   | Gear Tooth Sensor                                    |                                                                                                                     |
-|                   | Quadrature Rotation Sensor                           |                                                                                                                     |
-| Angle             | Potentiometer                                        |                                                                                                                     |
-|                   | Angle Sensor                                         |                                                                                                                     |
-|                   | Accelerometer                                        |                                                                                                                     |
+|                   | Photodiode                                           | This might be used for                                                                                              |
+| Strain/Force      | [[Force Sensitive Resistor\|FSR]]                    | The home button on a phone, that isn't a physical button (eg. iPhone 7)                                             |
+|                   | [[Force Sensitive Resistor\|Load Cell]]              | Measuring the grip strength of a vice                                                                               |
+| Position/Distance | [[Proximity Inputs\|Switch]]                         | Turning on and off lights                                                                                           |
+|                   | [[Proximity Inputs\|Hall Effect]] Sensor             | Joysticks with minimal deadzones.                                                                                   |
+|                   | [[Proximity Inputs\|Proximity]] Sensor               | Burglar alarm.                                                                                                      |
+|                   | Reflective/Slotted [[Proximity Inputs\|Opto-switch]] | Smoke Alarm - the smoke might block the light                                                                       |
+|                   | Potentiometer                                        | Cheap Joysticks.                                                                                                    |
+|                   | Rangefinder Sensor                                   | Golfers for finding the distance to the next hole.                                                                  |
+| Rotation          | Reflective/Slotted [[Proximity Inputs\|Opto-switch]] | See above: *Smoke Alarm - the smoke might block the light*                                                          |
+|                   | Gear Tooth Sensor                                    | Gear Tooth sensors can reliably measure high RPMs, so maybe a car wheel's speed.                                    |
+|                   | Quadrature Rotation Sensor                           | ???                                                                                                                 |
+| Angle             | Potentiometer                                        | See Above: *Cheap Joysticks.*                                                                                       |
+|                   | Angle Sensor                                         | A brake press angle readout for accurate bending.                                                                   |
+|                   | Accelerometer                                        | A phone to know when to rotate the screen.                                                                          |
