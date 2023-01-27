@@ -26,5 +26,6 @@ type: "Atomic Note"
 
 ## How to identify
  - One side (looking from a cube perspective) will have no material.
- - Draft angles.
- - No fine details
+ - Draft angles, no sharp edges
+ - Details through both sides, and no very fine details.
+ - No undercuts

@@ -5,7 +5,7 @@ topic: Particles
 subtopic: Subatomics
 type: "Atomic Note"
 ---
-$$p \to e + e^+ + \nu_e$$
+$$p \to n + e^+ + \nu_e$$
 
 | Conserved | Proton | Neutron | [[Positron]] | [[Electron Neutrino]] | Works |
 | --------- | ------ | ------- | ------------ | --------------------- | ----- |

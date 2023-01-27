@@ -17,3 +17,5 @@ type: "Atomic Note"
  - Dish soap bottle
  - Shampoo bottle
  - Syringes
+
+Parison vs Preform - look for sprue marks (preform) vs split lines (parison).
