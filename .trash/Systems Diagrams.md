@@ -8,23 +8,9 @@ type: "Atomic Note"
 
 ## How to produce a systems diagram
 
-#### Identify the output devices
- - Digital or analogue?
- - Display or sound?
- - PWM? Servo?
- - Drivers?
-#### Identify the input devices
- - What sensors?
- - Calibration?
- - Sensor signals?
-#### Identify a microcontroller
- - IO required
- - Compatibility with peripherals?
- - Programming Language?
- - PSU?
- - Speed?
- - Compatibility with Data?
- - Data storage?
+
+
+
 
 
 ## Examples
@@ -37,4 +23,5 @@ type: "Atomic Note"
 
 ![[Flow Charts]]
 
+For the below, diagram, the subroutine should be a rectangle with vertical lines outside (like a tennis court), but I managed to get this diagram which is good enough.
 ![[Bike Light Flowchart.drawio.svg]]

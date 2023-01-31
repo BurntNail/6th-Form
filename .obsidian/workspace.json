@@ -4,37 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "4fe8bd6cbdf55af5",
+        "id": "64f72d726af57e1f",
         "type": "tabs",
         "children": [
           {
-            "id": "1b324287bd0cb5c5",
+            "id": "f58300e9125ca043",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Bike Light System Diagram example.canvas",
+                "file": "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Systems Diagrams.canvas",
                 "viewState": {
-                  "x": 195.52380504836813,
-                  "y": -71.44371196235713,
-                  "zoom": -0.34569843292237534,
+                  "x": 452.5,
+                  "y": 912.5,
+                  "zoom": -1.2624270831387006,
                   "snapToGrid": false
                 }
               }
             }
-          },
-          {
-            "id": "a9164eb2000df1e9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Bike Light Flowchart.drawio.svg"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -100,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Bike Light Flowchart.drawio.svg",
+                "file": "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Systems Diagrams.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Bike Light Flowchart.drawio.svg",
+                "file": "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Systems Diagrams.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Bike Light Flowchart.drawio.svg"
+                "file": "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Systems Diagrams.canvas"
               }
             }
           },
@@ -170,17 +160,17 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "a9164eb2000df1e9",
+  "active": "f58300e9125ca043",
   "lastOpenFiles": [
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Systems Diagrams.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Open & Closed Loop Systems.md",
     "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Flow Charts.md",
     "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Bike Light System Diagram example.canvas",
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Open & Closed Loop Systems.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Networking.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Systems Diagrams.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Systems Diagrams.canvas",
+    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Microcontrollers.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Bike Light Flowchart.drawio.svg",
     "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfacing with Microcontrollers.canvas",
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Components/Benefits of Microcontrollers.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Components/Fitness Tracking.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Components/Programmable Devices.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Components/Proximity Inputs.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Sensors Table.md"
+    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Components/Benefits of Microcontrollers.md"
   ]
 }
