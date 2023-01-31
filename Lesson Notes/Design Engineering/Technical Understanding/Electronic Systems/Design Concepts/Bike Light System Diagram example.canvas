@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"b6ead81415a131c3","x":-551,"y":-326,"width":250,"height":133,"color":"1","type":"text","text":"## Outputs:\n\n - White LED\n - Red LED"},
+		{"id":"1c279eb67554901e","x":-551,"y":88,"width":250,"height":106,"color":"3","type":"text","text":"## Microcontroller\n\n - Needed, but very simple"},
+		{"id":"04be18ce12659389","x":-551,"y":-144,"width":250,"height":184,"color":"2","type":"text","text":"## Inputs:\n\n - Push Button\n - 1 for white, another for flashing white, another for red"},
+		{"id":"678e2af8dc5c29e2","x":-40,"y":-82,"width":160,"height":60,"color":"2","type":"text","text":"Microcontroller"},
+		{"id":"438d396d0c4fdc8e","x":160,"y":2,"width":110,"height":50,"color":"2","type":"text","text":"Driver"},
+		{"id":"77923d37fc57d19e","x":160,"y":-156,"width":110,"height":50,"color":"2","type":"text","text":"Driver"},
+		{"id":"dcf733f728775161","x":360,"y":-156,"width":133,"height":60,"color":"3","type":"text","text":"White LEDs"},
+		{"id":"4b4b27b9786440a6","x":360,"y":-8,"width":133,"height":60,"color":"3","type":"text","text":"Red LEDs"},
+		{"id":"694d61ba5e9bff31","x":-260,"y":-82,"width":120,"height":60,"color":"1","type":"text","text":"Push Switch"}
+	],
+	"edges":[
+		{"id":"a07d0ff697202bc3","fromNode":"b6ead81415a131c3","fromSide":"bottom","toNode":"04be18ce12659389","toSide":"top"},
+		{"id":"f9b0e62e4670a5e7","fromNode":"04be18ce12659389","fromSide":"bottom","toNode":"1c279eb67554901e","toSide":"top"},
+		{"id":"929fee5dccca4e8d","fromNode":"694d61ba5e9bff31","fromSide":"right","toNode":"678e2af8dc5c29e2","toSide":"left","label":"Digital"},
+		{"id":"cb8b669991050992","fromNode":"678e2af8dc5c29e2","fromSide":"top","toNode":"77923d37fc57d19e","toSide":"left","label":"Digital"},
+		{"id":"8df3de4d852a5ddd","fromNode":"678e2af8dc5c29e2","fromSide":"bottom","toNode":"438d396d0c4fdc8e","toSide":"left","label":"Digital"},
+		{"id":"82cadfbce2f5ee6a","fromNode":"77923d37fc57d19e","fromSide":"right","toNode":"dcf733f728775161","toSide":"left"},
+		{"id":"2663e3a093769ee3","fromNode":"438d396d0c4fdc8e","fromSide":"right","toNode":"4b4b27b9786440a6","toSide":"left"}
+	]
+}

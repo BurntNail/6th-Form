@@ -4,64 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "787e59eda2d80c29",
+        "id": "4fe8bd6cbdf55af5",
         "type": "tabs",
         "children": [
           {
-            "id": "05a296955e3d4c54",
+            "id": "1b324287bd0cb5c5",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Lesson Notes/Physics/Particle Physics/Subatomic Particles/Conservation Law Examples.canvas",
+                "file": "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Bike Light System Diagram example.canvas",
                 "viewState": {
-                  "x": 655.8898475608855,
-                  "y": 306.76516667047736,
-                  "zoom": 0.7111429310389705,
+                  "x": 195.52380504836813,
+                  "y": -71.44371196235713,
+                  "zoom": -0.34569843292237534,
                   "snapToGrid": false
                 }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "e0d206b4618c9c33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lesson Notes/Physics/Particle Physics/Forces/Nuclear Weak Force.md",
-                "mode": "source",
-                "source": false
               }
             }
           },
           {
-            "id": "8d3c2c53aa1599ed",
+            "id": "a9164eb2000df1e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Lesson Notes/Physics/Particle Physics/Subatomic Particles/Leptons/Muon Neutrino.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a28639fb7e3bd25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lesson Notes/Physics/Particle Physics/Forces/Nuclear Strong Force.md",
-                "mode": "source",
-                "source": false
+                "file": "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Bike Light Flowchart.drawio.svg"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Beta pl",
+                "query": "Quadrature",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -128,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesson Notes/Physics/Particle Physics/Subatomic Particles/Conservation Law Examples.canvas",
+                "file": "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Bike Light Flowchart.drawio.svg",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lesson Notes/Physics/Particle Physics/Subatomic Particles/Conservation Law Examples.canvas",
+                "file": "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Bike Light Flowchart.drawio.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lesson Notes/Physics/Particle Physics/Subatomic Particles/Conservation Law Examples.canvas"
+                "file": "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Bike Light Flowchart.drawio.svg"
               }
             }
           },
@@ -198,17 +170,17 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "05a296955e3d4c54",
+  "active": "a9164eb2000df1e9",
   "lastOpenFiles": [
-    "Lesson Notes/Physics/Particle Physics/Subatomic Particles/Conservation Laws.md",
-    "Lesson Notes/Physics/Particle Physics/Subatomic Particles/Leptons/Muon Neutrino.md",
-    "Lesson Notes/Physics/Particle Physics/Subatomic Particles/Leptons/Anti-Electron Neutrino.md",
-    "Lesson Notes/Physics/Particle Physics/Subatomic Particles/Leptons/Muon.md",
-    "Lesson Notes/Physics/Particle Physics/Subatomic Particles/Leptons/Electron.md",
-    "Lesson Notes/Physics/Particle Physics/Subatomic Particles/Conservation Law Examples.canvas",
-    "Lesson Notes/Physics/Particle Physics/Forces/Nuclear Weak Force.md",
-    "Lesson Notes/Physics/Particle Physics/Forces/Nuclear Strong Force.md",
-    "Lesson Notes/Physics/Particle Physics/Feynman Diagrams.md",
-    "Lesson Notes/Physics/Particle Physics/The Particle Zoo.md"
+    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Systems Diagrams.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Flow Charts.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Bike Light System Diagram example.canvas",
+    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Open & Closed Loop Systems.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfacing with Microcontrollers.canvas",
+    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Components/Benefits of Microcontrollers.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Components/Fitness Tracking.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Components/Programmable Devices.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Components/Proximity Inputs.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Sensors Table.md"
   ]
 }

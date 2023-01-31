@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"a2f6899a0a32c0d1","x":-338,"y":-260,"width":622,"height":254,"type":"file","file":"Lesson Notes/Physics/Particle Physics/Subatomic Particles/Conservation Laws.md"},
-		{"id":"29d48d49247b17d0","x":-1000,"y":105,"width":680,"height":400,"type":"file","file":"Lesson Notes/Physics/Particle Physics/Subatomic Particles/Conservation Law Examples/Beta-Minus Decay.md"},
-		{"id":"56b3207d0fab4b7a","x":260,"y":105,"width":700,"height":400,"type":"file","file":"Lesson Notes/Physics/Particle Physics/Subatomic Particles/Conservation Law Examples/Beta-Plus Decay.md"},
-		{"id":"ecd046f61107f679","x":-300,"y":200,"width":540,"height":400,"type":"file","file":"Lesson Notes/Physics/Particle Physics/Subatomic Particles/Conservation Law Examples/Electron Absorbtion.md"}
+		{"id":"ecd046f61107f679","x":-297,"y":533,"width":540,"height":400,"type":"file","file":"Lesson Notes/Physics/Particle Physics/Subatomic Particles/Conservation Law Examples/Electron Absorbtion.md"},
+		{"id":"56b3207d0fab4b7a","x":0,"y":105,"width":700,"height":400,"type":"file","file":"Lesson Notes/Physics/Particle Physics/Subatomic Particles/Conservation Law Examples/Beta-Plus Decay.md"},
+		{"id":"29d48d49247b17d0","x":-740,"y":105,"width":680,"height":400,"type":"file","file":"Lesson Notes/Physics/Particle Physics/Subatomic Particles/Conservation Law Examples/Beta-Minus Decay.md"},
+		{"id":"a2f6899a0a32c0d1","x":-338,"y":-260,"width":622,"height":240,"type":"file","file":"Lesson Notes/Physics/Particle Physics/Subatomic Particles/Conservation Laws.md"}
 	],
 	"edges":[
 		{"id":"6bae8f83ed904446","fromNode":"a2f6899a0a32c0d1","fromSide":"bottom","toNode":"29d48d49247b17d0","toSide":"top"},
