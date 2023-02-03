@@ -7,9 +7,6 @@ type: "MOC"
 ---
 
 ![[Sinclair C5]]
-
 ![[Early VR]]
-
 ![[Apple Newton]]
-
 ![[Google Glass]]

@@ -4,22 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "64f72d726af57e1f",
+        "id": "148c486b5d2fad09",
         "type": "tabs",
         "children": [
           {
-            "id": "f58300e9125ca043",
+            "id": "f7e969a79f94287d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Systems Diagrams.canvas",
-                "viewState": {
-                  "x": 452.5,
-                  "y": 912.5,
-                  "zoom": -1.2624270831387006,
-                  "snapToGrid": false
-                }
+                "file": "Lesson Notes/Physics/Particle Physics/Energy Levels.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -52,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Quadrature",
-                "matchingCase": false,
+                "query": "eV",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -74,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264
+    "width": 285.5
   },
   "right": {
     "id": "d69461ae8e2f98ce",
@@ -90,9 +86,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Systems Diagrams.canvas",
+                "file": "Lesson Notes/Physics/Particle Physics/Energy Levels.md",
                 "collapseAll": true,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -107,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Systems Diagrams.canvas",
+                "file": "Lesson Notes/Physics/Particle Physics/Energy Levels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Systems Diagrams.canvas"
+                "file": "Lesson Notes/Physics/Particle Physics/Energy Levels.md"
               }
             }
           },
@@ -160,17 +156,17 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "f58300e9125ca043",
+  "active": "6a871f608e6b9a14",
   "lastOpenFiles": [
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Open & Closed Loop Systems.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Flow Charts.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Bike Light System Diagram example.canvas",
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Networking.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Systems Diagrams.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Systems Diagrams.canvas",
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Microcontrollers.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Design Concepts/Bike Light Flowchart.drawio.svg",
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfacing with Microcontrollers.canvas",
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Components/Benefits of Microcontrollers.md"
+    "Lesson Notes/Physics/Skills/SI/SI Prefixes.md",
+    "Lesson Notes/Physics/Skills/Powers of 10.md",
+    "Lesson Notes/Physics/Particle Physics/Pair Production & Annihiliation.md",
+    "Lesson Notes/Physics/Particle Physics/The Photoelectric Effect.md",
+    "Lesson Notes/Physics/Electricity/Power.md",
+    "Untitled.canvas",
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Metals/Materials/High Carbon Steel.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Metals/Elements/Manganese.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Metals/Elements/Carbon.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Textiles/Synthetic/Geotextiles.md"
   ]
 }
