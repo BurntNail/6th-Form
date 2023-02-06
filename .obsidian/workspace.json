@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "148c486b5d2fad09",
+        "id": "7ee84073cd8fefb9",
         "type": "tabs",
         "children": [
           {
-            "id": "f7e969a79f94287d",
+            "id": "13ed0fc641bc53bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lesson Notes/Physics/Particle Physics/Energy Levels.md",
+                "file": "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/Car Production PPQ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "258153fc2a6aab1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/JIT Production.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eV",
+                "query": "dataviewjs",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesson Notes/Physics/Particle Physics/Energy Levels.md",
+                "file": "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/Car Production PPQ.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lesson Notes/Physics/Particle Physics/Energy Levels.md",
+                "file": "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/Car Production PPQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lesson Notes/Physics/Particle Physics/Energy Levels.md"
+                "file": "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/Car Production PPQ.md"
               }
             }
           },
@@ -156,17 +168,17 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "6a871f608e6b9a14",
+  "active": "13ed0fc641bc53bd",
   "lastOpenFiles": [
-    "Lesson Notes/Physics/Skills/SI/SI Prefixes.md",
-    "Lesson Notes/Physics/Skills/Powers of 10.md",
-    "Lesson Notes/Physics/Particle Physics/Pair Production & Annihiliation.md",
-    "Lesson Notes/Physics/Particle Physics/The Photoelectric Effect.md",
-    "Lesson Notes/Physics/Electricity/Power.md",
-    "Untitled.canvas",
-    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Metals/Materials/High Carbon Steel.md",
-    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Metals/Elements/Manganese.md",
-    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Metals/Elements/Carbon.md",
-    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Textiles/Synthetic/Geotextiles.md"
+    "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/JIT Production.md",
+    "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/Car Production PPQ.md",
+    "Lesson Notes/Design Engineering/Acronyms.md",
+    "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/Lean Manufacturing.md",
+    "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/Modular Cell Production Systems.md",
+    "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/Production Methods.md",
+    "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/One-off production.md",
+    "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/Batch production.md",
+    "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/Mass production.md",
+    "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/Scales of production.md"
   ]
 }

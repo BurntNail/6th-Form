@@ -10,13 +10,13 @@ type: "Atomic Note"
 Abbreviation:: PVC
 Safe Working Temperature:: $95^{\circ}C$
 
- # Rigid/unplasticised PVC:
+### Rigid/unplasticised PVC:
   - Gutters, drainpipes
   - Window frames
   - Cladding
   - Can be foamed
 
- # Plasticised PVC:
+### Plasticised PVC:
   - Hosepipes
   - Wire Insulation
   - Adhesive Film
