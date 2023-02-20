@@ -11,7 +11,7 @@ $$h = 6.63*10^{-34}Js$$
 
 
 The mass of a proton is the same as the mass of an antiproton: $1.67*10^{-27}$.
-One Electron-Volt ($eV$) is equal to $1.6*10^{-19}J$
+One Electron-Volt ($\pu{eV}$) is equal to $1.6*10^{-19}J$
 
 $$
 \begin{align*}
@@ -19,8 +19,8 @@ E &= mc^2 \\
 &= 1.67 * 10^{-27} * \left( 3*10^8 \right)^2 \\
 &= 1.503*10^{-10} J \\ \\
 E &= \frac{1.503*10^{-10}}{1.6*10^{-19}} \\
-&= 936*10^{6} eV = 936 MeV \\ %Desoms differs, but everyone else says this so...
-E_{\text{Proton + Antiproton}} &= 2 * 936 = 1.872 GeV \\ \\
+&= 936*10^{6} \pu{eV} = 936 M\pu{eV} \\ %Desoms differs, but everyone else says this so...
+E_{\text{Proton + Antiproton}} &= 2 * 936 = 1.872 G\pu{eV} \\ \\
 E &= hf \\
 3.01*10^{-10} J &= 2hf \\
 f &= 2.27 * 10^{23} Hz \\ \\

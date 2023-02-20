@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/Car Production PPQ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "258153fc2a6aab1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/JIT Production.md",
+                "file": "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/DFMA.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dataviewjs",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/Car Production PPQ.md",
+                "file": "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/DFMA.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/Car Production PPQ.md",
+                "file": "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/DFMA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/Car Production PPQ.md"
+                "file": "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/DFMA.md"
               }
             }
           },
@@ -170,15 +158,15 @@
   },
   "active": "13ed0fc641bc53bd",
   "lastOpenFiles": [
-    "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/JIT Production.md",
+    "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/Optimising Resources & Production.md",
+    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Plastics/Injection Moulding.md",
+    "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/Stock Control, monitoring & purchasing logistics.md",
+    "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/Brought in & Standard Components.md",
     "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/Car Production PPQ.md",
-    "Lesson Notes/Design Engineering/Acronyms.md",
     "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/Lean Manufacturing.md",
-    "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/Modular Cell Production Systems.md",
-    "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/Production Methods.md",
-    "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/One-off production.md",
-    "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/Batch production.md",
-    "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/Mass production.md",
-    "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/Scales of production.md"
+    "Lesson Notes/Physics/Particle Physics/Specific Charge.md",
+    "Lesson Notes/Physics/Particle Physics/Energy Levels.md",
+    "Lesson Notes/Physics/Particle Physics/Wave-Particle Duality.md",
+    "Lesson Notes/Physics/Particle Physics/The Particle Zoo.md"
   ]
 }

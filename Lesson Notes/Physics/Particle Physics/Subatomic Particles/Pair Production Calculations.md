@@ -15,10 +15,10 @@ $$
 &= \left( 9.11*10^{-31} \right) * \left( 3*10^{8} \right)^2 \\
 &= 8.2*10^{-14}J \\
 &\to \frac{8.2*10^{-14}}{1.6*10^{-19}} \\
-&= 0.511 MeV \\
+&= 0.511 M\pu{eV} \\
 &\to 0.511 * 2 \\
-&= 1.22MeV \\
-&\therefore \text{Minimum rest energy needed is } 1.22MeV
+&= 1.22M\pu{eV} \\
+&\therefore \text{Minimum rest energy needed is } 1.22M\pu{eV}
 \end{align*}
 $$
 Below is debated - do not trust. (wtf??)
