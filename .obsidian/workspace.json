@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7ee84073cd8fefb9",
+        "id": "67fc81c6af14f833",
         "type": "tabs",
         "children": [
           {
-            "id": "13ed0fc641bc53bd",
+            "id": "95350d231a03ab18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/DFMA.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/DFMA.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/DFMA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/DFMA.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,17 +147,17 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "13ed0fc641bc53bd",
+  "active": "95350d231a03ab18",
   "lastOpenFiles": [
-    "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/Optimising Resources & Production.md",
-    "Lesson Notes/Design Engineering/Material Considerations/Material Groups/Plastics/Injection Moulding.md",
-    "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/Stock Control, monitoring & purchasing logistics.md",
-    "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/Brought in & Standard Components.md",
-    "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/Car Production PPQ.md",
-    "Lesson Notes/Design Engineering/Scales of Production & Manufacturing Organisation/Lean Manufacturing.md",
-    "Lesson Notes/Physics/Particle Physics/Specific Charge.md",
-    "Lesson Notes/Physics/Particle Physics/Energy Levels.md",
-    "Lesson Notes/Physics/Particle Physics/Wave-Particle Duality.md",
-    "Lesson Notes/Physics/Particle Physics/The Particle Zoo.md"
+    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Pneumatic Cylinders.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Restrictors.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Sensors Table.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Double Acting Cylinder.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfacing with Microcontrollers.canvas",
+    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/3-2 diagram.png",
+    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Pneumatics & Hydraulics.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Pulse Width Modulation.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Motors.md",
+    "Lesson Notes/Design Engineering/Design Thinking/Project Management/Six Sigma.md"
   ]
 }
