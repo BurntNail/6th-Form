@@ -11,8 +11,22 @@
             "id": "95350d231a03ab18",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lesson Notes/Physics/Particle Physics/Energy Levels.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1592d6edcfaee26c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Lesson Notes/Physics/Energy Levels.drawio.svg"
+              }
             }
           }
         ]
@@ -44,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "|400",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lesson Notes/Physics/Particle Physics/Energy Levels.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lesson Notes/Physics/Particle Physics/Energy Levels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lesson Notes/Physics/Particle Physics/Energy Levels.md"
+              }
             }
           },
           {
@@ -129,7 +147,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -147,17 +166,17 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "95350d231a03ab18",
+  "active": "281187835a67ef20",
   "lastOpenFiles": [
+    "Lesson Notes/Physics/Particle Physics/Isotopes.md",
+    "Lesson Notes/Physics/Particle Physics/Energy Levels.md",
+    "Lesson Notes/Physics/Energy Levels.drawio.svg",
+    "Lesson Notes/Physics/Particle Physics/Energy Levels 1.md",
     "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Pneumatic Cylinders.md",
     "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Restrictors.md",
     "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Sensors Table.md",
     "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Double Acting Cylinder.md",
     "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfacing with Microcontrollers.canvas",
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/3-2 diagram.png",
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Pneumatics & Hydraulics.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Pulse Width Modulation.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Motors.md",
-    "Lesson Notes/Design Engineering/Design Thinking/Project Management/Six Sigma.md"
+    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/3-2 diagram.png"
   ]
 }
