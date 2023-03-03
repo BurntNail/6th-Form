@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"type":"text","text":"## Cost","id":"57baae78c2c5d6ae","x":-125,"y":-30,"width":125,"height":60},
+		{"id":"6a48adb764b833c6","x":140,"y":-220,"width":280,"height":100,"type":"text","text":"Make sure that it is cheap enough for it to be actually implemented."},
+		{"id":"bcdc57cb48318ba9","x":100,"y":30,"width":250,"height":60,"type":"text","text":"Make sure to lower the incentive to steal it."},
+		{"id":"8bff2546f9ca9c86","x":-500,"y":200,"width":250,"height":60,"type":"text","text":"The tradeoff between Accuracy & Cost"},
+		{"id":"8b4bf7b5c16b2b02","x":-960,"y":460,"width":180,"height":60,"type":"text","text":"## Accuracy"},
+		{"id":"975ce02d75a9e52f","x":-810,"y":740,"width":350,"height":98,"type":"text","text":"Something like a mass spectrometer would be very good, but very expensive"},
+		{"id":"20a58aad0762705f","x":-1350,"y":688,"width":390,"height":101,"type":"text","text":"Thermochromic pigments in the tap might be cheaper, but issues with water around it heating up to create a local variance."}
+	],
+	"edges":[
+		{"id":"a7df3861d7cab645","fromNode":"57baae78c2c5d6ae","fromSide":"top","toNode":"6a48adb764b833c6","toSide":"left"},
+		{"id":"8cd09080d7936bdf","fromNode":"57baae78c2c5d6ae","fromSide":"bottom","toNode":"bcdc57cb48318ba9","toSide":"left"},
+		{"id":"77722b32b4c7e586","fromNode":"57baae78c2c5d6ae","fromSide":"left","toNode":"8bff2546f9ca9c86","toSide":"top"},
+		{"id":"7335cc9e5d481223","fromNode":"8b4bf7b5c16b2b02","fromSide":"top","toNode":"8bff2546f9ca9c86","toSide":"left"},
+		{"id":"fe4d8f7181e6c5d3","fromNode":"8b4bf7b5c16b2b02","fromSide":"bottom","toNode":"975ce02d75a9e52f","toSide":"top"},
+		{"id":"7f1ccd3cbfcaa34d","fromNode":"8b4bf7b5c16b2b02","fromSide":"left","toNode":"20a58aad0762705f","toSide":"top"}
+	]
+}
