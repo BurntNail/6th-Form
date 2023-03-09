@@ -2,7 +2,7 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "strictLineBreaks": true,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "spellcheck": true,
   "readableLineLength": false,
   "pdfExportSettings": {
