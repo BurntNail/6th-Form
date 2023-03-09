@@ -13,16 +13,28 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Exam Paper Technique/Principles/Planned Obselescense.canvas",
+                "file": "Lesson Notes/Design Engineering/Exam Paper Technique/Problem Solving/Sanitation Mindmap.canvas",
                 "viewState": {
-                  "x": 2214.5,
-                  "y": 891.5,
-                  "zoom": -1.3510458758673012
-                }
+                  "x": -447,
+                  "y": 800,
+                  "zoom": -1.0421292915135913                }
+              }
+            }
+          },
+          {
+            "id": "0f816ff30206b082",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson Notes/Design Engineering/Exam Paper Technique/Principles/Planned Obsolescence Essay.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +171,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "cf555f53e5adfa6a",
+  "active": "0f816ff30206b082",
   "lastOpenFiles": [
     "Lesson Notes/Design Engineering/Exam Paper Technique/Principles/Planned Obselescense.canvas",
     "Lesson Notes/Design Engineering/Exam Paper Technique/Principles/stokketripptrapp.jpg",
@@ -177,7 +189,6 @@
     "Lesson Notes/Design Engineering/Learning from Existing Products & Practice/Marketing Homework Photos/art-deco-3.png",
     "Lesson Notes/Design Engineering/Learning from Existing Products & Practice/Marketing Homework Photos/guts.png",
     "Lesson Notes/Design Engineering/Learning from Existing Products & Practice/Marketing Homework Photos",
-    "Lesson Notes/Design Engineering/Exam Paper Technique/Problem Solving/Sanitation Mindmap.canvas",
     "Lesson Notes/Physics/Particle Physics/Subatomic Particles/Hadrons.md",
     "Lesson Notes/Physics/Particle Physics/Subatomic Particles/Leptons.md",
     "Lesson Notes/Physics/Particle Physics/The Particle Zoo.md",
