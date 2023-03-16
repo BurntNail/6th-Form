@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "abad12d22c178492",
+        "id": "f3253ffe4b5903ca",
         "type": "tabs",
         "children": [
           {
-            "id": "cf555f53e5adfa6a",
+            "id": "1574e7e1ee1af1e9",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -73,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "d69461ae8e2f98ce",
@@ -179,7 +180,6 @@
     "Lesson Notes/Design Engineering/Exam Paper Technique/Principles/stokketripptrapp.jpg",
     "Lesson Notes/Design Engineering/Exam Paper Technique/Principles/Testing Methods.canvas",
     "Lesson Notes/Design Engineering/Exam Paper Technique",
-    "Lesson Notes/Design Engineering/Learning from Existing Products & Practice/Marketing Homework - Prey.canvas",
     "Lesson Notes/Design Engineering/Exam Paper Technique/Principles",
     "Lesson Notes/Design Engineering/Learning from Existing Products & Practice/Marketing Homework Photos/mooncrash-atrium-2.jpg",
     "Lesson Notes/Design Engineering/Learning from Existing Products & Practice/Marketing Homework Photos/mooncrash-atrium.jpg",
@@ -189,7 +189,6 @@
     "Lesson Notes/Design Engineering/Learning from Existing Products & Practice/Marketing Homework Photos/explosion.jpg",
     "Lesson Notes/Design Engineering/Learning from Existing Products & Practice/Marketing Homework Photos/guts-2.jpg",
     "Lesson Notes/Design Engineering/Learning from Existing Products & Practice/Marketing Homework Photos/art-deco-3.png",
-    "Lesson Notes/Design Engineering/Learning from Existing Products & Practice/Marketing Homework Photos/guts.png",
     "Lesson Notes/Design Engineering/Learning from Existing Products & Practice/Marketing Homework Photos",
     "Lesson Notes/Physics/Particle Physics/Subatomic Particles/Leptons/Muon.md",
     "Lesson Notes/Physics/Particle Physics/Subatomic Particles/Conservation Law Examples.canvas",
