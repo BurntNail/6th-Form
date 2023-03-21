@@ -2,7 +2,7 @@
   "baseFontSize": 16,
   "translucency": false,
   "baseFontSizeAction": false,
-  "cssTheme": "",
-  "theme": "moonstone",
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
   "accentColor": ""
 }
