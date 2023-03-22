@@ -11,11 +11,34 @@
             "id": "e29ca4fbf0b98f34",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/NEA Initial Ideas.canvas",
+                "viewState": {
+                  "x": 2195.1495455825034,
+                  "y": 1222.93828874029,
+                  "zoom": -0.7687694176114209
+                }
+              }
+            }
+          },
+          {
+            "id": "d1bcb0e1298d8e5a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Further Exploration of Hiking safety thing.canvas",
+                "viewState": {
+                  "x": 175.79216696591482,
+                  "y": 712.5758267600261,
+                  "zoom": -0.7650920439106388
+                }
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GCSEs/Dataview/GCSE Dataviewer.md",
+                "file": "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Further Exploration of Hiking safety thing.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -98,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GCSEs/Dataview/GCSE Dataviewer.md",
+                "file": "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Further Exploration of Hiking safety thing.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GCSEs/Dataview/GCSE Dataviewer.md"
+                "file": "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Further Exploration of Hiking safety thing.canvas"
               }
             }
           },
@@ -152,9 +175,10 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "281187835a67ef20",
+  "active": "d1bcb0e1298d8e5a",
   "lastOpenFiles": [
     "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/NEA Initial Ideas.canvas",
+    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Further Exploration of Hiking safety thing.canvas",
     "Untitled.md",
     "Lesson Notes/Design Engineering/Implications of Wider Issues/Timbers/Forestry Stewardship Council.md",
     "Lesson Notes/Design Engineering/Exam Paper Technique/Principles/Legislation PPQ.canvas",
