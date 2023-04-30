@@ -11,25 +11,13 @@
             "id": "e29ca4fbf0b98f34",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lesson Notes/Physics/Particle Physics/Subatomic Particles/Leptons/Electron Neutrino.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7626ac1b840416df",
-            "type": "leaf",
-            "state": {
               "type": "canvas",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Further Exploration of Hiking safety thing.canvas",
+                "file": "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Mindmaps/Skiing.canvas",
                 "viewState": {
-                  "x": 796,
-                  "y": 1815,
-                  "zoom": -2.2181954070228382
+                  "x": 0,
+                  "y": 0.5,
+                  "zoom": -0.5805606817735102
                 }
               }
             }
@@ -82,8 +70,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,8 +116,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Further Exploration of Hiking safety thing.canvas",
+                "file": "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Mindmaps/Skiing.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Further Exploration of Hiking safety thing.canvas",
+                "file": "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Mindmaps/Skiing.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Further Exploration of Hiking safety thing.canvas"
+                "file": "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Mindmaps/Skiing.canvas"
               }
             }
           },
@@ -221,24 +207,30 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "7626ac1b840416df",
+  "active": "e29ca4fbf0b98f34",
   "lastOpenFiles": [
-    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Further Exploration of Hiking safety thing.canvas",
+    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Mindmaps/Powerboating.canvas",
+    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Mindmaps/Hiking.canvas",
+    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Mindmaps/Expected Time Home.canvas",
+    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Mindmaps/Further Exploration of Hiking safety thing.canvas",
+    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Mindmaps/Skiing.canvas",
+    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Mindmaps",
+    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Photos/garmin gps.jpg",
+    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Photos/crib goch.jpg",
+    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Photos/20_shovel-ski-trip_PESKITRIPV1_3-4154906884.jpg",
+    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Photos",
     "Lesson Notes/Physics/Particle Physics/Wave-Particle Duality.md",
-    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/bad life jacket.jpg",
-    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/good life jacket.jpg",
-    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/rya.png",
-    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/kill cord.jpg",
-    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/garmin gps.jpg",
-    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/crib goch.jpg",
+    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Photos/bad life jacket.jpg",
+    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Photos/good life jacket.jpg",
+    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Photos/rya.png",
+    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Photos/kill cord.jpg",
     "hi-avalanche-control-bomb-ap 2.avif",
-    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/NEA Initial Ideas.canvas",
-    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/cornice.webp",
-    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/20_shovel-ski-trip_PESKITRIPV1_3-4154906884.jpg",
-    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/hi-avalanche-control-bomb-ap.jpg",
+    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Photos/NEA Initial Ideas.canvas",
+    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Photos/cornice.webp",
+    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Photos/hi-avalanche-control-bomb-ap.jpg",
     "hi-avalanche-control-bomb-ap 1.avif",
     "hi-avalanche-control-bomb-ap.avif",
-    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/alpinist-on-snow-cornice-at-sunset-jonathan-griffith.jpg",
+    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Photos/alpinist-on-snow-cornice-at-sunset-jonathan-griffith.jpg",
     "Lesson Notes/Design Engineering/Learning from Existing Products & Practice/Marketing Homework - Prey.canvas",
     "Lesson Notes/Physics/Particle Physics/Subatomic Particles/Hadrons.md",
     "Lesson Notes/Physics/Particle Physics/The Photoelectric Effect.md",
@@ -264,7 +256,6 @@
     "Lesson Notes/Design Engineering/Exam Paper Technique",
     "Lesson Notes/Design Engineering/Exam Paper Technique/Principles",
     "Lesson Notes/Design Engineering/Learning from Existing Products & Practice/Marketing Homework Photos",
-    "Lesson Notes/Physics/Particle Physics/Subatomic Particles/Conservation Law Examples.canvas",
     "Lesson Notes/Physics/Particle Physics/Subatomic Particles/Conservation Law Examples/Beta-Minus Decay.md",
     "Lesson Notes/Design Engineering/Learning from Existing Products & Practice/Product Lifecycle.md",
     "Lesson Notes/Design Engineering/Learning from Existing Products & Practice/Teardown Pictures.md",
@@ -272,9 +263,7 @@
     "Lesson Notes/Design Engineering/Health & Safety/British Standards.md",
     "Lesson Notes/Design Engineering/Health & Safety/COSHH.md",
     "Lesson Notes/Physics/Particle Physics/Energy Levels.md",
-    "Lesson Notes/Design Engineering/Exam Paper Technique/Problem Solving",
     "Lesson Notes/Physics/Particle Physics/Isotopes.md",
-    "Lesson Notes/Physics/Particle Physics/Energy Levels 1.md",
-    "Lesson Notes/Design Engineering/Technical Understanding/Electronic Systems/Interfacing with Microcontrollers.canvas"
+    "Lesson Notes/Physics/Particle Physics/Energy Levels 1.md"
   ]
 }

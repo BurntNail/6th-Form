@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"type":"group","id":"5c6537594ffaf152","x":-1341,"y":-720,"width":2683,"height":1440,"color":"3","label":"Powerboating"},
+		{"type":"text","text":"All sensible boat drivers wear kill cords, which are usually strapped around the driver's leg, and attached to an anchoring point in the boat. If the driver moves away from the seat, the kill cord stays with them, gets detached from the anchor point, and the boat engine immediately cuts out.","id":"ac55d9b7bbf1f7b1","x":-292,"y":-147,"width":394,"height":207},
+		{"type":"text","text":"https://www.coastwatersports.co.uk/images/products/Universal_Kill_Cord_Set.JPG","id":"06056c182de36111","x":125,"y":-264,"width":422,"height":60},
+		{"type":"file","file":"Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Photos/rya.png","id":"b1c5d7df4f410df4","x":262,"y":-53,"width":400,"height":188},
+		{"type":"text","text":"If the driver falls out of the boat, but the engine remains active, the boat often starts going round in circles, killing the people who fell out via the propeller.","id":"30c0ea6531b09131","x":-1021,"y":-81,"width":343,"height":161},
+		{"type":"text","text":"### Power Boating","id":"88ce3dbaa325057c","x":-1321,"y":110,"width":223,"height":50},
+		{"type":"text","text":"Kill Cord","id":"831916768fa96e96","x":-508,"y":-61,"width":114,"height":60},
+		{"type":"file","file":"Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Photos/good life jacket.jpg","id":"df79ac632fd25bf5","x":774,"y":-488,"width":400,"height":400},
+		{"type":"file","file":"Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Photos/kill cord.jpg","id":"c8bf72f0752bfd8a","x":136,"y":-700,"width":400,"height":400},
+		{"type":"text","text":"https://guide.sportsmansguide.com/wp-content/uploads/Felshers-Life-Jacket-Buying-Guide-217998_ts1.jpg","id":"88995b8ef653a824","x":749,"y":-667,"width":451,"height":81},
+		{"type":"text","text":"Man Overboard - if someone falls out of the boat, they get dragged by the current far faster than the boat (less mass, and more surface area in the water) and can easily be lost. If they aren't wearing a life jacket and can't swim, they could easily drown. If the water is cold, they could get hypothermia.","id":"b61699b2a936e957","x":-1021,"y":116,"width":383,"height":224},
+		{"type":"text","text":"Sensible people in boats always wear life jackets, which are designed to keep a person floating in the water, as well as to keep their mouth and the rest of their head out of the water to ensure they can still float in the water if they can't swim.\n\nThe main issues come from improper life jackets - for example, lots of water sports life jackets are sold, but these are less effective as they take up less space to allow increased mobility for people doing water sports. If a person wears a life jacket with inadequate buoyancy they will still sink, just more slowly.","id":"3d14657db6a6a824","x":-265,"y":360,"width":427,"height":340},
+		{"type":"text","text":"Life Jackets","id":"5c33022c68450236","x":-558,"y":400,"width":140,"height":60},
+		{"type":"text","text":"https://www.overtons.com/dw/image/v2/BCJK_PRD/on/demandware.static/-/Sites-global-master-catalog/default/dw3a9b384b/images/large/308356_BLCK_1.jpg?sw=600&sh=600&sm=fit","id":"a30d8939837ec8cd","x":790,"y":42,"width":384,"height":166},
+		{"type":"text","text":"Qualifications","id":"285f4995fee267da","x":-524,"y":130,"width":182,"height":60},
+		{"type":"file","file":"Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Photos/bad life jacket.jpg","id":"5f1f008d4a159773","x":782,"y":247,"width":400,"height":400},
+		{"type":"text","text":"http://www.theboatinghub.com/sailing-blog/wp-content/uploads/2014/08/RYA-Logo.png","id":"08276f777be6c2a8","x":208,"y":178,"width":508,"height":60},
+		{"type":"text","text":"The RYA (Royal Yachting Association) offers powerboating courses where you learn to properly operate the boat, including how to recover a man overboard without catching them under the propeller.","id":"5562dd0554bde2fa","x":-265,"y":135,"width":327,"height":205}
+	],
+	"edges":[
+		{"id":"000324b6f1c5c83a","fromNode":"30c0ea6531b09131","fromSide":"right","toNode":"831916768fa96e96","toSide":"left"},
+		{"id":"016c3b63f2029bae","fromNode":"88ce3dbaa325057c","fromSide":"right","toNode":"30c0ea6531b09131","toSide":"left"},
+		{"id":"958780a9423c45ce","fromNode":"b61699b2a936e957","fromSide":"right","toNode":"285f4995fee267da","toSide":"left"},
+		{"id":"89c47ec6139222a5","fromNode":"b61699b2a936e957","fromSide":"right","toNode":"5c33022c68450236","toSide":"left"},
+		{"id":"555e2fb5e800fa9f","fromNode":"88ce3dbaa325057c","fromSide":"right","toNode":"b61699b2a936e957","toSide":"left"},
+		{"id":"638fb1f8140ddb18","fromNode":"3d14657db6a6a824","fromSide":"right","toNode":"5f1f008d4a159773","toSide":"left"},
+		{"id":"0359a089deab640a","fromNode":"5c33022c68450236","fromSide":"right","toNode":"3d14657db6a6a824","toSide":"left"},
+		{"id":"535b3b9ec6491cec","fromNode":"831916768fa96e96","fromSide":"right","toNode":"ac55d9b7bbf1f7b1","toSide":"left"},
+		{"id":"9e906e360619952a","fromNode":"ac55d9b7bbf1f7b1","fromSide":"top","toNode":"c8bf72f0752bfd8a","toSide":"left"},
+		{"id":"b54eb6d7a844ff82","fromNode":"c8bf72f0752bfd8a","fromSide":"bottom","toNode":"06056c182de36111","toSide":"top"},
+		{"id":"f36b07a0e538a7d0","fromNode":"5f1f008d4a159773","fromSide":"top","toNode":"a30d8939837ec8cd","toSide":"bottom"},
+		{"id":"e45a120d8ed6b4cf","fromNode":"b1c5d7df4f410df4","fromSide":"bottom","toNode":"08276f777be6c2a8","toSide":"top"},
+		{"id":"b6df5d456c7255d7","fromNode":"5562dd0554bde2fa","fromSide":"right","toNode":"b1c5d7df4f410df4","toSide":"left"},
+		{"id":"e35c1498a24d385c","fromNode":"df79ac632fd25bf5","fromSide":"top","toNode":"88995b8ef653a824","toSide":"bottom"},
+		{"id":"cef933f05fadcd5a","fromNode":"5f1f008d4a159773","fromSide":"right","toNode":"df79ac632fd25bf5","toSide":"right"},
+		{"id":"392e634cef49c547","fromNode":"285f4995fee267da","fromSide":"right","toNode":"5562dd0554bde2fa","toSide":"left"}
+	]
+}

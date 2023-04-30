@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"type":"group","id":"c12a9f906f3ce209","x":-1027,"y":-340,"width":2054,"height":681,"color":"4","label":"Hiking"},
+		{"type":"text","text":"GPS Trackers","id":"8336511ddef994f5","x":-115,"y":146,"width":153,"height":60},
+		{"type":"text","text":"https://ichef.bbci.co.uk/news/976/cpsprodpb/9971/production/_114718293_cribgoch_geograph-3720120-by-ian-capper.jpg","id":"e51da6db6b07c974","x":-132,"y":-308,"width":540,"height":60},
+		{"type":"text","text":"If the hikers aren't careful and are near cliffs, they might fall off the edge of the trail into a cliff.\n\nThe only solution to this is to be more careful. On lots of hiking routes, there isn't anywhere to connect ropes or other safety mechanisms, and rails are often not used.","id":"975d3e8f21a48742","x":-653,"y":-48,"width":451,"height":180},
+		{"type":"text","text":"Hikers might also get lost if the trails are unclear or remote. Phone reception is also often scant in these areas, which could compound the issue.","id":"17e86bd3f5b81576","x":-659,"y":209,"width":397,"height":103},
+		{"type":"text","text":"### Hiking","id":"f59614f1baba1f76","x":-1007,"y":63,"width":116,"height":68},
+		{"type":"text","text":"https://www.bhphotovideo.com/images/images2000x2000/garmin_010_00970_10_etrex_20_gps_unit_1139093.jpg","id":"4be0449d58d13d92","x":510,"y":261,"width":497,"height":60},
+		{"type":"file","file":"Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Photos/garmin gps.jpg","id":"7988d66040bb1350","x":558,"y":-320,"width":400,"height":400},
+		{"type":"file","file":"Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Photos/crib goch.jpg","id":"20fc8be5a92c1612","x":-62,"y":-228,"width":400,"height":225},
+		{"type":"text","text":"To get around the lack of reception, hikers might choose to take GPS trackers with them, which directly communicate with satellites to give an accurate locational fix.","id":"d7d68d687b8f221e","x":149,"y":80,"width":309,"height":152}
+	],
+	"edges":[
+		{"id":"6e8dcd9e33ac525a","fromNode":"8336511ddef994f5","fromSide":"right","toNode":"d7d68d687b8f221e","toSide":"left"},
+		{"id":"6425c24f83e2c7f3","fromNode":"17e86bd3f5b81576","fromSide":"right","toNode":"8336511ddef994f5","toSide":"left"},
+		{"id":"41805a60168e4cdf","fromNode":"20fc8be5a92c1612","fromSide":"top","toNode":"e51da6db6b07c974","toSide":"bottom"},
+		{"id":"14b532bdefde15e9","fromNode":"975d3e8f21a48742","fromSide":"right","toNode":"20fc8be5a92c1612","toSide":"left"},
+		{"id":"1ef23df61b533273","fromNode":"f59614f1baba1f76","fromSide":"right","toNode":"975d3e8f21a48742","toSide":"left"},
+		{"id":"f665655cb9b4477d","fromNode":"f59614f1baba1f76","fromSide":"right","toNode":"17e86bd3f5b81576","toSide":"left"},
+		{"id":"7aa3227e98073fec","fromNode":"7988d66040bb1350","fromSide":"bottom","toNode":"4be0449d58d13d92","toSide":"top"},
+		{"id":"081e184a30f5413f","fromNode":"d7d68d687b8f221e","fromSide":"right","toNode":"7988d66040bb1350","toSide":"bottom"}
+	]
+}
