@@ -3,15 +3,13 @@
   "table-editor-obsidian",
   "better-word-count",
   "file-tree-alternative",
-  "find-unlinked-files",
   "dataview",
-  "metaedit",
   "customjs",
   "obsidian-sortable",
   "obsidian-citation-plugin",
   "better-pdf-plugin",
-  "obsidian-desmos",
-  "note-refactor-obsidian",
   "obsidian-latex-suite",
-  "cm-typewriter-scroll-obsidian"
+  "cm-typewriter-scroll-obsidian",
+  "obsidian-advanced-slides",
+  "obsidian-excalidraw-plugin"
 ]
