@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8170c43192bac5b5",
+        "id": "9e7fcf86e21bc315",
         "type": "tabs",
         "children": [
           {
-            "id": "7a12a0c453d25059",
+            "id": "88a923e829900fda",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Mindmaps/Skiing.canvas",
-                "viewState": {
-                  "x": 3368.5,
-                  "y": 116,
-                  "zoom": -0.685339905576677
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -51,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\\pi^+",
+                "query": "Pitch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Mindmaps/Skiing.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Mindmaps/Skiing.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Mindmaps/Skiing.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -159,7 +148,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -167,11 +155,18 @@
       "markdown-importer:Open format converter": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7a12a0c453d25059",
+  "active": "88a923e829900fda",
   "lastOpenFiles": [
+    "Lesson Notes/Design Engineering/Technical Understanding/Gears/Screw Threads.md",
+    "Lesson Notes/Design Engineering/Technical Understanding/Gears/Pitch Circle Diameter and Module.md",
+    "Lesson Notes/Design Engineering/Exam Paper Technique/Problem Solving/Notes from 2023 summer exam.md",
+    "Lesson Notes/Design Engineering/Exam Paper Technique/Problem Solving/Baby Milk Critical Evalutation.md",
+    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/NEA References.md",
+    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Mindmaps/Skiing.canvas",
     "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Photos/NEA Initial Ideas.canvas",
     "Lesson Notes/Physics/Particle Physics/Subatomic Particles/Hadrons.md",
     "Lesson Notes/Physics/Particle Physics/Subatomic Particles/Leptons.md",
@@ -207,7 +202,6 @@
     "Slide Test.md",
     "Slides Tester.md",
     "Lesson Notes/Physics/Particle Physics/Wave-Particle Duality.md",
-    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Mindmaps/Skiing.canvas",
     "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Mindmaps/Powerboating.canvas",
     "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Mindmaps/Hiking.canvas",
     "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Mindmaps/Expected Time Home.canvas",
@@ -222,10 +216,6 @@
     "Lesson Notes/Design Engineering/Implications of Wider Issues/Environmental Directives/Restriction of Hazardous Substances.md",
     "Lesson Notes/Design Engineering/Exam Paper Technique/Problem Solving/Sanitation Mindmap.canvas",
     "Sources/@RegulationsRestrictionHazardous.md",
-    "Lesson Notes/Physics/Particle Physics/The Particle Zoo.md",
-    "Lesson Notes/Physics/Particle Physics/Subatomic Particles/Particle Zoo Homework.md",
-    "Lesson Notes/Design Engineering/Exam Paper Technique/Principles/Planned Obsolescence Essay.md",
-    "Lesson Notes/Design Engineering/Exam Paper Technique/Principles/Planned Obselescense.canvas",
-    "Lesson Notes/Physics/Particle Physics/Subatomic Particles/Conservation Law Examples/Beta-Minus Decay.md"
+    "Lesson Notes/Design Engineering/Exam Paper Technique/Principles/Planned Obselescense.canvas"
   ]
 }
