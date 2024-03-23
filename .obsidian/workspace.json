@@ -11,8 +11,15 @@
             "id": "88a923e829900fda",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Mindmaps/Product Names - Attachment.canvas",
+                "viewState": {
+                  "x": 70.5,
+                  "y": 32,
+                  "zoom": 0
+                }
+              }
             }
           }
         ]
@@ -90,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Mindmaps/Product Names - Attachment.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Mindmaps/Product Names - Attachment.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Mindmaps/Product Names - Attachment.canvas"
+              }
             }
           },
           {
@@ -161,6 +172,9 @@
   },
   "active": "88a923e829900fda",
   "lastOpenFiles": [
+    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Mindmaps/Product Names - Windsurfing.canvas",
+    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Mindmaps/Product Names - Attachment.canvas",
+    "Lesson Notes/Design Engineering/Exam Paper Technique/NEA/Mindmaps/Product Names.md",
     "Lesson Notes/Design Engineering/Technical Understanding/Gears/Screw Threads.md",
     "Lesson Notes/Design Engineering/Technical Understanding/Gears/Pitch Circle Diameter and Module.md",
     "Lesson Notes/Design Engineering/Exam Paper Technique/Problem Solving/Notes from 2023 summer exam.md",
@@ -213,9 +227,6 @@
     "Lesson Notes/Physics/Electricity/General/Electromotive Force.md",
     "Lesson Notes/Design Engineering/Implications of Wider Issues/Timbers/Forestry Stewardship Council.md",
     "Lesson Notes/Design Engineering/Exam Paper Technique/Principles/Legislation PPQ.canvas",
-    "Lesson Notes/Design Engineering/Implications of Wider Issues/Environmental Directives/Restriction of Hazardous Substances.md",
-    "Lesson Notes/Design Engineering/Exam Paper Technique/Problem Solving/Sanitation Mindmap.canvas",
-    "Sources/@RegulationsRestrictionHazardous.md",
-    "Lesson Notes/Design Engineering/Exam Paper Technique/Principles/Planned Obselescense.canvas"
+    "Lesson Notes/Design Engineering/Exam Paper Technique/Problem Solving/Sanitation Mindmap.canvas"
   ]
 }
